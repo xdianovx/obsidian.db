@@ -149,5 +149,7 @@ done
 chmod +x /root/ipsec  
 sh /root/ipsec
 ```
-```
+```bash
+chmod +x /root/ipsec
+sh /root/ipsec
 ```
