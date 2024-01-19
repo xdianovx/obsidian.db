@@ -4,6 +4,9 @@ https://my.justhost.ru/
 dianov.js@gmail.com
 7D5g123b
 
+Login: root  
+Password: 5t2kH8hQc2cKuH7
+
 Обновляем систему
 ```bash
 sudo apt update && sudo apt upgrade
