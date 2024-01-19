@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Идеи.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Идеи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Идеи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Идеи.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "d023101e40b1e871",
   "lastOpenFiles": [
+    "Welcome.md",
     "Горячие клавиши.md",
     "Канбан.md",
     "Obsidian.md",
@@ -154,7 +155,6 @@
     "2024-01-19.md",
     "_templates/Main Note.md",
     "Как использовать Git и Obsidian.md",
-    "Welcome.md",
     "_templates"
   ]
 }
