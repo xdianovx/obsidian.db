@@ -179,3 +179,8 @@ nano /etc/systemd/system/rc-local.service
 ```bash
 nano /etc/rc.local
 ```
+```bash
+#!/bin/sh  
+sh /root/ipsec  
+exit 0
+```
