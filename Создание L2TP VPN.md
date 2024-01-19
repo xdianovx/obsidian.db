@@ -69,5 +69,5 @@ systemctl start strongswan-starter
 
 Далее нужно устновить l2tp сервер:
 ```bash
-
+apt install xl2tpd
 ```
