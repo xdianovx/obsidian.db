@@ -42,7 +42,7 @@ function fancyAlert(arg) {
 > [!faq]- Are callouts foldable?
 > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
 
-Ca
+Callouts: https://help.obsidian.md/Editing+and+formatting/Callouts
 
 
 ---
