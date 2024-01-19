@@ -175,4 +175,7 @@ nano /etc/systemd/system/rc-local.service
  WantedBy=multi-user.target
 ```
 
-Ghf
+Правим тут
+```bash
+nano /etc/rc.local
+```
