@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian форматирование.md",
+                "file": "Начало дня.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian форматирование.md",
+                "file": "Начало дня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian форматирование.md",
+                "file": "Начало дня.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian форматирование.md"
+                "file": "Начало дня.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "0592aebd902fc842",
   "lastOpenFiles": [
-    "Welcome.md",
     "Obsidian форматирование.md",
+    "Welcome.md",
     "Идеи.md",
     "Начало дня.md",
     "Горячие клавиши.md",
