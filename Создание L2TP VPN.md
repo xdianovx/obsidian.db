@@ -14,6 +14,8 @@ sudo apt update && sudo apt upgrade
 passwd
 ```
 
+Далее ставим strongswan для настройки ipsec:
 ```bash
 apt install strongswan
 ```
+
