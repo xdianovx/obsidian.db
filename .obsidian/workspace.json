@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0592aebd902fc842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian форматирование.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian форматирование.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian форматирование.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian форматирование.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -158,10 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0592aebd902fc842",
+  "active": "8d6d49168d8334c1",
   "lastOpenFiles": [
-    "Начало дня.md",
     "Obsidian форматирование.md",
+    "Начало дня.md",
     "Welcome.md",
     "Идеи.md",
     "Горячие клавиши.md",
