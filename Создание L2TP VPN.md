@@ -61,9 +61,9 @@ nano /etc/ipsec.secrets
 %any %any : PSK "verysecretipseckey"
 ```
 
-
 Включаем и запускаем службу:
 ```bash
 systemctl enable strongswan-starter
 systemctl start strongswan-starter
 ```
+
