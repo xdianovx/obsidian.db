@@ -71,3 +71,8 @@ systemctl start strongswan-starter
 ```bash
 apt install xl2tpd
 ```
+
+Правим конфиги:
+```bash
+
+```
