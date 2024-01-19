@@ -96,3 +96,7 @@ name = l2tp-vpn
 pppoptfile = /etc/ppp/options.xl2tpd  
 flow bit = yes
 ```
+
+Правим опции:
+
+nano /etc/ppp/options.xl2tpd
