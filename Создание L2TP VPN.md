@@ -14,4 +14,6 @@ sudo apt update && sudo apt upgrade
 passwd
 ```
 
-``
+```bash
+apt install strongswan
+```
