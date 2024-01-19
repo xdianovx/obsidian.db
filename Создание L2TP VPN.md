@@ -19,4 +19,8 @@ passwd
 apt install strongswan
 ```
 
-Настраивае
+Настраиваем
+```bash
+nano /etc/ipsec.conf
+```
+
