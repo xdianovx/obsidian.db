@@ -38,6 +38,7 @@ function fancyAlert(arg) {
 | Содержимое первой колонки | Содержимое второй колонки |
 |  |  |
 |  |  |
+|  |  |
 
 > [!tip] Title-only callout
 
