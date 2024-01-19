@@ -6,5 +6,5 @@ dianov.js@gmail.com
 
 
 ```bash
-sudo apt udp
+sudo apt update && sudo ap
 ```
