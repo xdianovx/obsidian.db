@@ -16,21 +16,8 @@
                 "file": "Канбан.md"
               }
             }
-          },
-          {
-            "id": "34b208b557857158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Создание L2TP VPN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Создание L2TP VPN.md",
+                "file": "Канбан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Создание L2TP VPN.md",
+                "file": "Канбан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Создание L2TP VPN.md"
+                "file": "Канбан.md"
               }
             }
           }
@@ -156,10 +143,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34b208b557857158",
+  "active": "8d6d49168d8334c1",
   "lastOpenFiles": [
+    "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Windows Terminal Theme.md",
-    "Создание L2TP VPN.md",
     "Канбан.md",
     "Начало дня.md",
     "Welcome.md",
