@@ -121,3 +121,10 @@ require-mschap-v2
 multilink  
 mppe-stateful
 ```
+
+И добавляем пользователей:
+```
+
+nano /etc/ppp/chap-secrets
+```
+```
