@@ -11,9 +11,11 @@
             "id": "8d6d49168d8334c1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Канбан.md"
+                "file": "Горячие клавиши.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Горячие клавиши.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Горячие клавиши.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Горячие клавиши.md"
               }
             }
           }
@@ -168,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f188b0469da5ef5f",
+  "active": "8d6d49168d8334c1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Сайты агенств и студий.md",
     "Канбан.md",
+    "Сайты агенств и студий.md",
+    "Untitled.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Windows Terminal Theme.md",
     "Начало дня.md",
