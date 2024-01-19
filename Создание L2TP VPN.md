@@ -76,3 +76,23 @@ apt install xl2tpd
 ```bash
 nano /etc/xl2tpd/xl2tpd.conf
 ```
+
+```bash
+[global]  
+port = 1701  
+auth file = /etc/ppp/chap-secrets  
+access control = no  
+ipsec saref = yes  
+force userspace = yes  
+  
+[lns default]  
+exclusive = no  
+ip range = 10.32.100.100-10.32.100.199  
+hidden bit = no  
+local ip = 10.32.100.1  
+length bit = yes  
+require authentication = yes  
+name = l2tp-vpn  
+pppoptfile = /etc/ppp/options.xl2tpd  
+flow bit = yes
+```
