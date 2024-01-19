@@ -24,3 +24,4 @@ apt install strongswan
 nano /etc/ipsec.conf
 ```
 
+Настройк
