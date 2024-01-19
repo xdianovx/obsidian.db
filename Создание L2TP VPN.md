@@ -49,3 +49,7 @@ conn l2tp-vpn
     type=transport  
     auto=add
 ```
+
+Далее добавим секретный ключ для ipsec:
+```bash
+```
