@@ -126,3 +126,8 @@ mppe-stateful
 ```bash
 nano /etc/ppp/chap-secrets
 ```
+
+```bash
+systemctl enable xl2tpd
+systemctl start xl2tpd
+```
