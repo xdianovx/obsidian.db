@@ -101,5 +101,23 @@ flow bit = yes
 ```bash
 nano /etc/ppp/options.xl2tpd
 ```
-```ba
+```
+ms-dns 8.8.8.8  
+ms-dns 192.168.1.1  
+asyncmap 0  
+auth  
+crtscts  
+lock  
+hide-password  
+modem  
+mtu 1460  
+lcp-echo-interval 30  
+lcp-echo-failure 4  
+noipx  
+refuse-pap  
+refuse-chap  
+refuse-mschap  
+require-mschap-v2  
+multilink  
+mppe-stateful
 ```
