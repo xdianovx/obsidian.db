@@ -7,7 +7,7 @@ dianov.js@gmail.com
 
 92.114.54.103
 Login: root  
-Password: QvL8U3dT9u2D4dP
+Password: 7D5g123b
 
 Обновляем систему
 ```bash
