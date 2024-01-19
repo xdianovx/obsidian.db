@@ -74,5 +74,5 @@ apt install xl2tpd
 
 Правим конфиги:
 ```bash
-
+nano /etc/xl2tpd/xl2tpd.conf
 ```
