@@ -45,7 +45,7 @@ function fancyAlert(arg) {
 [!info]
 [!todo]
 [!warn]
-[!suc]
+[!succes]
 
 
 
