@@ -52,4 +52,5 @@ conn l2tp-vpn
 
 Далее добавим секретный ключ для ipsec:
 ```bash
+nano /etc/ipsec.secrets
 ```
