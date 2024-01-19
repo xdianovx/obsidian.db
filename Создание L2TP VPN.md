@@ -6,5 +6,5 @@ dianov.js@gmail.com
 
 
 ```bash
-sudo apt update && sudo ap
+sudo apt update && sudo apt upgrade
 ```
