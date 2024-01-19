@@ -11,5 +11,5 @@ sudo apt update && sudo apt upgrade
 
 Меняем пароль
 ```bash
-
+passwd
 ```
