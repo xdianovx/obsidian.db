@@ -131,3 +131,6 @@ nano /etc/ppp/chap-secrets
 systemctl enable xl2tpd
 systemctl start xl2tpd
 ```
+
+Редиректы
+ё
