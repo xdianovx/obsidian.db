@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58a988880833c529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Создание L2TP VPN.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Создание L2TP VPN.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Создание L2TP VPN.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -156,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34b208b557857158",
+  "active": "58a988880833c529",
   "lastOpenFiles": [
-    "Канбан.md",
     "Создание L2TP VPN.md",
+    "Untitled.md",
+    "Канбан.md",
     "Начало дня.md",
     "Welcome.md",
     "Obsidian форматирование.md",
