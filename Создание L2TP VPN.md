@@ -4,10 +4,12 @@ https://my.justhost.ru/
 dianov.js@gmail.com
 7D5g123b
 
-
-92.114.54.103
+Доступ по SSH:  
+IP: 92.114.54.92  
+IPv6: 2605:e440:1::1:2b9  
+  
 Login: root  
-Password: 7D5g123b
+Password: 4zQ5Ps6Y7n6aO3l
 
 Обновляем систему
 ```bash
