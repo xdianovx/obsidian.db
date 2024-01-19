@@ -136,3 +136,6 @@ systemctl start xl2tpd
 ```bash
 nano /root/ipsec
 ```
+
+```
+```
