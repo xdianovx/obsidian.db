@@ -4,9 +4,9 @@ https://my.justhost.ru/
 dianov.js@gmail.com
 7D5g123b
 
-Доступ по SSH:  
-IP: 92.114.54.92  
-IPv6: 2605:e440:1::1:2b9  
+
+92.114.54.92  
+
   
 Login: root  
 Password: 4zQ5Ps6Y7n6aO3l
