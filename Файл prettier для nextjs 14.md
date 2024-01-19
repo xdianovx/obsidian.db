@@ -2,7 +2,7 @@
 ```json
 {
   "printWidth": 80,
-  "trailingComma": "all",
+  "trailingComma": "none",
   "singleQuote": true,
   "tabWidth": 2,
   "semi": true,
