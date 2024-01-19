@@ -25,6 +25,7 @@ function fancyAlert(arg) {
 }
 ```
 
+
 ---
 **Дата:** 19.01.2024
 **Теги:** #obsidian #markdown
