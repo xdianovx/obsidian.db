@@ -2,5 +2,5 @@
 
 ---
 **Дата:** 19.01.2024
-**Теги:** #prettie
+**Теги:** #prettier #nextjs #reactr
 **Связи:** [[NextJS]] [[Prettier]] 
