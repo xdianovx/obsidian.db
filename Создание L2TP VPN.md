@@ -123,8 +123,6 @@ mppe-stateful
 ```
 
 И добавляем пользователей:
-```
-
+```bash
 nano /etc/ppp/chap-secrets
-```
 ```
