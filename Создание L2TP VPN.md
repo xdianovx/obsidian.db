@@ -54,3 +54,9 @@ conn l2tp-vpn
 ```bash
 nano /etc/ipsec.secrets
 ```
+```bash
+# This file holds shared secrets or RSA private keys for authentication.  
+# RSA private key for this host, authenticating it to any other host  
+# which knows the public part.  
+%any %any : PSK "verysecretipseckey"
+```
