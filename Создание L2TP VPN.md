@@ -184,3 +184,11 @@ nano /etc/rc.local
 sh /root/ipsec  
 exit 0
 ```
+
+Делаем его исполняемым, включаем и запускаем службу:
+
+```bash
+chmod +x /etc/rc.local
+systemctl enable rc-local
+systemctl start rc-local
+```
