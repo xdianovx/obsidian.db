@@ -194,3 +194,9 @@ systemctl start rc-local
 ```
 
 вырубить systemd-resolved и не паритьс
+
+```bash
+systemctl stop systemd-resolved
+systemctl mask systemd-resolved
+nano /etc/resolv.conf
+```
