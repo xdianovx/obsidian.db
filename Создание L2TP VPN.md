@@ -100,5 +100,4 @@ flow bit = yes
 Правим опции:
 ```bash
 nano /etc/ppp/options.xl2tpd
-=
 ```
