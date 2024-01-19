@@ -8,6 +8,22 @@
 ###### Это заголовок 6
 ```
 
+````
+```js
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+````
+```js
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
 ---
 **Дата:** 19.01.2024
