@@ -24,4 +24,23 @@ apt install strongswan
 nano /etc/ipsec.conf
 ```
 
-Настройк
+Настройки
+```bash
+config setup  
+conn rw-base  
+    fragmentation=yes  
+    dpdaction=clear  
+    dpdtimeout=90s  
+    dpddelay=30s  
+conn l2tp-vpn  
+    also=rw-base  
+    ike=aes128-aes192-aes256-sha1-sha256-modp1024-modp3072  
+    esp=aes128-aes192-aes256-sha1-sha256-modp1024-modp3072  
+    leftsubnet=%dynamic[/1701]  
+    rightsubnet=%dynamic  
+    mark=%unique  
+    leftauth=psk  
+    rightauth=psk  
+    type=transport  
+    auto=add
+```
