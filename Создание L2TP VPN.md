@@ -133,4 +133,6 @@ systemctl start xl2tpd
 ```
 
 Редиректы
-ё
+```bash
+nano /root/ipsec
+```
