@@ -192,3 +192,5 @@ chmod +x /etc/rc.local
 systemctl enable rc-local
 systemctl start rc-local
 ```
+
+вырубить systemd-resolved и не паритьс
