@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Создание L.md",
+                "file": "Создание L2TP VPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Создание L.md",
+                "file": "Создание L2TP VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Создание L.md",
+                "file": "Создание L2TP VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Создание L.md"
+                "file": "Создание L2TP VPN.md"
               }
             }
           }
@@ -159,7 +159,7 @@
   "active": "34b208b557857158",
   "lastOpenFiles": [
     "Канбан.md",
-    "Создание L.md",
+    "Создание L2TP VPN.md",
     "Начало дня.md",
     "Welcome.md",
     "Obsidian форматирование.md",
