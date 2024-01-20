@@ -21,6 +21,8 @@
 ```python
 if True:
     print(1)
+elif:
+	print('asd')
 else:
     print(2)
 ```
