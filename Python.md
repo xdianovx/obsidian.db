@@ -1,7 +1,7 @@
-
-
-
 Пока смотрю https://www.youtube.com/watch?v=wDmPgXhlDIg
+`print()` – это как console.log() в js
+
+
 ---
 **Источник:** 
 **Теги:**
