@@ -1,4 +1,6 @@
 Пока смотрю https://www.youtube.com/watch?v=wDmPgXhlDIg
+- Код исполняется сверху вниз
+- 
 `print()` – это как console.log() в js
 
 
