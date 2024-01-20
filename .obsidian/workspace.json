@@ -11,9 +11,11 @@
             "id": "d023101e40b1e871",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Канбан.md"
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Канбан.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Канбан.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Канбан.md"
+                "file": "Obsidian.md"
               }
             }
           }
@@ -131,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +147,15 @@
   },
   "active": "d023101e40b1e871",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "Идеи.md",
-    "2024-01-19.md",
-    "_templates/Main Note.md",
-    "Как использовать Git и Obsidian.md",
-    "Канбан.md",
-    "Горячие клавиши.md",
     "Welcome.md",
+    "Как использовать Git и Obsidian.md",
+    "Идеи.md",
+    "Горячие клавиши.md",
+    "Obsidian.md",
+    "Канбан.md",
+    "English.md",
+    "_templates/Main Note.md",
+    "2024-01-19.md",
     "_templates"
   ]
 }
