@@ -19,12 +19,15 @@
 
 ## Условные операторы
 ```python
-if True:
-    print(1)
-elif:
-	print('asd')
+x = 1
+y = 1
+
+if x > 0 and y > 0:
+    print('Positive')
+elif x < 0 and y < 0:
+	print('Negative')
 else:
-    print(2)
+    print('Equal')
 ```
 
 ---
