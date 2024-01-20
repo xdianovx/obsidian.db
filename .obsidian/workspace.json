@@ -28,9 +28,21 @@
                 "file": "Канбан.md"
               }
             }
+          },
+          {
+            "id": "a4684f9f6336c6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Канбан.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Канбан.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Канбан.md"
+                "file": "Python.md"
               }
             }
           }
@@ -156,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ed84194521c4880",
+  "active": "a4684f9f6336c6af",
   "lastOpenFiles": [
+    "Канбан.md",
+    "Python.md",
     "Git.md",
     "Файл prettier для nextjs 14.md",
     "Obsidian.md",
@@ -173,7 +187,6 @@
     "Как использовать Git и Obsidian.md",
     "Идеи.md",
     "Горячие клавиши.md",
-    "Канбан.md",
     "English.md",
     "_templates/Main Note.md",
     "2024-01-19.md",
