@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md",
+                "file": "Inbox/Правила ведения Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md",
+                "file": "Inbox/Правила ведения Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md"
+                "file": "Inbox/Правила ведения Obsidian.md"
               }
             }
           }
@@ -239,10 +239,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "48d200d1d229987e",
+  "active": "81b6c9bdbf5e188a",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Inbox/Плагин Tasks для Obsidian.md",
+    "Канбан.md",
+    "Dashboard.md",
     "Inbox/Выношу все из головы.md",
     "Сайты агенств и студий.md",
     "Inbox/Пароли.md",
@@ -265,7 +266,6 @@
     "English.md",
     "NextJS.md",
     "Горячие клавиши.md",
-    "Канбан.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Windows Terminal Theme.md",
     "Начало дня.md",
