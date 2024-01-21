@@ -1,4 +1,3 @@
-/* overdue */
 .card-board-view .card-board-card-highlight-area.critical {
   background-color: red;
 }
