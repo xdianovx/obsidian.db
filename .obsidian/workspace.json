@@ -104,7 +104,19 @@
             }
           },
           {
-            "id": "48d200d1d229987e",
+            "id": "fc82c821a07dd343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Правила ведения Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "622a2b3ca6b374f8",
             "type": "leaf",
             "state": {
               "type": "card-board-view",
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -239,9 +251,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "81b6c9bdbf5e188a",
+  "active": "622a2b3ca6b374f8",
   "lastOpenFiles": [
     "Inbox/Плагин Tasks для Obsidian.md",
+    "Inbox/Правила ведения Obsidian.md",
     "Канбан.md",
     "Dashboard.md",
     "Inbox/Выношу все из головы.md",
@@ -249,7 +262,6 @@
     "Inbox/Пароли.md",
     "Inbox/Task.md",
     "Untitled.md",
-    "Inbox/Правила ведения Obsidian.md",
     "Untitled 1.md",
     "Waiting",
     "SomedayMaybe",
