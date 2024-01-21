@@ -146,7 +146,7 @@
               "type": "markdown",
               "state": {
                 "file": "Inbox/GTD lite.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -281,6 +281,7 @@
   },
   "active": "fc23691bbb0f6248",
   "lastOpenFiles": [
+    "63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "Dashboard.md",
     "Inbox/GTD lite.md",
     "Inbox/Выношу все из головы.md",
@@ -311,7 +312,6 @@
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Windows Terminal Theme.md",
     "2024-01-19.md",
-    "_templates/Main Note.md",
     "_templates"
   ]
 }
