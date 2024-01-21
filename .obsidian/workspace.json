@@ -131,11 +131,9 @@
             "id": "32d662ab8d64641a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": false
+                "file": "63c9b541baf3a61a0e762fb8_GTD Lite 2.png"
               }
             }
           },
@@ -230,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "63c9b541baf3a61a0e762fb8_GTD Lite 2.png"
               }
             }
           }
@@ -293,13 +291,13 @@
   },
   "active": "32d662ab8d64641a",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Начало дня.md",
     "Inbox/WokrFlowy.md",
     "Inbox/Блог по прудуктивности.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
     "63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
-    "Dashboard.md",
     "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
     "Канбан.md",
