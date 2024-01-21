@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiAlertOctagon",
       "FiFolder"
     ],
     "recentlyUsedIconsSize": 5,
@@ -23,5 +24,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "_templates": "FiFolder"
+  "_templates": "FiFolder",
+  "Dashboard.md": "FiAlertOctagon"
 }
