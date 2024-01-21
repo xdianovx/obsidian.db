@@ -80,6 +80,14 @@
             }
           },
           {
+            "id": "6da7b8ddbdccbd44",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
             "id": "0618dbf684c316ca",
             "type": "leaf",
             "state": {
@@ -114,17 +122,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "622a2b3ca6b374f8",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "622a2b3ca6b374f8",
+  "active": "6da7b8ddbdccbd44",
   "lastOpenFiles": [
     "Канбан.md",
     "Начало дня.md",
