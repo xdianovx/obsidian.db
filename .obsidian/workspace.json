@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Inbox/Выношу все из головы.md"
               }
             }
           }
@@ -275,15 +275,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d662ab8d64641a",
+  "active": "0618dbf684c316ca",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
     "Канбан.md",
     "Начало дня.md",
     "Inbox/Task.md",
     "Inbox/Плагин Tasks для Obsidian.md",
-    "Dashboard.md",
     "Сайты агенств и студий.md",
     "Inbox/Пароли.md",
     "Untitled.md",
