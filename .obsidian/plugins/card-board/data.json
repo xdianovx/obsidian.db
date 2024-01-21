@@ -30,16 +30,7 @@
             }
           }
         ],
-        "filters": [
-          {
-            "tag": "tagFilter",
-            "data": "task"
-          },
-          {
-            "tag": "tagFilter",
-            "data": "task/"
-          }
-        ],
+        "filters": [],
         "filterPolarity": "Allow",
         "filterScope": "Both",
         "name": "Main",
