@@ -7,7 +7,7 @@
           {
             "tag": "namedTag",
             "data": {
-              "collapsed": true,
+              "collapsed": false,
               "name": "Inbox",
               "tag": "#task"
             }
