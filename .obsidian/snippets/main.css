@@ -27,3 +27,18 @@
   box-shadow: 0px 0px 2px 2px var(--color-green);
   border-color: var(--color-green);
 }
+
+/* overdue */
+.card-board-view .card-board-card-highlight-area.critical {
+  background-color: red;
+}
+
+/* due today */
+.card-board-view .card-board-card-highlight-area.important {
+  background-color: orange;
+}
+
+/* due after today */
+.card-board-view .card-board-card-highlight-area.good {
+  background-color: green;
+}
