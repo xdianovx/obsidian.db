@@ -19,16 +19,25 @@
               "name": "Inbox.1",
               "tag": ""
             }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 2,
+              "limit": 10000,
+              "name": "Done"
+            }
           }
         ],
         "filters": [
           {
             "tag": "tagFilter",
-            "data": "task/"
+            "data": "task"
           },
           {
             "tag": "tagFilter",
-            "data": "task"
+            "data": "task/"
           }
         ],
         "filterPolarity": "Allow",
