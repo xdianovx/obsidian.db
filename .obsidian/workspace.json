@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Inbox/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Inbox/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Выношу все из головы.md"
+                "file": "Inbox/Task.md"
               }
             }
           }
@@ -218,13 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c51c1cc08e3c133e",
+  "active": "1a5bd9a84c01c49c",
   "lastOpenFiles": [
+    "Inbox/Выношу все из головы.md",
     "Сайты агенств и студий.md",
     "Untitled.md",
     "Inbox/Task.md",
     "Inbox/Пароли.md",
-    "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
     "Untitled 1.md",
     "Waiting",
