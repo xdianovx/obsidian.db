@@ -155,12 +155,8 @@
             "id": "4e2fd90fcc3afba3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Study tips from a ADHD university student..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -230,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Study tips from a ADHD university student..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +242,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Study tips from a ADHD university student..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,9 +263,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/Study tips from a ADHD university student..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -293,8 +285,8 @@
   },
   "active": "4e2fd90fcc3afba3",
   "lastOpenFiles": [
-    "Inbox/GTD lite.md",
     "Inbox/Study tips from a ADHD university student..md",
+    "Inbox/GTD lite.md",
     "63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "Dashboard.md",
     "Inbox/Выношу все из головы.md",
