@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/WokrFlowy.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/WokrFlowy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/WokrFlowy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Inbox/WokrFlowy.md"
               }
             }
           }
@@ -306,7 +306,7 @@
   "active": "a4c10c825a7ffecc",
   "lastOpenFiles": [
     "Начало дня.md",
-    "Inbox/Untitled.md",
+    "Inbox/WokrFlowy.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
     "63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
