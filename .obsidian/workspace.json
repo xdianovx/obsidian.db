@@ -174,9 +174,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c284e6978d0e7d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/WokrFlowy.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/WokrFlowy.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/WokrFlowy.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -303,10 +315,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4c10c825a7ffecc",
+  "active": "c284e6978d0e7d41",
   "lastOpenFiles": [
-    "Начало дня.md",
     "Inbox/WokrFlowy.md",
+    "Inbox/Untitled.md",
+    "Начало дня.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
     "63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
@@ -336,7 +349,6 @@
     "NextJS.md",
     "Горячие клавиши.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
-    "Windows Terminal Theme.md",
     "_templates"
   ]
 }
