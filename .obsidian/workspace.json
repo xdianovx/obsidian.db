@@ -4,45 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "222b3b2bfa881ccb",
+        "id": "3231a3f703167ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "d023101e40b1e871",
+            "id": "8d6d49168d8334c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Файл prettier для nextjs 14.md",
+                "file": "Горячие клавиши.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ed84194521c4880",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Канбан.md"
-              }
-            }
-          },
-          {
-            "id": "a4684f9f6336c6af",
+            "id": "1f9c7a7e488080b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Файл prettier для nextjs 14.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be1485b0ad9426a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сайты агенств и студий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f188b0469da5ef5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,14 +122,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Файл prettier для nextjs 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Файл prettier для nextjs 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Файл prettier для nextjs 14.md"
               }
             }
           }
@@ -168,28 +182,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4684f9f6336c6af",
+  "active": "1f9c7a7e488080b1",
   "lastOpenFiles": [
-    "Канбан.md",
     "Python.md",
     "Git.md",
-    "Файл prettier для nextjs 14.md",
-    "Obsidian.md",
-    "conflict-files-obsidian-git.md",
-    "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
-    "Сайты агенств и студий.md",
-    "Начало дня.md",
-    "Windows Terminal Theme.md",
-    "Untitled.md",
-    "Obsidian форматирование.md",
-    "NextJS.md",
-    "Welcome.md",
-    "Как использовать Git и Obsidian.md",
-    "Идеи.md",
-    "Горячие клавиши.md",
     "English.md",
-    "_templates/Main Note.md",
+    "NextJS.md",
+    "Файл prettier для nextjs 14.md",
+    "Горячие клавиши.md",
+    "Канбан.md",
+    "Сайты агенств и студий.md",
+    "Untitled.md",
+    "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
+    "Windows Terminal Theme.md",
+    "Начало дня.md",
+    "Welcome.md",
+    "Obsidian форматирование.md",
+    "Идеи.md",
+    "Obsidian.md",
     "2024-01-19.md",
+    "_templates/Main Note.md",
+    "Как использовать Git и Obsidian.md",
     "_templates"
   ]
 }
