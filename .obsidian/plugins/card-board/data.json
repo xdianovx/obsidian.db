@@ -7,14 +7,19 @@
           {
             "tag": "untagged",
             "data": {
-              "collapsed": false,
+              "collapsed": true,
               "name": "Inbox"
             }
           }
         ],
-        "filters": [],
+        "filters": [
+          {
+            "tag": "tagFilter",
+            "data": "task"
+          }
+        ],
         "filterPolarity": "Allow",
-        "filterScope": "Both",
+        "filterScope": "TopLevelOnly",
         "name": "Main",
         "showColumnTags": true,
         "showFilteredTags": true
