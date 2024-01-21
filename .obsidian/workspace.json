@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc23691bbb0f6248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -267,10 +279,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d662ab8d64641a",
+  "active": "fc23691bbb0f6248",
   "lastOpenFiles": [
-    "Inbox/Выношу все из головы.md",
     "Dashboard.md",
+    "Inbox/Untitled.md",
+    "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
     "Канбан.md",
     "Начало дня.md",
@@ -299,7 +312,6 @@
     "Windows Terminal Theme.md",
     "2024-01-19.md",
     "_templates/Main Note.md",
-    "Как использовать Git и Obsidian.md",
     "_templates"
   ]
 }
