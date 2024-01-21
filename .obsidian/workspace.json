@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a5bd9a84c01c49c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Inbox/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Inbox/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Выношу все из головы.md"
+                "file": "Inbox/Task.md"
               }
             }
           }
@@ -218,9 +230,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c51c1cc08e3c133e",
+  "active": "1a5bd9a84c01c49c",
   "lastOpenFiles": [
     "Inbox/Пароли.md",
+    "Inbox/Task.md",
     "Inbox/Выношу все из головы.md",
     "Untitled.md",
     "Сайты агенств и студий.md",
