@@ -20,19 +20,45 @@
               "limit": 10000,
               "name": "Done"
             }
-          },
-          {
-            "tag": "otherTags",
-            "data": {
-              "collapsed": false,
-              "name": "sd"
-            }
           }
         ],
         "filters": [],
         "filterPolarity": "Allow",
         "filterScope": "Both",
         "name": "Main",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      },
+      {
+        "columns": [
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "Untagged"
+            }
+          },
+          {
+            "tag": "otherTags",
+            "data": {
+              "collapsed": false,
+              "name": "Other Tags"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 2,
+              "limit": 10,
+              "name": "Completed"
+            }
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "asd",
         "showColumnTags": true,
         "showFilteredTags": true
       }
