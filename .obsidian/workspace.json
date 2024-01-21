@@ -141,6 +141,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "aa6fbfc3f16d8608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3411c61d49397e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Начало дня.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Канбан.md",
+                "file": "Начало дня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Канбан.md",
+                "file": "Начало дня.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Канбан.md"
+                "file": "Начало дня.md"
               }
             }
           }
@@ -267,10 +285,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "aa151bb4210ec4a8",
+  "active": "3411c61d49397e78",
   "lastOpenFiles": [
-    "Inbox/Task.md",
     "Канбан.md",
+    "Inbox/Task.md",
     "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
     "Inbox/Плагин Tasks для Obsidian.md",
