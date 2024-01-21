@@ -125,40 +125,6 @@
           }
         ],
         "currentTab": 9
-      },
-      {
-        "id": "4ce5951eb19ebc75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa151bb4210ec4a8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Канбан.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "aa6fbfc3f16d8608",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3411c61d49397e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Начало дня.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Начало дня.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Начало дня.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Начало дня.md"
+                "file": "Inbox/Выношу все из головы.md"
               }
             }
           }
@@ -285,9 +251,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "3411c61d49397e78",
+  "active": "622a2b3ca6b374f8",
   "lastOpenFiles": [
     "Канбан.md",
+    "Начало дня.md",
     "Inbox/Task.md",
     "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
@@ -314,7 +281,6 @@
     "Горячие клавиши.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Windows Terminal Theme.md",
-    "Начало дня.md",
     "2024-01-19.md",
     "_templates/Main Note.md",
     "Как использовать Git и Obsidian.md",
