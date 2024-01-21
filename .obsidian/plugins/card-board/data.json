@@ -20,6 +20,13 @@
               "limit": 10000,
               "name": "Done"
             }
+          },
+          {
+            "tag": "otherTags",
+            "data": {
+              "collapsed": false,
+              "name": "sd"
+            }
           }
         ],
         "filters": [],
