@@ -10,6 +10,14 @@
               "collapsed": true,
               "name": "Inbox"
             }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "Next Action",
+              "tag": ""
+            }
           }
         ],
         "filters": [
@@ -19,7 +27,7 @@
           }
         ],
         "filterPolarity": "Allow",
-        "filterScope": "TopLevelOnly",
+        "filterScope": "Both",
         "name": "Main",
         "showColumnTags": true,
         "showFilteredTags": true
