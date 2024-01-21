@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/GTD lite.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/GTD lite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/GTD lite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Inbox/GTD lite.md"
               }
             }
           }
@@ -282,7 +282,7 @@
   "active": "fc23691bbb0f6248",
   "lastOpenFiles": [
     "Dashboard.md",
-    "Inbox/Untitled.md",
+    "Inbox/GTD lite.md",
     "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
     "Канбан.md",
