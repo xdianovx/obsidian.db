@@ -80,6 +80,14 @@
             }
           },
           {
+            "id": "d816972c769bf07d",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
             "id": "0618dbf684c316ca",
             "type": "leaf",
             "state": {
@@ -126,17 +134,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f20f77c71199f69c",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -264,7 +264,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a5bd9a84c01c49c",
+  "active": "d816972c769bf07d",
   "lastOpenFiles": [
     "Inbox/Правила ведения Obsidian.md",
     "Inbox/Выношу все из головы.md",
