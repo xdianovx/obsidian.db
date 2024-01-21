@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c51c1cc08e3c133e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Правила ведения Obsidian.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Правила ведения Obsidian.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Правила ведения Obsidian.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -194,16 +206,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81b6c9bdbf5e188a",
+  "active": "c51c1cc08e3c133e",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Untitled.md",
+    "Inbox/Untitled.md",
     "Inbox/Правила ведения Obsidian.md",
+    "Untitled 1.md",
     "Waiting",
     "SomedayMaybe",
     "Next Actions",
     "Projects",
     "Inbox",
-    "Untitled.md",
     "Welcome.md",
     "Идеи.md",
     "Obsidian.md",
