@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/Правила ведения Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/Правила ведения Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/Правила ведения Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Inbox/Правила ведения Obsidian.md"
               }
             }
           }
@@ -197,7 +197,7 @@
   "active": "81b6c9bdbf5e188a",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "Inbox/Untitled.md",
+    "Inbox/Правила ведения Obsidian.md",
     "Waiting",
     "SomedayMaybe",
     "Next Actions",
