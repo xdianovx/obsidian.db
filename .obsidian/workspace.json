@@ -124,7 +124,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
+      },
+      {
+        "id": "4ce5951eb19ebc75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa151bb4210ec4a8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Канбан.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Канбан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Канбан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Выношу все из головы.md"
+                "file": "Канбан.md"
               }
             }
           }
@@ -251,16 +267,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1a5bd9a84c01c49c",
+  "active": "aa151bb4210ec4a8",
   "lastOpenFiles": [
+    "Inbox/Task.md",
+    "Канбан.md",
+    "Inbox/Выношу все из головы.md",
     "Inbox/Правила ведения Obsidian.md",
     "Inbox/Плагин Tasks для Obsidian.md",
-    "Канбан.md",
     "Dashboard.md",
-    "Inbox/Выношу все из головы.md",
     "Сайты агенств и студий.md",
     "Inbox/Пароли.md",
-    "Inbox/Task.md",
     "Untitled.md",
     "Untitled 1.md",
     "Waiting",
