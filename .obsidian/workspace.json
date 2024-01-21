@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Task.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Task.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Task.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Task.md"
+                "file": "Inbox/Выношу все из головы.md"
               }
             }
           }
@@ -208,8 +208,8 @@
   },
   "active": "1a5bd9a84c01c49c",
   "lastOpenFiles": [
-    "Inbox/Выношу все из головы.md",
     "Inbox/Task.md",
+    "Inbox/Выношу все из головы.md",
     "Сайты агенств и студий.md",
     "Untitled.md",
     "Inbox/Пароли.md",
