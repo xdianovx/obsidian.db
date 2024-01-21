@@ -162,33 +162,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4c10c825a7ffecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/WokrFlowy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c284e6978d0e7d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -254,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Начало дня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Начало дня.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Начало дня.md"
               }
             }
           }
@@ -315,10 +291,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c284e6978d0e7d41",
+  "active": "4e2fd90fcc3afba3",
   "lastOpenFiles": [
     "Inbox/WokrFlowy.md",
-    "Inbox/Untitled.md",
+    "Inbox/Блог по прудуктивности.md",
     "Начало дня.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
