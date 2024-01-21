@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +252,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "905a4491a5f283a2",
+  "active": "95e96550ba0796cb",
   "lastOpenFiles": [
     "Канбан.md",
     "Начало дня.md",
