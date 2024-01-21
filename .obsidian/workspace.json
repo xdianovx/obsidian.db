@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Блог по прудуктивности.md",
+                "file": "Inbox/Блог по продуктивности.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Блог по прудуктивности.md",
+                "file": "Inbox/Блог по продуктивности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Блог по прудуктивности.md",
+                "file": "Inbox/Блог по продуктивности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Блог по прудуктивности.md"
+                "file": "Inbox/Блог по продуктивности.md"
               }
             }
           }
@@ -298,7 +298,7 @@
     "Dashboard.md",
     "Начало дня.md",
     "Inbox/WokrFlowy.md",
-    "Inbox/Блог по прудуктивности.md",
+    "Inbox/Блог по продуктивности.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
     "Inbox/Выношу все из головы.md",
