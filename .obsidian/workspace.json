@@ -92,52 +92,6 @@
             }
           },
           {
-            "id": "1750598b46c0d3a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc82c821a07dd343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Правила ведения Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b581704d33ca31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Правила ведения Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32d662ab8d64641a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png"
-              }
-            }
-          },
-          {
             "id": "fc23691bbb0f6248",
             "type": "leaf",
             "state": {
@@ -162,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -228,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
+                "file": "Inbox/Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
+                "file": "Inbox/Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png"
+                "file": "Inbox/Выношу все из головы.md"
               }
             }
           }
@@ -289,21 +243,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d662ab8d64641a",
+  "active": "0618dbf684c316ca",
   "lastOpenFiles": [
+    "Inbox/Плагин Tasks для Obsidian.md",
+    "Inbox/Правила ведения Obsidian.md",
+    "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "Начало дня.md",
     "Inbox/Блог по продуктивности.md",
-    "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "_assets",
     "Dashboard.md",
     "Inbox/WokrFlowy.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
     "Inbox/Выношу все из головы.md",
-    "Inbox/Правила ведения Obsidian.md",
     "Канбан.md",
     "Inbox/Task.md",
-    "Inbox/Плагин Tasks для Obsidian.md",
     "Сайты агенств и студий.md",
     "Inbox/Пароли.md",
     "Untitled.md",
