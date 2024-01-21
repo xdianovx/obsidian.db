@@ -134,13 +134,13 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Выношу все из головы.md"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -267,10 +267,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a5bd9a84c01c49c",
+  "active": "32d662ab8d64641a",
   "lastOpenFiles": [
-    "Dashboard.md",
     "Inbox/Выношу все из головы.md",
+    "Dashboard.md",
     "Inbox/Правила ведения Obsidian.md",
     "Канбан.md",
     "Начало дня.md",
