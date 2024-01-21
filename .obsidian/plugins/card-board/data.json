@@ -5,29 +5,30 @@
       {
         "columns": [
           {
-            "tag": "untagged",
+            "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Inbox"
+              "name": "Inbox",
+              "tag": "#task"
             }
           },
           {
             "tag": "namedTag",
             "data": {
               "collapsed": false,
-              "name": "Next Action",
-              "tag": "#task"
+              "name": "Inbox.1",
+              "tag": ""
             }
           }
         ],
         "filters": [
           {
             "tag": "tagFilter",
-            "data": "task"
+            "data": "task/"
           },
           {
             "tag": "tagFilter",
-            "data": "task/"
+            "data": "task"
           }
         ],
         "filterPolarity": "Allow",
