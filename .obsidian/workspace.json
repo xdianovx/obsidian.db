@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3231a3f703167ff4",
+        "id": "a6155676a0ef2683",
         "type": "tabs",
         "children": [
           {
-            "id": "8d6d49168d8334c1",
+            "id": "a01932977d1a69fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Горячие клавиши.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f9c7a7e488080b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81b6c9bdbf5e188a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Правила ведения Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be1485b0ad9426a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сайты агенств и студий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "949d50262ca17414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Пароли.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a5bd9a84c01c49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Выношу все из головы.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0618dbf684c316ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Выношу все из головы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc23691bbb0f6248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/GTD lite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e2fd90fcc3afba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Начало дня.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/Выношу все из головы.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -243,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0618dbf684c316ca",
+  "active": "a01932977d1a69fa",
   "lastOpenFiles": [
+    "Inbox/Выношу все из головы.md",
     "Inbox/Плагин Tasks для Obsidian.md",
     "Inbox/Правила ведения Obsidian.md",
     "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
@@ -255,7 +151,6 @@
     "Inbox/WokrFlowy.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
-    "Inbox/Выношу все из головы.md",
     "Канбан.md",
     "Inbox/Task.md",
     "Сайты агенств и студий.md",
