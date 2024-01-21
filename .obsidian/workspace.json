@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Правила ведения Obsidian.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Правила ведения Obsidian.md",
+                "file": "Inbox/Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Правила ведения Obsidian.md"
+                "file": "Inbox/Выношу все из головы.md"
               }
             }
           }
@@ -251,10 +251,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "622a2b3ca6b374f8",
+  "active": "1a5bd9a84c01c49c",
   "lastOpenFiles": [
-    "Inbox/Плагин Tasks для Obsidian.md",
     "Inbox/Правила ведения Obsidian.md",
+    "Inbox/Плагин Tasks для Obsidian.md",
     "Канбан.md",
     "Dashboard.md",
     "Inbox/Выношу все из головы.md",
