@@ -289,8 +289,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32d662ab8d64641a",
+  "active": "772af0142cf0fc77",
   "lastOpenFiles": [
+    "Untitled",
     "Dashboard.md",
     "Начало дня.md",
     "Inbox/WokrFlowy.md",
@@ -322,7 +323,6 @@
     "English.md",
     "NextJS.md",
     "Горячие клавиши.md",
-    "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "_templates"
   ]
 }
