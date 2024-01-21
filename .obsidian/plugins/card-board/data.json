@@ -1,0 +1,40 @@
+{
+  "version": "0.12.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "Inbox"
+            }
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "Main",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "filters": [],
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
+    }
+  }
+}
