@@ -1,6 +1,6 @@
 {
-  "accentColor": "#007aa3",
-  "cssTheme": "Neo",
+  "accentColor": "",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "main"
