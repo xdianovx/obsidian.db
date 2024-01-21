@@ -13,18 +13,10 @@
             }
           },
           {
-            "tag": "namedTag",
-            "data": {
-              "collapsed": false,
-              "name": "Inbox.1",
-              "tag": ""
-            }
-          },
-          {
             "tag": "completed",
             "data": {
               "collapsed": false,
-              "index": 2,
+              "index": 1,
               "limit": 10000,
               "name": "Done"
             }
