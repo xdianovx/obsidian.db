@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiDatabase",
       "FiAlertOctagon",
       "FiFolder"
     ],
@@ -25,5 +26,6 @@
     "iconIdentifier": ":"
   },
   "_templates": "FiFolder",
-  "Dashboard.md": "FiAlertOctagon"
+  "Dashboard.md": "FiAlertOctagon",
+  "_assets": "FiDatabase"
 }
