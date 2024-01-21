@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Untitled.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -184,8 +184,10 @@
   },
   "active": "1f9c7a7e488080b1",
   "lastOpenFiles": [
-    "Obsidian форматирование.md",
+    "Welcome.md",
+    "Идеи.md",
     "Obsidian.md",
+    "Obsidian форматирование.md",
     "Файл prettier для nextjs 14.md",
     "Python.md",
     "Git.md",
@@ -198,8 +200,6 @@
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Windows Terminal Theme.md",
     "Начало дня.md",
-    "Welcome.md",
-    "Идеи.md",
     "2024-01-19.md",
     "_templates/Main Note.md",
     "Как использовать Git и Obsidian.md",
