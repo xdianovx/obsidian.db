@@ -16,11 +16,20 @@
             "data": {
               "collapsed": false,
               "name": "Next Action",
-              "tag": ""
+              "tag": "#task"
             }
           }
         ],
-        "filters": [],
+        "filters": [
+          {
+            "tag": "tagFilter",
+            "data": "task"
+          },
+          {
+            "tag": "tagFilter",
+            "data": "task/"
+          }
+        ],
         "filterPolarity": "Allow",
         "filterScope": "Both",
         "name": "Main",
