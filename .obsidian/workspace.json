@@ -80,14 +80,6 @@
             }
           },
           {
-            "id": "d816972c769bf07d",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0618dbf684c316ca",
             "type": "leaf",
             "state": {
@@ -148,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -275,7 +267,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0618dbf684c316ca",
+  "active": "1a5bd9a84c01c49c",
   "lastOpenFiles": [
     "Dashboard.md",
     "Inbox/Выношу все из головы.md",
