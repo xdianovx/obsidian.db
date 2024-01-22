@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "902196daf53571ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Блог по продуктивности.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Блог по продуктивности.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Блог по продуктивности.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a01932977d1a69fa",
+  "active": "902196daf53571ec",
   "lastOpenFiles": [
+    "Inbox/Блог по продуктивности.md",
+    "Inbox/Untitled.md",
     "_assets/Pasted image 20240122113537.png",
     "Inbox/УТП Внедрение AI в бизнес процессы.md",
     "Inbox/Пять методик продуктивности.md",
@@ -157,7 +172,6 @@
     "Inbox/Правила ведения Obsidian.md",
     "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "Начало дня.md",
-    "Inbox/Блог по продуктивности.md",
     "_assets",
     "Dashboard.md",
     "Inbox/WokrFlowy.md",
