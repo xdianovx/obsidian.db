@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "902196daf53571ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/100 UX UI вопросов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/100 UX UI вопросов.md",
+                "file": "Inbox/Блог по продуктивности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/100 UX UI вопросов.md",
+                "file": "Inbox/Блог по продуктивности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/100 UX UI вопросов.md"
+                "file": "Inbox/Блог по продуктивности.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "902196daf53571ec",
+  "active": "a01932977d1a69fa",
   "lastOpenFiles": [
-    "Inbox/Блог по продуктивности.md",
     "Inbox/100 UX UI вопросов.md",
+    "Inbox/Блог по продуктивности.md",
     "_assets/Pasted image 20240122113537.png",
     "Inbox/УТП Внедрение AI в бизнес процессы.md",
     "Inbox/Пять методик продуктивности.md",
