@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d980531b7de62b0",
+        "id": "a6155676a0ef2683",
         "type": "tabs",
         "children": [
           {
-            "id": "3a27c7ab24fd993a",
+            "id": "a01932977d1a69fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Блог по продуктивности.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,13 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Блог по продуктивности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Блог по продуктивности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Блог по продуктивности.md"
+              }
             }
           }
         ]
@@ -129,6 +137,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "card-board:CardBoard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -137,39 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a27c7ab24fd993a",
+  "active": "a01932977d1a69fa",
   "lastOpenFiles": [
-    "Obsidian форматирование.md",
-    "Inbox/Пароли.md",
+    "_assets/Pasted image 20240122113537.png",
+    "Inbox/УТП Внедрение AI в бизнес процессы.md",
     "Inbox/Пять методик продуктивности.md",
     "Inbox/Посчитать мебель из фанеры.md",
-    "Inbox/УТП Внедрение AI в бизнес процессы.md",
-    "_assets/Pasted image 20240122113537.png",
     "Inbox/Выношу все из головы.md",
-    "Inbox/Блог по продуктивности.md",
-    "conflict-files-obsidian-git.md",
-    "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
-    "_assets",
-    "Untitled 1.md",
-    "Inbox/Правила ведения Obsidian.md",
     "Inbox/Плагин Tasks для Obsidian.md",
+    "Inbox/Правила ведения Obsidian.md",
+    "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
+    "Начало дня.md",
+    "Inbox/Блог по продуктивности.md",
+    "_assets",
+    "Dashboard.md",
     "Inbox/WokrFlowy.md",
-    "Inbox/Task.md",
     "Inbox/Study tips from a ADHD university student..md",
     "Inbox/GTD lite.md",
-    "Inbox",
-    "Dashboard.md",
-    "Файл prettier для nextjs 14.md",
-    "daily notes",
     "Канбан.md",
+    "Inbox/Task.md",
+    "Сайты агенств и студий.md",
+    "Inbox/Пароли.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Waiting",
+    "SomedayMaybe",
+    "Next Actions",
+    "Projects",
+    "Inbox",
+    "Welcome.md",
+    "Идеи.md",
+    "Obsidian.md",
+    "Obsidian форматирование.md",
+    "Файл prettier для nextjs 14.md",
     "Python.md",
     "Git.md",
-    "Obsidian.md",
-    "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
-    "Сайты агенств и студий.md",
-    "Начало дня.md",
-    "Windows Terminal Theme.md",
-    "Untitled.md",
     "_templates"
   ]
 }
