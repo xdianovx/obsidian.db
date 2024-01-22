@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73b6defc179e8749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Посчитать мебель из фанеры.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec239e29e2f88f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Пять методик продуктивности.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Пять методик продуктивности.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Пять методик продуктивности.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -170,11 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d6d0f39bee233ec",
+  "active": "ec239e29e2f88f75",
   "lastOpenFiles": [
+    "Inbox/Посчитать мебель из фанеры.md",
+    "Inbox/Untitled.md",
+    "Inbox/Пять методик продуктивности.md",
     "_assets/Pasted image 20240122113537.png",
     "Inbox/Пароли.md",
-    "Inbox/Пять методик продуктивности.md",
     "Inbox/Выношу все из головы.md",
     "Inbox/Блог по продуктивности.md",
     "conflict-files-obsidian-git.md",
@@ -201,7 +227,6 @@
     "Начало дня.md",
     "Windows Terminal Theme.md",
     "Untitled.md",
-    "NextJS.md",
     "_templates"
   ]
 }
