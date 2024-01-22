@@ -4,5 +4,5 @@ https://ux-journal.ru/100-questions-ux-analysis-html.html
 ---
 **Источник:** 
 **Теги:**
-**Связи:** [[ D]]
+**Связи:** [[ UIUX]]
 **Дата:** 22.01.2024
