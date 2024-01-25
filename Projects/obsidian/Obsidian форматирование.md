@@ -37,7 +37,12 @@ function fancyAlert(arg) {
 | Первый заголовок | Содержимое второй ячейки |  |
 | Содержимое первой колонки | Содержимое второй колонки |  |
 
-
+```md
+| First name | Last name |
+| ---------- | --------- |
+| Max        | Planck    |
+| Marie      | Curie     |
+```
 
 > [!tip] Title-only callout
 
