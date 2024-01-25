@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Terminal Theme.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Terminal Theme.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Terminal Theme.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Terminal Theme.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Projects/Miscellaneous/Windows Terminal Theme.md",
     "Welcome.md",
     "Projects/WebAgency/Сайты агенств и студий.md",
     "Untitled.md",
@@ -180,7 +181,6 @@
     "Projects/Productivity",
     "Projects/Obsidian/Правила ведения Obsidian.md",
     "Next Actions/Посчитать мебель из фанеры.md",
-    "Projects/Obsidian/Плагин Tasks для Obsidian.md",
     "Projects/Obsidian",
     "Untitled",
     "Projects/uiux",
