@@ -2,6 +2,6 @@ https://workflowy.com/
 
 ---
 **Источник:** 
-**Теги:**
-**Связи:**  [[Notion]] [[Soft]] [[Productivi]]
+**Теги:** #soft #productivi
+**Связи:**  [[Notion]] [[Soft]] [[Productivity]]
 **Дата:** 21.01.2024
