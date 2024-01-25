@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
+                "file": "English.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
+                "file": "English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
+                "file": "English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Создание L2TP VPN (НЕ РАБОТАЕТ).md"
+                "file": "English.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Dashboard.md",
     "Начало дня.md",
+    "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Projects/obsidian/Как использовать Git и Obsidian.md",
     "Идеи.md",
     "Projects/obsidian/Горячие клавиши.md",
@@ -184,11 +186,9 @@
     "_assets",
     "Untitled 1.md",
     "Inbox",
-    "Dashboard.md",
     "Файл prettier для nextjs 14.md",
     "daily notes",
     "Канбан.md",
-    "Python.md",
     "_templates"
   ]
 }
