@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Python.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a27c7ab24fd993a",
+  "active": "772af0142cf0fc77",
   "lastOpenFiles": [
-    "Projects/Miscellaneous/Windows Terminal Theme.md",
+    "Projects/Untitled 1",
     "Welcome.md",
+    "Projects/Miscellaneous/Windows Terminal Theme.md",
     "Projects/WebAgency/Сайты агенств и студий.md",
     "Untitled.md",
     "Файл prettier для nextjs 14.md",
@@ -180,7 +181,6 @@
     "Projects/Productivity/Пять методик продуктивности.md",
     "Projects/Productivity",
     "Projects/Obsidian/Правила ведения Obsidian.md",
-    "Next Actions/Посчитать мебель из фанеры.md",
     "Projects/Obsidian",
     "Untitled",
     "Projects/uiux",
