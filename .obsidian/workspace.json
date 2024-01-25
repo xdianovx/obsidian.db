@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Идеи.md",
+                "file": "Сайты агенств и студий.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Идеи.md",
+                "file": "Сайты агенств и студий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Идеи.md",
+                "file": "Сайты агенств и студий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Идеи.md"
+                "file": "Сайты агенств и студий.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Начало дня.md",
+    "Идеи.md",
+    "Канбан.md",
     "Сайты агенств и студий.md",
     "Projects/Obsidian/Obsidian.md",
     "Projects/Frontend/NextJS.md",
@@ -159,10 +162,8 @@
     "Projects/Untitled",
     "Projects/English",
     "Dashboard.md",
-    "Начало дня.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
     "Projects/Obsidian/Как использовать Git и Obsidian.md",
-    "Идеи.md",
     "Projects/Obsidian/Горячие клавиши.md",
     "Projects/Productivity/WokrFlowy аналог Notion.md",
     "Projects/Productivity/Study tips from a ADHD university student..md",
@@ -182,7 +183,6 @@
     "Next Actions/Блог по продуктивности.md",
     "Next Actions/100 UX UI вопросов.md",
     "Untitled",
-    "Projects/uiux/Баланс в дизайне.md",
     "Projects/uiux",
     "_assets/Pasted image 20240122141308.png",
     "_assets/Pasted image 20240122140955.png",
