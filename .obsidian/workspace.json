@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/obsidian/Obsidian.md",
+                "file": "Идеи.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/obsidian/Obsidian.md",
+                "file": "Идеи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/obsidian/Obsidian.md",
+                "file": "Идеи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/obsidian/Obsidian.md"
+                "file": "Идеи.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772af0142cf0fc77",
+  "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Сайты агенств и студий.md",
+    "Projects/Obsidian/Obsidian.md",
     "Projects/Frontend/NextJS.md",
     "Projects/Backend",
     "Projects/Frontend",
@@ -159,9 +161,9 @@
     "Dashboard.md",
     "Начало дня.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
-    "Projects/obsidian/Как использовать Git и Obsidian.md",
+    "Projects/Obsidian/Как использовать Git и Obsidian.md",
     "Идеи.md",
-    "Projects/obsidian/Горячие клавиши.md",
+    "Projects/Obsidian/Горячие клавиши.md",
     "Projects/Productivity/WokrFlowy аналог Notion.md",
     "Projects/Productivity/Study tips from a ADHD university student..md",
     "Inbox/Task.md",
@@ -172,10 +174,10 @@
     "Projects/WebAgency",
     "Projects/Productivity/Пять методик продуктивности.md",
     "Projects/Productivity",
-    "Projects/obsidian/Правила ведения Obsidian.md",
+    "Projects/Obsidian/Правила ведения Obsidian.md",
     "Next Actions/Посчитать мебель из фанеры.md",
-    "Projects/obsidian/Плагин Tasks для Obsidian.md",
-    "Projects/obsidian",
+    "Projects/Obsidian/Плагин Tasks для Obsidian.md",
+    "Projects/Obsidian",
     "Projects/Пароли.md",
     "Next Actions/Блог по продуктивности.md",
     "Next Actions/100 UX UI вопросов.md",
@@ -187,9 +189,7 @@
     "_assets/Pasted image 20240122140827.png",
     "_assets/Pasted image 20240122140711.png",
     "_assets/Frame 177.png",
-    "Obsidian форматирование.md",
     "_assets/Pasted image 20240122113537.png",
-    "conflict-files-obsidian-git.md",
     "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png"
   ]
 }
