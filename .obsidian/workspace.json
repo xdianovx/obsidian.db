@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Windows Terminal Theme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Windows Terminal Theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Windows Terminal Theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Windows Terminal Theme.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Welcome.md",
     "Projects/WebAgency/Сайты агенств и студий.md",
+    "Untitled.md",
     "Файл prettier для nextjs 14.md",
     "Начало дня.md",
     "Идеи.md",
@@ -180,8 +182,6 @@
     "Next Actions/Посчитать мебель из фанеры.md",
     "Projects/Obsidian/Плагин Tasks для Obsidian.md",
     "Projects/Obsidian",
-    "Projects/Пароли.md",
-    "Next Actions/Блог по продуктивности.md",
     "Untitled",
     "Projects/uiux",
     "_assets/Pasted image 20240122141308.png",
