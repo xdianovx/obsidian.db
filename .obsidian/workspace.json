@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Пароли.md",
+                "file": "Inbox/Плагин Tasks для Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Пароли.md",
+                "file": "Inbox/Плагин Tasks для Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Пароли.md",
+                "file": "Inbox/Плагин Tasks для Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Пароли.md"
+                "file": "Inbox/Плагин Tasks для Obsidian.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "772af0142cf0fc77",
   "lastOpenFiles": [
+    "Projects/Untitled",
+    "Projects/Пароли.md",
     "Inbox/Выношу все из головы.md",
     "Next Actions/Блог по продуктивности.md",
     "Next Actions/100 UX UI вопросов.md",
@@ -161,7 +163,6 @@
     "_assets/Frame 177.png",
     "Inbox/Разработать бриф для разработки сайта.md",
     "Obsidian форматирование.md",
-    "Projects/Пароли.md",
     "Inbox/Пять методик продуктивности.md",
     "Inbox/Посчитать мебель из фанеры.md",
     "Inbox/УТП Внедрение AI в бизнес процессы.md",
