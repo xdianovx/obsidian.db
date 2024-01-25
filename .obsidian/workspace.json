@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Пароли.md",
+                "file": "Projects/Пароли.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Пароли.md",
+                "file": "Projects/Пароли.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Пароли.md",
+                "file": "Projects/Пароли.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Пароли.md"
+                "file": "Projects/Пароли.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a27c7ab24fd993a",
+  "active": "772af0142cf0fc77",
   "lastOpenFiles": [
     "Inbox/Выношу все из головы.md",
     "Next Actions/Блог по продуктивности.md",
@@ -161,7 +161,7 @@
     "_assets/Frame 177.png",
     "Inbox/Разработать бриф для разработки сайта.md",
     "Obsidian форматирование.md",
-    "Inbox/Пароли.md",
+    "Projects/Пароли.md",
     "Inbox/Пять методик продуктивности.md",
     "Inbox/Посчитать мебель из фанеры.md",
     "Inbox/УТП Внедрение AI в бизнес процессы.md",
