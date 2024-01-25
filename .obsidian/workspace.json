@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Productivity/Пять методик продуктивности.md",
+                "file": "Inbox/Разработать бриф для разработки сайта.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Productivity/Пять методик продуктивности.md",
+                "file": "Inbox/Разработать бриф для разработки сайта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Productivity/Пять методик продуктивности.md",
+                "file": "Inbox/Разработать бриф для разработки сайта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Productivity/Пять методик продуктивности.md"
+                "file": "Inbox/Разработать бриф для разработки сайта.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "772af0142cf0fc77",
   "lastOpenFiles": [
+    "Projects/Untitled",
+    "Projects/Productivity/Пять методик продуктивности.md",
     "Projects/Productivity",
     "Projects/obsidian/Правила ведения Obsidian.md",
     "Inbox/Выношу все из головы.md",
@@ -167,7 +169,6 @@
     "_assets/Frame 177.png",
     "Inbox/Разработать бриф для разработки сайта.md",
     "Obsidian форматирование.md",
-    "Projects/Productivity/Пять методик продуктивности.md",
     "Inbox/УТП Внедрение AI в бизнес процессы.md",
     "_assets/Pasted image 20240122113537.png",
     "conflict-files-obsidian-git.md",
