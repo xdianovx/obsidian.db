@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md",
+                "file": "Inbox/Посчитать мебель из фанеры.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md",
+                "file": "Inbox/Посчитать мебель из фанеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md",
+                "file": "Inbox/Посчитать мебель из фанеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Плагин Tasks для Obsidian.md"
+                "file": "Inbox/Посчитать мебель из фанеры.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772af0142cf0fc77",
+  "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
-    "Projects/Untitled",
+    "Projects/obsidian/Плагин Tasks для Obsidian.md",
+    "Projects/obsidian",
     "Projects/Пароли.md",
     "Inbox/Выношу все из головы.md",
     "Next Actions/Блог по продуктивности.md",
@@ -172,7 +173,6 @@
     "_assets",
     "Untitled 1.md",
     "Inbox/Правила ведения Obsidian.md",
-    "Inbox/Плагин Tasks для Obsidian.md",
     "Inbox/WokrFlowy.md",
     "Inbox/Task.md",
     "Inbox/Study tips from a ADHD university student..md",
