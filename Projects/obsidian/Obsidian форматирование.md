@@ -44,7 +44,6 @@ function fancyAlert(arg) {
 | Marie      | Curie     |
 
 Не обязательно выравнивать знаки
-
 ```
 
 > [!tip] Title-only callout
