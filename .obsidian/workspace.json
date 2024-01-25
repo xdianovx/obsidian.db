@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
+                "file": "Inbox/WokrFlowy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
+                "file": "Inbox/WokrFlowy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
+                "file": "Inbox/WokrFlowy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Productivity/Study tips from a ADHD university student..md"
+                "file": "Inbox/WokrFlowy.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772af0142cf0fc77",
+  "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Projects/Productivity/Study tips from a ADHD university student..md",
+    "Inbox/Task.md",
     "Inbox/Выношу все из головы.md",
     "Projects/Productivity/GTD lite.md",
     "Next Actions/УТП Внедрение AI в бизнес процессы.md",
@@ -177,8 +179,6 @@
     "_assets",
     "Untitled 1.md",
     "Inbox/WokrFlowy.md",
-    "Inbox/Task.md",
-    "Projects/Productivity/Study tips from a ADHD university student..md",
     "Inbox",
     "Dashboard.md",
     "Файл prettier для nextjs 14.md",
