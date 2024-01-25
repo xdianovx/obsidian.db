@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b53f7de92ccb67e1",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772af0142cf0fc77",
+  "active": "b53f7de92ccb67e1",
   "lastOpenFiles": [
     "Welcome.md",
     "Projects/Programming/Python/Python.md",
