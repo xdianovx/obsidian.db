@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Productivity/GTD lite.md",
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Productivity/GTD lite.md",
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Productivity/GTD lite.md",
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Productivity/GTD lite.md"
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a27c7ab24fd993a",
+  "active": "772af0142cf0fc77",
   "lastOpenFiles": [
-    "Next Actions/УТП Внедрение AI в бизнес процессы.md",
     "Inbox/Выношу все из головы.md",
+    "Projects/Productivity/GTD lite.md",
+    "Next Actions/УТП Внедрение AI в бизнес процессы.md",
     "Projects/WebAgency/Разработать бриф для разработки сайта.md",
     "Projects/WebAgency",
     "Projects/Productivity/Пять методик продуктивности.md",
@@ -177,8 +178,7 @@
     "Untitled 1.md",
     "Inbox/WokrFlowy.md",
     "Inbox/Task.md",
-    "Inbox/Study tips from a ADHD university student..md",
-    "Projects/Productivity/GTD lite.md",
+    "Projects/Productivity/Study tips from a ADHD university student..md",
     "Inbox",
     "Dashboard.md",
     "Файл prettier для nextjs 14.md",
