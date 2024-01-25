@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English.md"
+                "file": "Git.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "English.md",
+    "Projects/English",
     "Dashboard.md",
     "Начало дня.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
@@ -188,7 +190,6 @@
     "Inbox",
     "Файл prettier для nextjs 14.md",
     "daily notes",
-    "Канбан.md",
     "_templates"
   ]
 }
