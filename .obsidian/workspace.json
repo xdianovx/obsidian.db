@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/УТП Внедрение AI в бизнес процессы.md",
+                "file": "Projects/Productivity/GTD lite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/УТП Внедрение AI в бизнес процессы.md",
+                "file": "Projects/Productivity/GTD lite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/УТП Внедрение AI в бизнес процессы.md",
+                "file": "Projects/Productivity/GTD lite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/УТП Внедрение AI в бизнес процессы.md"
+                "file": "Projects/Productivity/GTD lite.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Next Actions/УТП Внедрение AI в бизнес процессы.md",
     "Inbox/Выношу все из головы.md",
     "Projects/WebAgency/Разработать бриф для разработки сайта.md",
     "Projects/WebAgency",
@@ -169,7 +170,6 @@
     "_assets/Pasted image 20240122140711.png",
     "_assets/Frame 177.png",
     "Obsidian форматирование.md",
-    "Inbox/УТП Внедрение AI в бизнес процессы.md",
     "_assets/Pasted image 20240122113537.png",
     "conflict-files-obsidian-git.md",
     "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
@@ -178,7 +178,7 @@
     "Inbox/WokrFlowy.md",
     "Inbox/Task.md",
     "Inbox/Study tips from a ADHD university student..md",
-    "Inbox/GTD lite.md",
+    "Projects/Productivity/GTD lite.md",
     "Inbox",
     "Dashboard.md",
     "Файл prettier для nextjs 14.md",
