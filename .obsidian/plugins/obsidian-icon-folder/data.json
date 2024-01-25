@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiGitBranch",
       "FiArrowDown",
       "FiDatabase",
       "FiAlertOctagon",
@@ -29,5 +30,6 @@
   "_templates": "FiFolder",
   "Dashboard.md": "FiAlertOctagon",
   "_assets": "FiDatabase",
-  "Inbox": "FiArrowDown"
+  "Inbox": "FiArrowDown",
+  "Next Actions": "FiGitBranch"
 }
