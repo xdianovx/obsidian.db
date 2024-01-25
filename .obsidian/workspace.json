@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Блог по продуктивности.md",
+                "file": "Inbox/Пароли.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Блог по продуктивности.md",
+                "file": "Inbox/Пароли.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Блог по продуктивности.md",
+                "file": "Inbox/Пароли.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Блог по продуктивности.md"
+                "file": "Inbox/Пароли.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Inbox/Выношу все из головы.md",
+    "Next Actions/Блог по продуктивности.md",
     "Next Actions/100 UX UI вопросов.md",
     "Untitled",
     "Projects/uiux/Баланс в дизайне.md",
@@ -164,8 +166,6 @@
     "Inbox/Посчитать мебель из фанеры.md",
     "Inbox/УТП Внедрение AI в бизнес процессы.md",
     "_assets/Pasted image 20240122113537.png",
-    "Inbox/Выношу все из головы.md",
-    "Inbox/Блог по продуктивности.md",
     "conflict-files-obsidian-git.md",
     "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "_assets",
