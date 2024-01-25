@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сайты агенств и студий.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сайты агенств и студий.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сайты агенств и студий.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сайты агенств и студий.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Projects/WebAgency/Сайты агенств и студий.md",
+    "Файл prettier для nextjs 14.md",
     "Начало дня.md",
     "Идеи.md",
     "Канбан.md",
-    "Сайты агенств и студий.md",
     "Projects/Obsidian/Obsidian.md",
     "Projects/Frontend/NextJS.md",
     "Projects/Backend",
@@ -181,7 +182,6 @@
     "Projects/Obsidian",
     "Projects/Пароли.md",
     "Next Actions/Блог по продуктивности.md",
-    "Next Actions/100 UX UI вопросов.md",
     "Untitled",
     "Projects/uiux",
     "_assets/Pasted image 20240122141308.png",
