@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiCodesandbox",
       "FiGitBranch",
       "FiArrowDown",
       "FiDatabase",
-      "FiAlertOctagon",
-      "FiFolder"
+      "FiAlertOctagon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,6 @@
   "Dashboard.md": "FiAlertOctagon",
   "_assets": "FiDatabase",
   "Inbox": "FiArrowDown",
-  "Next Actions": "FiGitBranch"
+  "Next Actions": "FiGitBranch",
+  "Projects": "FiCodesandbox"
 }
