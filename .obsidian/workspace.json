@@ -26,9 +26,21 @@
               "type": "card-board-view",
               "state": {}
             }
+          },
+          {
+            "id": "7fbe31536a404714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Obsidian/Obsidian форматирование.md",
+                "file": "Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Obsidian/Obsidian форматирование.md",
+                "file": "Inbox/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Obsidian/Obsidian форматирование.md"
+                "file": "Inbox/Untitled.md"
               }
             }
           }
@@ -155,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b53f7de92ccb67e1",
+  "active": "7fbe31536a404714",
   "lastOpenFiles": [
+    "Projects/Obsidian/Obsidian форматирование.md",
+    "Inbox/Untitled.md",
     "Welcome.md",
     "Projects/Programming/Python/Python.md",
     "Projects/Programming/Python",
@@ -189,9 +203,7 @@
     "Next Actions/УТП Внедрение AI в бизнес процессы.md",
     "Projects/WebAgency/Разработать бриф для разработки сайта.md",
     "Projects/WebAgency",
-    "Projects/Productivity/Пять методик продуктивности.md",
     "Projects/Productivity",
-    "Projects/Obsidian/Правила ведения Obsidian.md",
     "Projects/Obsidian",
     "_assets/Pasted image 20240122141308.png",
     "_assets/Pasted image 20240122140955.png",
