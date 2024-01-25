@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/uiux/Баланс в дизайне.md",
+                "file": "Inbox/100 UX UI вопросов.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/uiux/Баланс в дизайне.md",
+                "file": "Inbox/100 UX UI вопросов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/uiux/Баланс в дизайне.md",
+                "file": "Inbox/100 UX UI вопросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/uiux/Баланс в дизайне.md"
+                "file": "Inbox/100 UX UI вопросов.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "772af0142cf0fc77",
+  "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Projects/uiux/Баланс в дизайне.md",
     "Projects/uiux",
     "Inbox/100 UX UI вопросов.md",
     "_assets/Pasted image 20240122141308.png",
@@ -156,7 +157,6 @@
     "_assets/Pasted image 20240122140711.png",
     "_assets/Frame 177.png",
     "Inbox/Разработать бриф для разработки сайта.md",
-    "Projects/uiux/Баланс в дизайне.md",
     "Obsidian форматирование.md",
     "Inbox/Пароли.md",
     "Inbox/Пять методик продуктивности.md",
