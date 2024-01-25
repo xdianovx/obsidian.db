@@ -42,6 +42,8 @@ function fancyAlert(arg) {
 | ---------- | --------- |
 | Max        | Planck    |
 | Marie      | Curie     |
+
+Не 
 ```
 
 > [!tip] Title-only callout
