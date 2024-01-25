@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Productivity/WokrFlowy аналог Notion.md",
+                "file": "Идеи.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Productivity/WokrFlowy аналог Notion.md",
+                "file": "Идеи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Productivity/WokrFlowy аналог Notion.md",
+                "file": "Идеи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Productivity/WokrFlowy аналог Notion.md"
+                "file": "Идеи.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3a27c7ab24fd993a",
   "lastOpenFiles": [
+    "Projects/obsidian/Горячие клавиши.md",
+    "Projects/Productivity/WokrFlowy аналог Notion.md",
     "Projects/Productivity/Study tips from a ADHD university student..md",
     "Inbox/Task.md",
     "Inbox/Выношу все из головы.md",
@@ -178,7 +180,6 @@
     "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "_assets",
     "Untitled 1.md",
-    "Projects/Productivity/WokrFlowy аналог Notion.md",
     "Inbox",
     "Dashboard.md",
     "Файл prettier для nextjs 14.md",
