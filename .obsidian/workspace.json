@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English.md",
+                "file": "NextJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English.md",
+                "file": "NextJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English.md",
+                "file": "NextJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English.md"
+                "file": "NextJS.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a27c7ab24fd993a",
+  "active": "772af0142cf0fc77",
   "lastOpenFiles": [
+    "Projects/Untitled 1",
+    "Projects/English/English.md",
     "Projects/Miscellaneous/Git.md",
     "Projects/Miscellaneous",
     "Projects/Untitled",
-    "English.md",
     "Projects/English",
     "Dashboard.md",
     "Начало дня.md",
@@ -189,7 +190,6 @@
     "conflict-files-obsidian-git.md",
     "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
     "_assets",
-    "Untitled 1.md",
     "Inbox"
   ]
 }
