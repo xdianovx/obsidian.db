@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Повторяющиеся задачи.md",
+                "file": "Projects/Пароли.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Повторяющиеся задачи.md",
+                "file": "Projects/Пароли.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Повторяющиеся задачи.md",
+                "file": "Projects/Пароли.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Повторяющиеся задачи.md"
+                "file": "Projects/Пароли.md"
               }
             }
           }
@@ -181,8 +181,8 @@
   },
   "active": "c53cd1669bf6d35e",
   "lastOpenFiles": [
-    "Начало дня.md",
     "Inbox/Повторяющиеся задачи.md",
+    "Начало дня.md",
     "Inbox/Учебники по Английскому.md",
     "_assets/Curriculum-Roadmap-English-1.pdf",
     "Projects/Obsidian/Obsidian форматирование.md",
