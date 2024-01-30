@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f4bed3425745312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Что такое CJM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Закон Якоба Нильсона.md",
+                "file": "Inbox/Что такое CJM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Закон Якоба Нильсона.md",
+                "file": "Inbox/Что такое CJM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Закон Якоба Нильсона.md"
+                "file": "Inbox/Что такое CJM.md"
               }
             }
           }
@@ -170,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe3adbb6493c3639",
+  "active": "7f4bed3425745312",
   "lastOpenFiles": [
-    "Inbox/Атомарный дизайн.md",
     "Inbox/Закон Якоба Нильсона.md",
+    "Inbox/Что такое CJM.md",
+    "Inbox/Атомарный дизайн.md",
     "conflict-files-obsidian-git.md",
     "Inbox/Untitled.md",
     "_assets/Curriculum-Roadmap-English-1.pdf",
@@ -207,7 +220,6 @@
     "Projects/obsidian",
     "Projects/WebAgency",
     "Projects/Productivity",
-    "Next Actions/УТП Внедрение AI в бизнес процессы.md",
     "_assets/Pasted image 20240122141308.png",
     "_assets/Pasted image 20240122140955.png",
     "_assets/Pasted image 20240122140827.png",
