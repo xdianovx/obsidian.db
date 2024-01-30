@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Projects/WebAgency/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Projects/WebAgency/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Projects/WebAgency/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled 1.md"
+                "file": "Projects/WebAgency/Untitled.md"
               }
             }
           }
@@ -174,8 +173,9 @@
   },
   "active": "2424d66ff83e7184",
   "lastOpenFiles": [
-    "Inbox/Принцип SMART.md",
     "Inbox/Untitled 1.md",
+    "Projects/WebAgency/Untitled.md",
+    "Inbox/Принцип SMART.md",
     "Inbox/С чего начинается дизайн сайта.md",
     "Inbox/Asana.md",
     "Inbox/Пирамида Ясности.md",
@@ -207,7 +207,6 @@
     "Файл prettier для nextjs 14.md",
     "Идеи.md",
     "Канбан.md",
-    "Projects/Obsidian/Obsidian.md",
     "Projects/Backend",
     "Projects/Frontend",
     "Projects/Miscellaneous",
