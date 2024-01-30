@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d980531b7de62b0",
+        "id": "8495a8e43e6946d8",
         "type": "tabs",
         "children": [
           {
-            "id": "3a27c7ab24fd993a",
+            "id": "2ec2d88ac682e4bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Obsidian/Obsidian форматирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b53f7de92ccb67e1",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7fbe31536a404714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Начало дня.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f6688af49353662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Pattern Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccf9dfc31701bda0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Работа с цветом.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ee9c3a0b24f5c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Blender.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4d50b5585d1c29c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Пирамида Ясности.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2e7de1addf25b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Asana.md",
+                "file": "Inbox/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Начало дня.md",
+                "file": "Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Начало дня.md",
+                "file": "Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Начало дня.md"
+                "file": "Inbox/Untitled 1.md"
               }
             }
           }
@@ -227,15 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fbe31536a404714",
+  "active": "2ec2d88ac682e4bc",
   "lastOpenFiles": [
-    "Inbox/Атомарный дизайн.md",
-    "_assets/1-1.webp",
+    "Inbox/Untitled 1.md",
     "Inbox/Asana.md",
     "Inbox/Пирамида Ясности.md",
     "Inbox/Blender.md",
     "Inbox/Работа с цветом.md",
     "Inbox/Pattern Lab.md",
+    "Projects/Obsidian/Obsidian форматирование.md",
+    "Начало дня.md",
+    "Inbox/Атомарный дизайн.md",
+    "_assets/1-1.webp",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
     "_assets/Pasted image 20240130095642.png",
@@ -245,10 +167,8 @@
     "Inbox/Закон Якоба Нильсона.md",
     "Inbox/Untitled.md",
     "Inbox/Повторяющиеся задачи.md",
-    "Начало дня.md",
     "Inbox/Учебники по Английскому.md",
     "_assets/Curriculum-Roadmap-English-1.pdf",
-    "Projects/Obsidian/Obsidian форматирование.md",
     "Welcome.md",
     "Projects/Programming/Python/Python.md",
     "Projects/Programming/Python",
