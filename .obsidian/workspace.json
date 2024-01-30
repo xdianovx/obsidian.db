@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df9aa2a25435e032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Перхотал.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/WebAgency/Контент.md",
+                "file": "Inbox/Перхотал.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/WebAgency/Контент.md",
+                "file": "Inbox/Перхотал.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/WebAgency/Контент.md"
+                "file": "Inbox/Перхотал.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2424d66ff83e7184",
+  "active": "df9aa2a25435e032",
   "lastOpenFiles": [
-    "Inbox/Untitled 1.md",
     "Projects/WebAgency/Контент.md",
+    "Inbox/Перхотал.md",
+    "Inbox/Untitled 1.md",
     "Inbox/Принцип SMART.md",
     "Inbox/С чего начинается дизайн сайта.md",
     "Inbox/Asana.md",
@@ -206,7 +219,6 @@
     "Untitled.md",
     "Файл prettier для nextjs 14.md",
     "Идеи.md",
-    "Канбан.md",
     "Projects/Backend",
     "Projects/Frontend",
     "Projects/Miscellaneous",
