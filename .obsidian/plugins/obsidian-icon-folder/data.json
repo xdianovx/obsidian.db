@@ -6,9 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FiCodesandbox",
+      "FiGitBranch",
+      "FiArrowDown",
       "FiDatabase",
-      "FiAlertOctagon",
-      "FiFolder"
+      "FiAlertOctagon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +29,8 @@
   },
   "_templates": "FiFolder",
   "Dashboard.md": "FiAlertOctagon",
-  "_assets": "FiDatabase"
+  "_assets": "FiDatabase",
+  "Inbox": "FiArrowDown",
+  "Next Actions": "FiGitBranch",
+  "Projects": "FiCodesandbox"
 }

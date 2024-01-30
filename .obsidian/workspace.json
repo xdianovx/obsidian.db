@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "52ea856b11b6d400",
+            "id": "e49834eb515ff555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Атомарный дизайн.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92f09371dcfae371",
+            "id": "b36521ad67445fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Inbox/Атомарный дизайн.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Inbox/Атомарный дизайн.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Inbox/Атомарный дизайн.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Inbox/Атомарный дизайн.md"
               }
             }
           }
@@ -170,11 +170,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92f09371dcfae371",
+  "active": "b36521ad67445fdf",
   "lastOpenFiles": [
-    "Inbox/Атомарный дизайн.md",
     "conflict-files-obsidian-git.md",
     "Inbox/Untitled.md",
+    "Inbox/Атомарный дизайн.md",
+    "_assets/Curriculum-Roadmap-English-1.pdf",
+    "Projects/obsidian/Obsidian.md",
+    "Projects/obsidian/Obsidian форматирование.md",
+    "Projects/WebAgency/Сайты агенств и студий.md",
+    "Projects/Programming/Python/Python.md",
+    "Projects/Programming/Python",
+    "Projects/Programming",
+    "Projects/Miscellaneous/Windows Terminal Theme.md",
+    "Projects/Frontend/NextJS.md",
+    "Projects/Frontend",
+    "Inbox/Учебники по Английскому.md",
+    "Inbox/Повторяющиеся задачи.md",
     "Projects/Miscellaneous/Git.md",
     "Projects/Miscellaneous",
     "Projects/English/English.md",
@@ -194,26 +206,13 @@
     "Projects/obsidian",
     "Projects/WebAgency",
     "Projects/Productivity",
-    "Projects",
     "Next Actions/УТП Внедрение AI в бизнес процессы.md",
-    "Next Actions/Посчитать мебель из фанеры.md",
-    "Next Actions/Блог по продуктивности.md",
-    "Next Actions/100 UX UI вопросов.md",
-    "Next Actions",
     "_assets/Pasted image 20240122141308.png",
     "_assets/Pasted image 20240122140955.png",
     "_assets/Pasted image 20240122140827.png",
     "_assets/Pasted image 20240122140711.png",
     "_assets/Frame 177.png",
-    "Inbox/Разработать бриф для разработки сайта.md",
-    "Inbox/Баланс в дизайне.md",
-    "Inbox/100 UX UI вопросов.md",
-    "Obsidian форматирование.md",
-    "Inbox/Пароли.md",
-    "Inbox/Пять методик продуктивности.md",
     "_assets/Pasted image 20240122113537.png",
-    "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png",
-    "_assets",
-    "Inbox"
+    "_assets/63c9b541baf3a61a0e762fb8_GTD Lite 2.png"
   ]
 }
