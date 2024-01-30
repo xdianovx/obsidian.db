@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "e49834eb515ff555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b36521ad67445fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox/Атомарный дизайн.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe3adbb6493c3639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Закон Якоба Нильсона.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Атомарный дизайн.md",
+                "file": "Inbox/Закон Якоба Нильсона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Атомарный дизайн.md",
+                "file": "Inbox/Закон Якоба Нильсона.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Атомарный дизайн.md"
+                "file": "Inbox/Закон Якоба Нильсона.md"
               }
             }
           }
@@ -170,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b36521ad67445fdf",
+  "active": "fe3adbb6493c3639",
   "lastOpenFiles": [
+    "Inbox/Атомарный дизайн.md",
+    "Inbox/Закон Якоба Нильсона.md",
     "conflict-files-obsidian-git.md",
     "Inbox/Untitled.md",
-    "Inbox/Атомарный дизайн.md",
     "_assets/Curriculum-Roadmap-English-1.pdf",
     "Projects/obsidian/Obsidian.md",
     "Projects/obsidian/Obsidian форматирование.md",
