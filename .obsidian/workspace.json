@@ -98,9 +98,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2e7de1addf25b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Пирамида Ясности.md",
+                "file": "Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Пирамида Ясности.md",
+                "file": "Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Пирамида Ясности.md"
+                "file": "Inbox/Untitled 1.md"
               }
             }
           }
@@ -227,10 +239,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4d50b5585d1c29c",
+  "active": "d2e7de1addf25b04",
   "lastOpenFiles": [
-    "Inbox/Blender.md",
+    "Inbox/Untitled 1.md",
     "Inbox/Пирамида Ясности.md",
+    "Inbox/Blender.md",
     "Inbox/Работа с цветом.md",
     "Inbox/Pattern Lab.md",
     "_assets/Pasted image 20240130100036.png",
@@ -266,7 +279,6 @@
     "Projects/Miscellaneous",
     "Projects/Untitled",
     "Projects/English",
-    "Dashboard.md",
     "Projects/WebAgency",
     "Projects/Productivity",
     "_assets/Pasted image 20240122141308.png",
