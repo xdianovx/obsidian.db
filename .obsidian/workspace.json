@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Атомарный дизайн на практике.md",
+                "file": "Inbox/Pattern Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Атомарный дизайн на практике.md",
+                "file": "Inbox/Pattern Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Атомарный дизайн на практике.md",
+                "file": "Inbox/Pattern Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Атомарный дизайн на практике.md"
+                "file": "Inbox/Pattern Lab.md"
               }
             }
           }
@@ -194,7 +194,7 @@
   "active": "8f6688af49353662",
   "lastOpenFiles": [
     "Inbox/Атомарный дизайн.md",
-    "Inbox/Атомарный дизайн на практике.md",
+    "Inbox/Pattern Lab.md",
     "_assets/Pasted image 20240130094224.png",
     "Projects/Пароли.md",
     "Inbox/Что такое CJM.md",
