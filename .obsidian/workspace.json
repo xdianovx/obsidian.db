@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc2e604b53756919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Что такое CJM.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Что такое CJM.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Что такое CJM.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -182,8 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4bed3425745312",
+  "active": "fc2e604b53756919",
   "lastOpenFiles": [
+    "Inbox/Что такое CJM.md",
+    "conflict-files-obsidian-git.md",
+    "Inbox/Перхотал.md",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
     "_assets/Pasted image 20240130095642.png",
@@ -199,9 +214,7 @@
     "Inbox/Blender.md",
     "Inbox/Asana.md",
     "Inbox/Закон Якоба Нильсона.md",
-    "Inbox/Что такое CJM.md",
     "Inbox/Атомарный дизайн.md",
-    "conflict-files-obsidian-git.md",
     "Inbox/Untitled.md",
     "_assets/Curriculum-Roadmap-English-1.pdf",
     "Projects/obsidian/Obsidian.md",
@@ -228,7 +241,6 @@
     "_assets/Pasted image 20240122140955.png",
     "_assets/Pasted image 20240122140827.png",
     "_assets/Pasted image 20240122140711.png",
-    "_assets/Frame 177.png",
-    "_assets/Pasted image 20240122113537.png"
+    "_assets/Frame 177.png"
   ]
 }
