@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ee9c3a0b24f5c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Работа с цветом.md",
+                "file": "Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Работа с цветом.md",
+                "file": "Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Работа с цветом.md"
+                "file": "Inbox/Untitled 1.md"
               }
             }
           }
@@ -203,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccf9dfc31701bda0",
+  "active": "2ee9c3a0b24f5c75",
   "lastOpenFiles": [
-    "Inbox/Pattern Lab.md",
     "Inbox/Работа с цветом.md",
+    "Inbox/Untitled 1.md",
+    "Inbox/Pattern Lab.md",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
     "_assets/Pasted image 20240130095642.png",
@@ -242,7 +255,6 @@
     "Projects/English",
     "Dashboard.md",
     "Создание L2TP VPN (НЕ РАБОТАЕТ).md",
-    "Projects/Obsidian/Как использовать Git и Obsidian.md",
     "Projects/WebAgency",
     "Projects/Productivity",
     "_assets/Pasted image 20240122141308.png",
