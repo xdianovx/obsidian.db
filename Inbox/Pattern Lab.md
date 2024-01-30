@@ -8,7 +8,9 @@
 #### Основные шаги
 1. Разработка концепции интерфейса и базовых атомов и молекул
 2. Составления шаблона и страницы
-3. Создание стайл-гайда 
+3. Создание стайл-гайда –  
+  
+Я украл этот текст здесь: [lgram.ru](https://lgram.ru/kak-postavit-dlinnoe-i-korotkoe-tire-na-noutbuke-ili-kompyutere/)
 
 ---
 **Источник:** https://www.uprock.ru/education/atomarnyy-dizayn
