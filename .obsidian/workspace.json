@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Asana.md",
+                "file": "Inbox/Атомарный дизайн.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Asana.md",
+                "file": "Inbox/Атомарный дизайн.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Asana.md"
+                "file": "Inbox/Атомарный дизайн.md"
               }
             }
           }
@@ -239,8 +239,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2e7de1addf25b04",
+  "active": "c53cd1669bf6d35e",
   "lastOpenFiles": [
+    "_assets/1-1.webp",
     "Inbox/Asana.md",
     "Inbox/Пирамида Ясности.md",
     "Inbox/Blender.md",
@@ -275,7 +276,6 @@
     "Projects/Backend",
     "Projects/Frontend",
     "Projects/English/English.md",
-    "Projects/Miscellaneous/Git.md",
     "Projects/Miscellaneous",
     "Projects/Untitled",
     "Projects/English",
