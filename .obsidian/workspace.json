@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Inbox/Asana.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Inbox/Asana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Inbox/Asana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled 1.md"
+                "file": "Inbox/Asana.md"
               }
             }
           }
@@ -241,7 +241,7 @@
   },
   "active": "d2e7de1addf25b04",
   "lastOpenFiles": [
-    "Inbox/Untitled 1.md",
+    "Inbox/Asana.md",
     "Inbox/Пирамида Ясности.md",
     "Inbox/Blender.md",
     "Inbox/Работа с цветом.md",
