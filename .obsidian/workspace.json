@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/С чего начинается дизайн сайта.md",
+                "file": "Inbox/Принцип SMART.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/С чего начинается дизайн сайта.md",
+                "file": "Inbox/Принцип SMART.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/С чего начинается дизайн сайта.md"
+                "file": "Inbox/Принцип SMART.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ec2d88ac682e4bc",
+  "active": "d4730588a71efccb",
   "lastOpenFiles": [
-    "Inbox/Принцип SMART.md",
     "Inbox/С чего начинается дизайн сайта.md",
+    "Inbox/Принцип SMART.md",
     "Inbox/Asana.md",
     "Inbox/Пирамида Ясности.md",
     "Inbox/Blender.md",
