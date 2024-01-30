@@ -6,7 +6,7 @@
 
 
 #### Основные шаги
-1. 
+1. Разработка концепции иен
 
 ---
 **Источник:** https://www.uprock.ru/education/atomarnyy-dizayn
