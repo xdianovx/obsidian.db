@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "8495a8e43e6946d8",
+        "id": "84b25883bb42605c",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec2d88ac682e4bc",
+            "id": "29e6687a534cbf0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/С чего начинается дизайн сайта.md",
+                "file": "Inbox/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4730588a71efccb",
+            "id": "b36521ad67445fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Принцип SMART.md",
+                "file": "Inbox/Атомарный дизайн.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2424d66ff83e7184",
+            "id": "fe3adbb6493c3639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/WebAgency/Контент.md",
+                "file": "Inbox/Закон Якоба Нильсона.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f4bed3425745312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Что такое CJM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 300
   },
   "right": {
     "id": "6c573117def6529a",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/WebAgency/Контент.md",
+                "file": "Inbox/Что такое CJM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/WebAgency/Контент.md",
+                "file": "Inbox/Что такое CJM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/WebAgency/Контент.md"
+                "file": "Inbox/Что такое CJM.md"
               }
             }
           }
@@ -162,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "card-board:CardBoard": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,53 +182,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2424d66ff83e7184",
+  "active": "7f4bed3425745312",
   "lastOpenFiles": [
-    "Inbox/Untitled 1.md",
-    "Projects/WebAgency/Контент.md",
-    "Inbox/Принцип SMART.md",
-    "Inbox/С чего начинается дизайн сайта.md",
-    "Inbox/Asana.md",
-    "Inbox/Пирамида Ясности.md",
-    "Inbox/Blender.md",
-    "Inbox/Работа с цветом.md",
-    "Inbox/Pattern Lab.md",
-    "Projects/Obsidian/Obsidian форматирование.md",
-    "Начало дня.md",
-    "Inbox/Атомарный дизайн.md",
-    "_assets/1-1.webp",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
     "_assets/Pasted image 20240130095642.png",
     "_assets/Pasted image 20240130094224.png",
-    "Projects/Пароли.md",
-    "Inbox/Что такое CJM.md",
+    "_assets/1-1.webp",
+    "Projects/WebAgency/Контент.md",
+    "Inbox/С чего начинается дизайн сайта.md",
+    "Inbox/Работа с цветом.md",
+    "Inbox/Принцип SMART.md",
+    "Inbox/Пирамида Ясности.md",
+    "Inbox/Untitled 1.md",
+    "Inbox/Pattern Lab.md",
+    "Inbox/Blender.md",
+    "Inbox/Asana.md",
     "Inbox/Закон Якоба Нильсона.md",
+    "Inbox/Что такое CJM.md",
+    "Inbox/Атомарный дизайн.md",
+    "conflict-files-obsidian-git.md",
     "Inbox/Untitled.md",
-    "Inbox/Повторяющиеся задачи.md",
-    "Inbox/Учебники по Английскому.md",
     "_assets/Curriculum-Roadmap-English-1.pdf",
-    "Welcome.md",
+    "Projects/obsidian/Obsidian.md",
+    "Projects/obsidian/Obsidian форматирование.md",
+    "Projects/WebAgency/Сайты агенств и студий.md",
     "Projects/Programming/Python/Python.md",
     "Projects/Programming/Python",
     "Projects/Programming",
     "Projects/Miscellaneous/Windows Terminal Theme.md",
-    "Projects/WebAgency/Сайты агенств и студий.md",
-    "Untitled.md",
-    "Файл prettier для nextjs 14.md",
-    "Идеи.md",
-    "Канбан.md",
-    "Projects/Backend",
+    "Projects/Frontend/NextJS.md",
     "Projects/Frontend",
+    "Inbox/Учебники по Английскому.md",
+    "Inbox/Повторяющиеся задачи.md",
+    "Projects/Miscellaneous/Git.md",
     "Projects/Miscellaneous",
-    "Projects/Untitled",
+    "Projects/English/English.md",
     "Projects/English",
+    "Projects/uiux/Баланс в дизайне.md",
+    "Projects/uiux",
+    "Projects/obsidian",
     "Projects/WebAgency",
     "Projects/Productivity",
     "_assets/Pasted image 20240122141308.png",
     "_assets/Pasted image 20240122140955.png",
     "_assets/Pasted image 20240122140827.png",
     "_assets/Pasted image 20240122140711.png",
-    "_assets/Frame 177.png"
+    "_assets/Frame 177.png",
+    "_assets/Pasted image 20240122113537.png"
   ]
 }
