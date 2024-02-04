@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "84b25883bb42605c",
+        "id": "131fce5256cb065a",
         "type": "tabs",
         "children": [
           {
-            "id": "b36521ad67445fdf",
+            "id": "ea6db95b8432e70f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/uiux/Атомарный дизайн.md",
+                "file": "Inbox/Коммерческое Предложение (КП).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe3adbb6493c3639",
+            "id": "bba414077488cecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Actions/Пирамида Ясности.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07b67970b4c8d45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Доктор Мальков.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5506a6b6f5fce381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/User Story.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Доктор Мальков.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Доктор Мальков.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Доктор Мальков.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -183,13 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07b67970b4c8d45e",
+  "active": "bba414077488cecc",
   "lastOpenFiles": [
-    "Inbox/Реф 2.md",
+    "Inbox/Коммерческое Предложение (КП).md",
+    "conflict-files-obsidian-git.md",
+    "Projects/uiux/Атомарный дизайн.md",
+    "Next Actions/Пирамида Ясности.md",
     "Inbox/Доктор Мальков.md",
+    "Inbox/Untitled.md",
+    "Inbox/Реф 2.md",
     "Inbox/User Story.md",
     "Inbox/Реф.md",
-    "Next Actions/Пирамида Ясности.md",
+    "Inbox/Переписать все транзакции юры за два новых сайта, отдельно за тести.md",
+    "Inbox/Untitled 2.md",
     "Next Actions/Повторяющиеся задачи.md",
     "Projects/3D/Blender.md",
     "Projects/3D",
@@ -200,14 +182,11 @@
     "Продуктивность.md",
     "Projects/uiux/Pattern Lab.md",
     "Projects/uiux/Закон Якоба Нильсона.md",
-    "Inbox/Untitled 1.md",
     "Next Actions/Работа с цветом.md",
     "Projects/Productivity/Принцип SMART.md",
     "Projects/Health/Перхотал.md",
     "Projects/Health",
     "Projects/Untitled.md",
-    "Projects/uiux/Атомарный дизайн.md",
-    "conflict-files-obsidian-git.md",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
     "_assets/Pasted image 20240130095642.png",
@@ -216,9 +195,6 @@
     "Projects/WebAgency/Контент.md",
     "_assets/Curriculum-Roadmap-English-1.pdf",
     "Projects/obsidian/Obsidian.md",
-    "Projects/obsidian/Obsidian форматирование.md",
-    "Projects/WebAgency/Сайты агенств и студий.md",
-    "Projects/Programming/Python/Python.md",
     "Projects/Programming/Python",
     "Projects/Programming",
     "Projects/Frontend",
