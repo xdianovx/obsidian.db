@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69d694273948dd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Как начать свой день.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Текст КП \"Астра\".md",
+                "file": "Inbox/Как начать свой день.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Текст КП \"Астра\".md",
+                "file": "Inbox/Как начать свой день.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Текст КП \"Астра\".md"
+                "file": "Inbox/Как начать свой день.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0986ff35cd5c9421",
+  "active": "69d694273948dd49",
   "lastOpenFiles": [
-    "Inbox/Коммерческое Предложение (КП).md",
     "Inbox/Текст КП \"Астра\".md",
+    "Inbox/Как начать свой день.md",
+    "Inbox/Коммерческое Предложение (КП).md",
     "Inbox/реф кп.md",
     "conflict-files-obsidian-git.md",
     "Projects/uiux/Атомарный дизайн.md",
@@ -188,7 +201,6 @@
     "Projects/Productivity/Принцип SMART.md",
     "Projects/Health/Перхотал.md",
     "Projects/Health",
-    "Projects/Untitled.md",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
     "_assets/Pasted image 20240130095642.png",
