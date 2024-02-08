@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "2ada495af8a9e457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/VUE 3 Курс Арчаков.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a881d9b1a4b31443",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Как начать свой день.md",
+                "file": "Inbox/VUE 3 Курс Арчаков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Как начать свой день.md",
+                "file": "Inbox/VUE 3 Курс Арчаков.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Как начать свой день.md"
+                "file": "Inbox/VUE 3 Курс Арчаков.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69d694273948dd49",
+  "active": "2ada495af8a9e457",
   "lastOpenFiles": [
-    "Inbox/Мурсулган Сейсембай.md",
     "Inbox/Как начать свой день.md",
+    "Inbox/VUE 3 Курс Арчаков.md",
+    "Inbox/Мурсулган Сейсембай.md",
     "Inbox/Для постов.md",
     "Inbox/Текст КП \"Астра\".md",
     "Inbox/Коммерческое Предложение (КП).md",
@@ -211,7 +224,6 @@
     "Продуктивность.md",
     "Projects/uiux/Pattern Lab.md",
     "Projects/uiux/Закон Якоба Нильсона.md",
-    "Next Actions/Работа с цветом.md",
     "Projects/Health",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
