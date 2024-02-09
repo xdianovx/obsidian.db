@@ -1,4 +1,8 @@
-
+**Зачем**?
+1. Спронозировать продажи на старте бизнеса
+2. Оценить эффективность РК
+3. Отследить проблемы (пока не понимаю какие)
+4. 
 
 ---
 **Источник:** http://www.sberbank.ru/ru/s_m_business/pro_business/yunit-ekonomika-chto-eto-i-zachem-nuzhno
