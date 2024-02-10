@@ -11,8 +11,12 @@
             "id": "99a446f58852277d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Untitled 2.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "99a446f58852277d",
   "lastOpenFiles": [
+    "Inbox/Untitled 2.md",
     "Inbox/Untitled.md",
     "Inbox/Атомарный дизайн.md",
     "Inbox/Закон Якоба Нильсона.md",
@@ -148,7 +157,6 @@
     "Inbox/Переписать все транзакции юры за два новых сайта, отдельно за тести.md",
     "Inbox/Asana.md",
     "Inbox/Определяем TOV.md",
-    "Inbox/Untitled 2.md",
     "conflict-files-obsidian-git.md",
     "Inbox/Перхотал.md",
     "_assets/Pasted image 20240130100036.png",
