@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b288e3d39d9c5618",
+        "id": "99a0bc41f3f61665",
         "type": "tabs",
         "children": [
           {
-            "id": "6b49c58ab7bd7365",
+            "id": "aa992449295082a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b49c58ab7bd7365",
+  "active": "56757b0577b179ed",
   "lastOpenFiles": [
+    "DB/Untitled",
+    "DB",
+    "Dashboard.md",
+    "Inbox/Мурсулган Сейсембай.md",
+    "Inbox/Доктор Мальков.md",
+    "Inbox/Для постов.md",
+    "Inbox/КП для Астры.md",
     "conflict-files-obsidian-git.md"
   ]
 }
