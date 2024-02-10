@@ -11,11 +11,28 @@
             "id": "aa992449295082a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Frontend/Файл prettier для nextjs 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "215ab7d336ece6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +137,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,15 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56757b0577b179ed",
+  "active": "215ab7d336ece6e8",
   "lastOpenFiles": [
-    "DB/Untitled",
+    "Projects/Frontend/Файл prettier для nextjs 14.md",
+    "Inbox/Непонятки с Цеттель и Обсидиан.md",
+    "Projects/Productivity/Asana.md",
+    "Next Actions/Пирамида Ясности.md",
+    "Projects/WebAgency/КП для Астры.md",
+    "Inbox/Коммерческое Предложение (КП).md",
+    "DB/Content/Как начать свой день.md",
+    "DB/Content/Если что-то не получается.md",
+    "DB/Content",
+    "Next Actions/Для постов.md",
+    "Inbox/Доктор Мальков.md",
+    "DB/People",
     "DB",
     "Dashboard.md",
     "Inbox/Мурсулган Сейсембай.md",
-    "Inbox/Доктор Мальков.md",
-    "Inbox/Для постов.md",
-    "Inbox/КП для Астры.md",
     "conflict-files-obsidian-git.md"
   ]
 }
