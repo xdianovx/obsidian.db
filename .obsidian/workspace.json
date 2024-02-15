@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "156a8b5bec094152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Как начать с нуля.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md",
+                "file": "Inbox/Как начать с нуля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md",
+                "file": "Inbox/Как начать с нуля.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md"
+                "file": "Inbox/Как начать с нуля.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "215ab7d336ece6e8",
+  "active": "156a8b5bec094152",
   "lastOpenFiles": [
-    "Projects/Frontend/Файл prettier для nextjs 14.md",
     "Inbox/Непонятки с Цеттель и Обсидиан.md",
+    "Inbox/Как начать с нуля.md",
+    "Projects/Frontend/Файл prettier для nextjs 14.md",
     "Projects/Productivity/Asana.md",
     "Next Actions/Пирамида Ясности.md",
     "Projects/WebAgency/КП для Астры.md",
