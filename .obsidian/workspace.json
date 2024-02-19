@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "156a8b5bec094152",
+            "id": "c5db517850c67f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Как начать с нуля.md",
+                "file": "Inbox/Red Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Как начать с нуля.md",
+                "file": "Inbox/Red Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Как начать с нуля.md",
+                "file": "Inbox/Red Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Как начать с нуля.md"
+                "file": "Inbox/Red Group.md"
               }
             }
           }
@@ -171,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "156a8b5bec094152",
+  "active": "c5db517850c67f21",
   "lastOpenFiles": [
+    "Inbox/Red Group.md",
     "Inbox/Непонятки с Цеттель и Обсидиан.md",
     "Inbox/Как начать с нуля.md",
     "Projects/Frontend/Файл prettier для nextjs 14.md",
