@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "446a90feb562813b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Redux Toolkit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Red Group.md",
+                "file": "Inbox/Redux Toolkit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Red Group.md",
+                "file": "Inbox/Redux Toolkit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Red Group.md"
+                "file": "Inbox/Redux Toolkit.md"
               }
             }
           }
@@ -171,9 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5db517850c67f21",
+  "active": "446a90feb562813b",
   "lastOpenFiles": [
     "Inbox/Red Group.md",
+    "Inbox/Redux Toolkit.md",
     "Inbox/Непонятки с Цеттель и Обсидиан.md",
     "Inbox/Как начать с нуля.md",
     "Projects/Frontend/Файл prettier для nextjs 14.md",
