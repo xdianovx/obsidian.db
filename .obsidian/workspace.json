@@ -66,9 +66,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e618d57af557b48",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "2d9e10e642832eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Темы для ютуда.md",
+                "file": "Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Темы для ютуда.md",
+                "file": "Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Темы для ютуда.md"
+                "file": "Inbox/Untitled 1.md"
               }
             }
           }
@@ -195,8 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3deae8eff8ad97d9",
+  "active": "2d9e10e642832eaf",
   "lastOpenFiles": [
+    "Inbox/Untitled 1.md",
     "Inbox/Redux Toolkit.md",
     "Inbox/Темы для ютуда.md",
     "Inbox/Red Group.md",
