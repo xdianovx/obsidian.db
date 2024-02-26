@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "4f7a8bf42d815920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e618d57af557b48",
             "type": "leaf",
             "state": {
@@ -76,21 +88,9 @@
                 "currentVersion": "1.5.8"
               }
             }
-          },
-          {
-            "id": "2d9e10e642832eaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled 1.md"
+                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md"
               }
             }
           }
@@ -217,11 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d9e10e642832eaf",
+  "active": "4f7a8bf42d815920",
   "lastOpenFiles": [
-    "Inbox/Untitled 1.md",
-    "Inbox/Redux Toolkit.md",
     "Inbox/Темы для ютуда.md",
+    "Inbox/Темы джля ТГ канала КОМЕТА.md",
+    "Inbox/Redux Toolkit.md",
     "Inbox/Red Group.md",
     "Inbox/Непонятки с Цеттель и Обсидиан.md",
     "Inbox/Как начать с нуля.md",
