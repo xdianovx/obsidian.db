@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "fc49c5578fb67ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Как делать сценарии.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3deae8eff8ad97d9",
             "type": "leaf",
             "state": {
@@ -90,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Как делать сценарии.md",
+                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Как делать сценарии.md",
+                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Как делать сценарии.md"
+                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md"
               }
             }
           }
@@ -217,22 +205,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc49c5578fb67ce1",
+  "active": "446a90feb562813b",
   "lastOpenFiles": [
-    "Inbox/Темы джля ТГ канала КОМЕТА.md",
+    "DB/People/Мурсулган Сейсембай.md",
+    "Inbox/Коммерческое Предложение (КП).md",
+    "Inbox/Как начать с нуля.md",
     "Inbox/Как делать сценарии.md",
+    "Inbox/Темы джля ТГ канала КОМЕТА.md",
     "Inbox/Шортс. Зачем сайту нужен блог.md",
     "Inbox/Пост Комета 1.md",
     "Inbox/Redux Toolkit.md",
     "Inbox/Red Group.md",
     "Inbox/Темы для ютуда.md",
     "Inbox/Непонятки с Цеттель и Обсидиан.md",
-    "Inbox/Как начать с нуля.md",
     "Projects/Frontend/Файл prettier для nextjs 14.md",
     "Projects/Productivity/Asana.md",
     "Next Actions/Пирамида Ясности.md",
     "Projects/WebAgency/КП для Астры.md",
-    "Inbox/Коммерческое Предложение (КП).md",
     "DB/Content/Как начать свой день.md",
     "DB/Content/Если что-то не получается.md",
     "DB/Content",
@@ -241,7 +230,6 @@
     "DB/People",
     "DB",
     "Dashboard.md",
-    "Inbox/Мурсулган Сейсембай.md",
     "conflict-files-obsidian-git.md"
   ]
 }
