@@ -25,6 +25,8 @@
 - Изучают маркетинг и пытаются быть в тренде
 - Пробуют ниши и рекламу
 
+
+https://vc.ru/marketing/821271-kto-tvoya-celevaya-auditoriya-podrobnyy-algoritm-raboty-s-ca-dlya-marketologa-na-primere-realnogo-proekta?ysclid=lt4lf29s7i924938072
 ##### Сегментирование ЦА
 >[!tip] Существует ЦА и ее сегменты - это разные понятия.
 
