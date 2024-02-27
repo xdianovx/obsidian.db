@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
+                "file": "Projects/WebAgency/Референсы.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,9 +76,21 @@
                 "currentVersion": "1.5.8"
               }
             }
+          },
+          {
+            "id": "65772057dbf9e252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
+                "file": "Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
+                "file": "Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md"
+                "file": "Inbox/Untitled 1.md"
               }
             }
           }
@@ -205,15 +217,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "446a90feb562813b",
+  "active": "65772057dbf9e252",
   "lastOpenFiles": [
+    "Inbox/Untitled 1.md",
+    "Projects/WebAgency/Референсы.md",
+    "Inbox/реф кп.md",
+    "Inbox/Реф 2.md",
+    "Inbox/Реф.md",
+    "Projects/WebAgency/Контент.md",
+    "DB/Content/KOMETA/Пост Комета 1.md",
+    "Projects/WebAgency/Коммерческое Предложение (КП).md",
+    "DB/Content/Как начать с нуля.md",
+    "DB/Content/Как делать сценарии.md",
+    "DB/Content/KOMETA/Темы джля ТГ канала КОМЕТА.md",
+    "DB/Content/KOMETA",
     "DB/People/Мурсулган Сейсембай.md",
-    "Inbox/Коммерческое Предложение (КП).md",
-    "Inbox/Как начать с нуля.md",
-    "Inbox/Как делать сценарии.md",
-    "Inbox/Темы джля ТГ канала КОМЕТА.md",
     "Inbox/Шортс. Зачем сайту нужен блог.md",
-    "Inbox/Пост Комета 1.md",
     "Inbox/Redux Toolkit.md",
     "Inbox/Red Group.md",
     "Inbox/Темы для ютуда.md",
@@ -229,7 +248,6 @@
     "Inbox/Доктор Мальков.md",
     "DB/People",
     "DB",
-    "Dashboard.md",
-    "conflict-files-obsidian-git.md"
+    "Dashboard.md"
   ]
 }
