@@ -12,6 +12,7 @@ https://vc.ru/marketing/1024702-opredelyaem-tov-za-10-min https://vc.ru/marketin
 - Дарим VPN
 - Открытые процессы в сервисе
 - Подхватим проект на любой этапе
+- Современные технологии по цене Bitrix
 - 
 
 
