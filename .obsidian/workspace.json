@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e210f538ac15f660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3deae8eff8ad97d9",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
+                "file": "Inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md",
+                "file": "Inbox/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Темы джля ТГ канала КОМЕТА.md"
+                "file": "Inbox/Untitled 1.md"
               }
             }
           }
@@ -205,10 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "446a90feb562813b",
+  "active": "e210f538ac15f660",
   "lastOpenFiles": [
-    "Inbox/Пост Комета 1.md",
     "Inbox/Темы джля ТГ канала КОМЕТА.md",
+    "Inbox/Untitled 1.md",
+    "Inbox/Пост Комета 1.md",
     "Inbox/Redux Toolkit.md",
     "Inbox/Red Group.md",
     "Inbox/Темы для ютуда.md",
