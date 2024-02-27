@@ -11,7 +11,8 @@ https://vc.ru/marketing/1024702-opredelyaem-tov-za-10-min https://vc.ru/marketin
 **УТП**
 - Дарим VPN
 - Открытые процессы в сервисе
-- Подхватим 
+- Подхватим проект на любой этапе
+- 
 
 
 ---
