@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "a67b5675a11befd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Процессы ведения клиента.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e618d57af557b48",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Процессы ведения клиента.md",
+                "file": "Inbox/Определяем TOV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Процессы ведения клиента.md",
+                "file": "Inbox/Определяем TOV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Процессы ведения клиента.md"
+                "file": "Inbox/Определяем TOV.md"
               }
             }
           }
@@ -207,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a67b5675a11befd6",
+  "active": "446a90feb562813b",
   "lastOpenFiles": [
-    "Inbox/Определяем TOV.md",
     "Inbox/Процессы ведения клиента.md",
+    "Inbox/Определяем TOV.md",
     "Projects/WebAgency/Разработать бриф для разработки сайта.md",
     "Inbox/Темы для ютуда.md",
     "Шортс. Зачем сайту нужен блог.md",
