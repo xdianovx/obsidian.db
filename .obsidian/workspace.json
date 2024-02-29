@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "215ab7d336ece6e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Непонятки с Цеттель и Обсидиан.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c5db517850c67f21",
             "type": "leaf",
             "state": {
@@ -78,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91b49daacdbbea5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Бриф для разработки сайта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/Бриф для разработки сайта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Inbox/Бриф для разработки сайта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Untitled.md"
+                "file": "Inbox/Бриф для разработки сайта.md"
               }
             }
           }
@@ -207,20 +207,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bec767b059b62841",
+  "active": "91b49daacdbbea5f",
   "lastOpenFiles": [
-    "Inbox/Определяем TOV.md",
+    "Inbox/Бриф для разработки сайта.md",
     "Inbox/Untitled.md",
+    "Projects/WebAgency/Разработать бриф для разработки сайта.md",
+    "Inbox/Определяем TOV.md",
+    "Projects/Frontend/Файл prettier для nextjs 14.md",
+    "Inbox/Непонятки с Цеттель и Обсидиан.md",
+    "Projects/Frontend/Red Group.md",
     "_assets/Без имени.png",
     "_assets/__---01 1.jpg",
     "_assets/__---01.jpg",
     "Inbox/Процессы ведения клиента.md",
-    "Projects/WebAgency/Разработать бриф для разработки сайта.md",
     "Inbox/Темы для ютуда.md",
     "Шортс. Зачем сайту нужен блог.md",
     "DB/Content/KOMETA/Сценарии",
     "DB/Content/KOMETA/Идеи",
-    "Projects/Frontend/Red Group.md",
     "Inbox/Redux Toolkit.md",
     "Inbox/UNIT экономика (Юнит Экономика).md",
     "Inbox/User Story.md",
@@ -238,9 +241,6 @@
     "DB/Content/Как делать сценарии.md",
     "DB/Content/KOMETA/Темы джля ТГ канала КОМЕТА.md",
     "DB/Content/KOMETA",
-    "DB/People/Мурсулган Сейсембай.md",
-    "Inbox/Непонятки с Цеттель и Обсидиан.md",
-    "Projects/Frontend/Файл prettier для nextjs 14.md",
     "DB/Content",
     "DB/People",
     "DB"
