@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "codes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md"
+                "file": "Projects/Productivity/Study tips from a ADHD university student..md"
               }
             }
           }
@@ -207,7 +208,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91b49daacdbbea5f",
+  "active": "7d617f640ef23dd6",
   "lastOpenFiles": [
     "Inbox/Бриф для разработки сайта.md",
     "Inbox/Untitled.md",
