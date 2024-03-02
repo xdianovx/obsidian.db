@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcd3f9bb77e71f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/GSAP Footer animation reveal under.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
+                "file": "Inbox/GSAP Footer animation reveal under.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Productivity/Study tips from a ADHD university student..md",
+                "file": "Inbox/GSAP Footer animation reveal under.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Productivity/Study tips from a ADHD university student..md"
+                "file": "Inbox/GSAP Footer animation reveal under.md"
               }
             }
           }
@@ -208,8 +220,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d617f640ef23dd6",
+  "active": "bcd3f9bb77e71f55",
   "lastOpenFiles": [
+    "Projects/Productivity/Study tips from a ADHD university student..md",
+    "Inbox/GSAP Footer animation reveal under.md",
     "Inbox/Бриф для разработки сайта.md",
     "Inbox/Untitled.md",
     "Projects/WebAgency/Разработать бриф для разработки сайта.md",
@@ -239,8 +253,6 @@
     "DB/Content/KOMETA/Пост Комета 1.md",
     "Projects/WebAgency/Коммерческое Предложение (КП).md",
     "DB/Content/Как начать с нуля.md",
-    "DB/Content/Как делать сценарии.md",
-    "DB/Content/KOMETA/Темы джля ТГ канала КОМЕТА.md",
     "DB/Content/KOMETA",
     "DB/Content",
     "DB/People",
