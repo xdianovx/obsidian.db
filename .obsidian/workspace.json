@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/WebAgency/Разработать бриф для разработки сайта.md",
+                "file": "Projects/WebAgency/Референсы.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codes",
+                "query": "ref",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/WebAgency/Разработать бриф для разработки сайта.md",
+                "file": "Projects/WebAgency/Референсы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/WebAgency/Разработать бриф для разработки сайта.md",
+                "file": "Projects/WebAgency/Референсы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/WebAgency/Разработать бриф для разработки сайта.md"
+                "file": "Projects/WebAgency/Референсы.md"
               }
             }
           }
@@ -198,12 +198,12 @@
   },
   "active": "9e618d57af557b48",
   "lastOpenFiles": [
+    "Projects/WebAgency/Разработать бриф для разработки сайта.md",
     "Projects/Productivity/Study tips from a ADHD university student..md",
     "Inbox/GSAP Footer animation reveal under.md",
     "Inbox/Затемнять остальные при наведении.md",
     "Inbox/Бриф для разработки сайта.md",
     "Inbox/Untitled.md",
-    "Projects/WebAgency/Разработать бриф для разработки сайта.md",
     "Inbox/Определяем TOV.md",
     "Projects/Frontend/Файл prettier для nextjs 14.md",
     "Inbox/Непонятки с Цеттель и Обсидиан.md",
