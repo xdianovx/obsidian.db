@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Inbox/Биржи фриланс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Inbox/Биржи фриланс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md"
+                "file": "Inbox/Биржи фриланс.md"
               }
             }
           }
@@ -239,15 +239,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bec767b059b62841",
+  "active": "360eae9d4ef81000",
   "lastOpenFiles": [
     "Inbox/Хабр ответ.md",
-    "Inbox/Биржи фриланс.md",
+    "Inbox/Определяем TOV.md",
     "Inbox/Бриф для разработки сайта.md",
+    "Inbox/Биржи фриланс.md",
     "Inbox/Затемнять остальные при наведении.md",
     "Inbox/Untitled.md",
     "Projects/WebAgency/Референсы.md",
-    "Inbox/Определяем TOV.md",
     "Projects/Frontend/Файл prettier для nextjs 14.md",
     "Projects/Frontend/Red Group.md",
     "Inbox/Untitled 1.md",
