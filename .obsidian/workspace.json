@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Биржи фриланс.md",
+                "file": "Inbox/Бриф для разработки сайта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Биржи фриланс.md",
+                "file": "Inbox/Бриф для разработки сайта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Биржи фриланс.md"
+                "file": "Inbox/Бриф для разработки сайта.md"
               }
             }
           }
@@ -239,7 +239,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "360eae9d4ef81000",
+  "active": "bec767b059b62841",
   "lastOpenFiles": [
     "Inbox/Хабр ответ.md",
     "Inbox/Биржи фриланс.md",
