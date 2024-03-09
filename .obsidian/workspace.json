@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Хабр ответ.md",
+                "file": "Inbox/Биржи фриланс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Хабр ответ.md",
+                "file": "Inbox/Биржи фриланс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Хабр ответ.md"
+                "file": "Inbox/Биржи фриланс.md"
               }
             }
           }
@@ -239,12 +239,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b432807410b4588",
+  "active": "360eae9d4ef81000",
   "lastOpenFiles": [
+    "Inbox/Untitled 2.md",
     "Inbox/Биржи фриланс.md",
+    "Inbox/Бриф для разработки сайта.md",
     "Inbox/Хабр ответ.md",
     "Inbox/Определяем TOV.md",
-    "Inbox/Бриф для разработки сайта.md",
     "Inbox/Затемнять остальные при наведении.md",
     "Inbox/Untitled.md",
     "Projects/WebAgency/Референсы.md",
@@ -271,7 +272,6 @@
     "Inbox/реф кп.md",
     "Inbox/Реф 2.md",
     "Inbox/Реф.md",
-    "Projects/WebAgency/Контент.md",
     "DB/Content/KOMETA",
     "DB/Content",
     "DB/People",
