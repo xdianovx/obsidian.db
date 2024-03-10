@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Биржи фриланс.md",
+                "file": "Inbox/Хабр ответ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Биржи фриланс.md",
+                "file": "Inbox/Хабр ответ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Биржи фриланс.md"
+                "file": "Inbox/Хабр ответ.md"
               }
             }
           }
@@ -239,10 +239,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "360eae9d4ef81000",
+  "active": "7b432807410b4588",
   "lastOpenFiles": [
-    "Inbox/Untitled 2.md",
     "Inbox/Биржи фриланс.md",
+    "Inbox/Untitled 2.md",
     "Inbox/Бриф для разработки сайта.md",
     "Inbox/Хабр ответ.md",
     "Inbox/Определяем TOV.md",
