@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "8bffa378960dd8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Дизайн процесс.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "360eae9d4ef81000",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Хабр ответ.md",
+                "file": "Inbox/Дизайн процесс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Хабр ответ.md",
+                "file": "Inbox/Дизайн процесс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Хабр ответ.md"
+                "file": "Inbox/Дизайн процесс.md"
               }
             }
           }
@@ -239,12 +251,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b432807410b4588",
+  "active": "8bffa378960dd8ee",
   "lastOpenFiles": [
+    "Inbox/Хабр ответ.md",
+    "Inbox/Дизайн процесс.md",
     "Inbox/Биржи фриланс.md",
     "Inbox/Untitled 2.md",
     "Inbox/Бриф для разработки сайта.md",
-    "Inbox/Хабр ответ.md",
     "Inbox/Определяем TOV.md",
     "Inbox/Затемнять остальные при наведении.md",
     "Inbox/Untitled.md",
@@ -271,7 +284,6 @@
     "Inbox/Переписать все транзакции юры за два новых сайта, отдельно за тести.md",
     "Inbox/реф кп.md",
     "Inbox/Реф 2.md",
-    "Inbox/Реф.md",
     "DB/Content/KOMETA",
     "DB/Content",
     "DB/People",
