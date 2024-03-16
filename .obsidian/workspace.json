@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Дизайн процесс.md",
+                "file": "Inbox/Хабр ответ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Дизайн процесс.md",
+                "file": "Inbox/Хабр ответ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Дизайн процесс.md"
+                "file": "Inbox/Хабр ответ.md"
               }
             }
           }
@@ -251,14 +251,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bffa378960dd8ee",
+  "active": "7b432807410b4588",
   "lastOpenFiles": [
+    "Inbox/Дизайн процесс.md",
     "_assets/Pasted image 20240315203725.png",
     "_assets/Pasted image 20240315203658.png",
     "_assets/Pasted image 20240315203641.png",
     "_assets/Pasted image 20240315203326.png",
     "Inbox/Хабр ответ.md",
-    "Inbox/Дизайн процесс.md",
     "Inbox/Биржи фриланс.md",
     "Inbox/Untitled 2.md",
     "Inbox/Бриф для разработки сайта.md",
