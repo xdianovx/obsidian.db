@@ -122,9 +122,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f444ea1962b2da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Хабр ответ.md",
+                "file": "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Хабр ответ.md",
+                "file": "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Хабр ответ.md"
+                "file": "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md"
               }
             }
           }
@@ -251,10 +263,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b432807410b4588",
+  "active": "9f444ea1962b2da0",
   "lastOpenFiles": [
-    "Inbox/Дизайн процесс.md",
+    "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
     "Inbox/Хабр ответ.md",
+    "Inbox/Дизайн процесс.md",
     "_assets/Pasted image 20240315203725.png",
     "_assets/Pasted image 20240315203658.png",
     "_assets/Pasted image 20240315203641.png",
