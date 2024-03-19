@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
+                "file": "Inbox/Хабр ответ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
+                "file": "Inbox/Хабр ответ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md"
+                "file": "Inbox/Хабр ответ.md"
               }
             }
           }
@@ -263,7 +263,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f444ea1962b2da0",
+  "active": "7b432807410b4588",
   "lastOpenFiles": [
     "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
     "Inbox/Хабр ответ.md",
