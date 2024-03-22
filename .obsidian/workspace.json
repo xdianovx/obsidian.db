@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea6db95b8432e70f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Коммерческое Предложение (КП).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ada495af8a9e457",
             "type": "leaf",
             "state": {
@@ -42,9 +30,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ec278bfee8fa7c7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "8202ed7b5b97405d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Бриф для разработки сайта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "465e57eccd70c0c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/UNIT экономика (Юнит Экономика).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/UNIT экономика (Юнит Экономика).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/UNIT экономика (Юнит Экономика).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -171,8 +193,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "960396aa03a7d6d7",
+  "active": "465e57eccd70c0c3",
   "lastOpenFiles": [
+    "Inbox/Бриф для разработки сайта.md",
+    "conflict-files-obsidian-git.md",
+    "Inbox/UNIT экономика (Юнит Экономика).md",
+    "Шортс. Зачем сайту нужен блог.md",
+    "_assets/Без имени.png",
+    "_assets/__---01.jpg",
+    "_assets/__---01 1.jpg",
+    "Projects/WebAgency/Референсы.md",
+    "Projects/WebAgency/Коммерческое Предложение (КП).md",
+    "Projects/Frontend/Red Group.md",
+    "Inbox/Расписать планы на год, полгода, месяцы, недели.md",
+    "Inbox/Процессы ведения клиента.md",
+    "Inbox/Redux Toolkit.md",
+    "DB/People/Мурсулган Сейсембай.md",
+    "DB/People",
+    "DB/Content/Как начать с нуля.md",
+    "DB/Content/Как делать сценарии.md",
+    "DB/Content/KOMETA/Темы джля ТГ канала КОМЕТА.md",
+    "DB/Content/KOMETA/Пост Комета 1.md",
+    "DB/Content/KOMETA",
     "Projects/WebAgency/КП для Астры.md",
     "Projects/Frontend/Файл prettier для nextjs 14.md",
     "Next Actions/Для постов.md",
@@ -183,24 +225,9 @@
     "DB/Content",
     "DB",
     "Inbox/Если что-то не получается.md",
-    "Inbox/UNIT экономика (Юнит Экономика).md",
     "Inbox/VUE 3 Курс Арчаков.md",
     "Inbox/Как начать свой день.md",
     "Inbox/Мурсулган Сейсембай.md",
-    "Inbox/Для постов.md",
-    "Inbox/Текст КП \"Астра\".md",
-    "Inbox/Коммерческое Предложение (КП).md",
-    "Inbox/реф кп.md",
-    "conflict-files-obsidian-git.md",
-    "Projects/uiux/Атомарный дизайн.md",
-    "Next Actions/Пирамида Ясности.md",
-    "Inbox/Доктор Мальков.md",
-    "Inbox/Untitled.md",
-    "Inbox/Реф 2.md",
-    "Inbox/User Story.md",
-    "Inbox/Реф.md",
-    "Inbox/Переписать все транзакции юры за два новых сайта, отдельно за тести.md",
-    "Inbox/Untitled 2.md",
     "Projects/3D",
     "Projects/Health",
     "_assets/Pasted image 20240130100036.png",
@@ -212,12 +239,7 @@
     "Projects/Programming/Python",
     "Projects/Programming",
     "Projects/Frontend",
-    "Projects/Miscellaneous",
-    "Projects/English",
     "_assets/Pasted image 20240122141308.png",
-    "_assets/Pasted image 20240122140955.png",
-    "_assets/Pasted image 20240122140827.png",
-    "_assets/Pasted image 20240122140711.png",
-    "_assets/Frame 177.png"
+    "_assets/Pasted image 20240122140955.png"
   ]
 }
