@@ -76,6 +76,16 @@
             }
           },
           {
+            "id": "4d4ea074d11eb1a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
             "id": "8bffa378960dd8ee",
             "type": "leaf",
             "state": {
@@ -136,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -263,7 +273,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b432807410b4588",
+  "active": "4d4ea074d11eb1a2",
   "lastOpenFiles": [
     "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
     "Inbox/Хабр ответ.md",
