@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Inbox/Хабр ответ.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Inbox/Хабр ответ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "Inbox/Хабр ответ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md"
+                "file": "Inbox/Хабр ответ.md"
               }
             }
           }
@@ -183,8 +183,8 @@
   },
   "active": "8202ed7b5b97405d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Inbox/Бриф для разработки сайта.md",
+    "conflict-files-obsidian-git.md",
     "_assets/Pasted image 20240315203725.png",
     "_assets/Pasted image 20240315203658.png",
     "_assets/Pasted image 20240315203641.png",
