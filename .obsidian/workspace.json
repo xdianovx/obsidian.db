@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/VUE 3 Курс Арчаков.md",
+                "file": "Inbox/Дизайн процесс.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/UNIT экономика (Юнит Экономика).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ec278bfee8fa7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/3D.md",
+                "file": "Inbox/Дизайн процесс.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/3D.md",
+                "file": "Inbox/Дизайн процесс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/3D.md",
+                "file": "Inbox/Дизайн процесс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/3D.md"
+                "file": "Inbox/Дизайн процесс.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,23 +158,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ec278bfee8fa7c7",
+  "active": "2ada495af8a9e457",
   "lastOpenFiles": [
+    "Inbox/Биржи фриланс.md",
     "Projects/3D/Blender.md",
-    "Inbox/3D.md",
     "Inbox/VUE 3 Курс Арчаков.md",
+    "Inbox/Дизайн процесс.md",
+    "Inbox/Бриф для разработки сайта.md",
+    "Inbox/UNIT экономика (Юнит Экономика).md",
+    "Inbox/3D.md",
     "Inbox/User Story.md",
     "Inbox/Untitled 1.md",
     "Inbox/Untitled 2.md",
     "Inbox/Untitled.md",
-    "Inbox/UNIT экономика (Юнит Экономика).md",
     "Inbox/GSAP Footer animation reveal under.md",
     "Inbox/Хабр ответ.md",
     "Inbox/Расписать планы на год, полгода, месяцы, недели.md",
     "Inbox/Определяем TOV.md",
     "Inbox/Процессы ведения клиента.md",
-    "Inbox/Дизайн процесс.md",
-    "Inbox/Бриф для разработки сайта.md",
     "conflict-files-obsidian-git.md",
     "_assets/Pasted image 20240315203725.png",
     "_assets/Pasted image 20240315203658.png",
@@ -196,7 +183,6 @@
     "_assets/Pasted image 20240315203326.png",
     "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
     "Inbox/Затемнять остальные при наведении.md",
-    "Inbox/Биржи фриланс.md",
     "Шортс. Зачем сайту нужен блог.md",
     "_assets/Без имени.png",
     "_assets/__---01.jpg",
