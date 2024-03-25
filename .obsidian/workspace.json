@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06beb354b6901825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Бриф для разработки сайта.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -181,10 +193,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8202ed7b5b97405d",
+  "active": "06beb354b6901825",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Inbox/Бриф для разработки сайта.md",
+    "conflict-files-obsidian-git.md",
+    "_assets/Pasted image 20240315203725.png",
+    "_assets/Pasted image 20240315203658.png",
+    "_assets/Pasted image 20240315203641.png",
+    "_assets/Pasted image 20240315203326.png",
+    "Inbox/Хабр ответ.md",
+    "Inbox/Люди не способные справляться со своими желаниями становятся слабыми,  морально не устойчивыми и ненадежными во всех прочих отношениях..md",
+    "Inbox/Затемнять остальные при наведении.md",
+    "Inbox/Дизайн процесс.md",
+    "Inbox/Биржи фриланс.md",
+    "Inbox/Untitled 2.md",
+    "Inbox/Untitled 1.md",
+    "Inbox/GSAP Footer animation reveal under.md",
     "Inbox/UNIT экономика (Юнит Экономика).md",
     "Шортс. Зачем сайту нужен блог.md",
     "_assets/Без имени.png",
@@ -205,29 +229,16 @@
     "DB/Content/KOMETA",
     "Projects/WebAgency/КП для Астры.md",
     "Projects/Frontend/Файл prettier для nextjs 14.md",
-    "Next Actions/Для постов.md",
-    "Inbox/Определяем TOV.md",
-    "Inbox/Непонятки с Цеттель и Обсидиан.md",
-    "DB/Content/Как начать свой день.md",
-    "DB/Content/Если что-то не получается.md",
     "DB/Content",
     "DB",
-    "Inbox/Если что-то не получается.md",
-    "Inbox/VUE 3 Курс Арчаков.md",
-    "Inbox/Как начать свой день.md",
-    "Inbox/Мурсулган Сейсембай.md",
     "Projects/3D",
     "Projects/Health",
     "_assets/Pasted image 20240130100036.png",
     "_assets/Pasted image 20240130095819.png",
     "_assets/Pasted image 20240130095642.png",
-    "_assets/Pasted image 20240130094224.png",
-    "_assets/1-1.webp",
     "_assets/Curriculum-Roadmap-English-1.pdf",
     "Projects/Programming/Python",
     "Projects/Programming",
-    "Projects/Frontend",
-    "_assets/Pasted image 20240122141308.png",
-    "_assets/Pasted image 20240122140955.png"
+    "Projects/Frontend"
   ]
 }
