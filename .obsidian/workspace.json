@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Дизайн процесс.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "960396aa03a7d6d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Дизайн процесс.md",
+                "file": "Inbox/Хабр ответ.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Дизайн процесс.md",
+                "file": "Inbox/Хабр ответ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Дизайн процесс.md",
+                "file": "Inbox/Хабр ответ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Дизайн процесс.md"
+                "file": "Inbox/Хабр ответ.md"
               }
             }
           }
@@ -160,8 +148,8 @@
   },
   "active": "2ada495af8a9e457",
   "lastOpenFiles": [
-    "Inbox/Untitled.md",
     "Inbox/Дизайн процесс.md",
+    "Inbox/Untitled.md",
     "Inbox/Биржи фриланс.md",
     "Projects/3D/Blender.md",
     "Inbox/VUE 3 Курс Арчаков.md",
