@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Статусы заметок.md",
+                "file": "3 - Templates/Main Temlate.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#inbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Статусы заметок.md",
+                "file": "3 - Templates/Main Temlate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Статусы заметок.md",
+                "file": "3 - Templates/Main Temlate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Статусы заметок.md"
+                "file": "3 - Templates/Main Temlate.md"
               }
             }
           }
@@ -133,41 +134,42 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e47c46b1373641a6",
+  "active": "e26466d4ad192baf",
   "lastOpenFiles": [
-    "README.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
-    "2 - Source/readme.md",
-    "4 - Notes/Саморазвитие.md",
+    "4 - Notes/Индексные страницы в Obsidian.md",
+    "4 - Notes/Obsidian.md",
+    "1 - Rought/Untitled.md",
+    "1 - Rought/Untitled 1.md",
+    "1 - Rought/Статусы заметок.md",
     "1 - Rought/Расписание и дела.md",
+    "1 - Rought/readme.md",
+    "4 - Notes/SEO.md",
+    "4 - Notes/Саморазвитие.md",
+    "4 - Notes/Книги, которые хочу прочитать.md",
+    "README.md",
+    "Obsidian/Obsidian 1.md",
+    "Obsidian/Лучшие ролики по Obsidian.md",
+    "2 - Source/readme.md",
     "1 - Rought/Плагины для Obsidian.md",
     "3 - Templates/Main Temlate.md",
-    "4 - Notes/Индексные страницы в Obsidian.md",
-    "Obsidian/Лучшие ролики по Obsidian.md",
-    "Obsidian/Obsidian 1.md",
-    "4 - Notes/Obsidian.md",
-    "1 - Rought/Статусы заметок.md",
     "Книги/Untitled.md",
     "4 - Notes",
     "3 - Templates",
-    "1 - Rought/readme.md",
     "2 - Source",
-    "SEO.md",
     "1 - Rought",
-    "Books.md",
     "daily/Untitled.md",
     "Книги",
     "Obsidian",

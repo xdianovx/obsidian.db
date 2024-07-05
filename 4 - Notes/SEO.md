@@ -1,6 +1,9 @@
-Источник: https://www.youtube.com/watch?v=gRoIz34NT64&t=143s
+**05.07.2024 09:07**
+**Status**: #sorted
+**Tags**: [[SEO]]
 
----
+## SEO
+
 https://xmind.ai/share/Toy5KD8A - Карта
 
 **Шаг 1: Анализ конкурентов**
@@ -33,3 +36,8 @@ https://xmind.ai/share/Toy5KD8A - Карта
 - Labrika
 - Yandex Webmaster
 - 
+
+
+
+#### References
+https://www.youtube.com/watch?v=gRoIz34NT64&t=143s
