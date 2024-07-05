@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Документация по компонентной верстке.md",
+                "file": "Daily/05.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Документация по компонентной верстке.md",
+                "file": "Daily/05.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Документация по компонентной верстке.md"
+                "file": "Daily/05.07.2024.md"
               }
             }
           },
@@ -171,10 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28021bd05b392729",
+  "active": "704206db8f9f8bdf",
   "lastOpenFiles": [
-    "Daily/05.07.2024.md",
     "1 - Rought/Документация по компонентной верстке.md",
+    "Daily/05.07.2024.md",
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Obsidian.md",
