@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#inbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,6 +159,8 @@
   },
   "active": "704206db8f9f8bdf",
   "lastOpenFiles": [
+    "4 - Notes/Вызвать модальное окно shadcn vue.md",
+    "Daily/05.07.2024.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Obsidian.md",
     "2 - Source/_readme.md",
@@ -166,7 +168,6 @@
     "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
     "1 - Rought/Untitled.md",
     "1 - Rought/Video. (278) Управление проектами в Asana » миссия, цели, проекты и задачи.md",
-    "Daily/05.07.2024.md",
     "1 - Rought/2024-07.md",
     "3 - Templates/Daily.md",
     "Daily/Untitled.md",
@@ -186,7 +187,6 @@
     "README.md",
     "Obsidian/Obsidian 1.md",
     "Obsidian/Лучшие ролики по Obsidian.md",
-    "1 - Rought/Плагины для Obsidian.md",
     "4 - Notes",
     "3 - Templates",
     "2 - Source",
