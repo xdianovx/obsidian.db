@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37b2055d333c993b",
+        "id": "f5afc43742f64a37",
         "type": "tabs",
         "children": [
           {
-            "id": "e26466d4ad192baf",
+            "id": "704206db8f9f8bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Templates/Untitled.md",
+                "file": "Daily/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Templates/Untitled.md",
+                "file": "Daily/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Templates/Untitled.md",
+                "file": "Daily/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Templates/Untitled.md"
+                "file": "Daily/Untitled.md"
               }
             }
           },
@@ -156,13 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e26466d4ad192baf",
+  "active": "704206db8f9f8bdf",
   "lastOpenFiles": [
+    "Daily/Untitled.md",
+    "3 - Templates/Daily.md",
+    "1 - Rought/Untitled.md",
     "3 - Templates/Main Temlate.md",
-    "3 - Templates/Untitled.md",
     "Untitled.canvas",
     "Daily",
-    "1 - Rought/Untitled.md",
     "1 - Rought/Untitled 2.md",
     "2 - Source/readme.md",
     "1 - Rought/Расписание и дела.md",
