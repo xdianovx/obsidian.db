@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Флоу для создания заказа из админки.md",
+                "file": "1 - Rought/v-model vue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Флоу для создания заказа из админки.md",
+                "file": "1 - Rought/v-model vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Флоу для создания заказа из админки.md",
+                "file": "1 - Rought/v-model vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Флоу для создания заказа из админки.md"
+                "file": "1 - Rought/v-model vue.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "2c63c6e286f1542a",
   "lastOpenFiles": [
-    "Daily/05.07.2024.md",
     "1 - Rought/Флоу для создания заказа из админки.md",
+    "1 - Rought/v-model vue.md",
+    "Daily/05.07.2024.md",
     "1 - Rought/Документация по компонентной верстке.md",
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
@@ -213,7 +214,6 @@
     "4 - Notes/Саморазвитие.md",
     "4 - Notes/Книги, которые хочу прочитать.md",
     "README.md",
-    "Obsidian/Obsidian 1.md",
     "4 - Notes",
     "3 - Templates",
     "2 - Source",
