@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Расписание и дела.md",
+                "file": "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Расписание и дела.md",
+                "file": "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Расписание и дела.md",
+                "file": "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Расписание и дела.md"
+                "file": "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "e26466d4ad192baf",
   "lastOpenFiles": [
+    "1 - Rought/Плагин Media Note для 💜 Obsidian. Анонс статьи про дизайн-системы..md",
+    "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
+    "1 - Rought/Расписание и дела.md",
     "3 - Templates/Main Temlate.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Индексные страницы в Obsidian.md",
@@ -155,7 +158,6 @@
     "1 - Rought/Untitled.md",
     "1 - Rought/Untitled 1.md",
     "1 - Rought/Статусы заметок.md",
-    "1 - Rought/Расписание и дела.md",
     "1 - Rought/readme.md",
     "4 - Notes/SEO.md",
     "4 - Notes/Саморазвитие.md",
