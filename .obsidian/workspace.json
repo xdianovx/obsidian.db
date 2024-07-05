@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +130,17 @@
                 "file": "1 - Rought/Расписание и дела.md"
               }
             }
+          },
+          {
+            "id": "b0f9d5455aef8d3b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -144,10 +153,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "101b6b2bd72c9d7b",
+  "active": "b0f9d5455aef8d3b",
   "lastOpenFiles": [
     "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
