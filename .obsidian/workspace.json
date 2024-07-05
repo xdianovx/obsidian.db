@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "28021bd05b392729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/Документация по компонентной верстке.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/05.07.2024.md",
+                "file": "1 - Rought/Документация по компонентной верстке.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/05.07.2024.md",
+                "file": "1 - Rought/Документация по компонентной верстке.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/05.07.2024.md"
+                "file": "1 - Rought/Документация по компонентной верстке.md"
               }
             }
           },
@@ -157,10 +171,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "704206db8f9f8bdf",
+  "active": "28021bd05b392729",
   "lastOpenFiles": [
-    "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "Daily/05.07.2024.md",
+    "1 - Rought/Документация по компонентной верстке.md",
+    "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Obsidian.md",
     "2 - Source/_readme.md",
@@ -186,7 +201,6 @@
     "4 - Notes/Книги, которые хочу прочитать.md",
     "README.md",
     "Obsidian/Obsidian 1.md",
-    "Obsidian/Лучшие ролики по Obsidian.md",
     "4 - Notes",
     "3 - Templates",
     "2 - Source",
