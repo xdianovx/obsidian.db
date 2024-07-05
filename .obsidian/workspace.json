@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "df57202623041253",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b2055d333c993b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e26466d4ad192baf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/Статусы заметок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8637207e3423e5c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "45f1c9b7dffa8951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e47c46b1373641a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "101b6b2bd72c9d7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ad9f948cd0f03d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c97e4b3c473b8761",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25e4cad81a9a317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "874adc707404480f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Rought/Статусы заметок.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1780975210237195",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Rought/Статусы заметок.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0c6aa22e78bcd06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53f783d5637bea0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Rought/Статусы заметок.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e47c46b1373641a6",
+  "lastOpenFiles": [
+    "README.md",
+    "4 - Notes/Атомные заметки (Atomic notes).md",
+    "2 - Source/readme.md",
+    "4 - Notes/Саморазвитие.md",
+    "1 - Rought/Расписание и дела.md",
+    "1 - Rought/Плагины для Obsidian.md",
+    "3 - Templates/Main Temlate.md",
+    "4 - Notes/Индексные страницы в Obsidian.md",
+    "Obsidian/Лучшие ролики по Obsidian.md",
+    "Obsidian/Obsidian 1.md",
+    "4 - Notes/Obsidian.md",
+    "1 - Rought/Статусы заметок.md",
+    "Книги/Untitled.md",
+    "4 - Notes",
+    "3 - Templates",
+    "1 - Rought/readme.md",
+    "2 - Source",
+    "SEO.md",
+    "1 - Rought",
+    "Books.md",
+    "daily/Untitled.md",
+    "Книги",
+    "Obsidian",
+    "Welcome.md",
+    "daily"
+  ]
+}
