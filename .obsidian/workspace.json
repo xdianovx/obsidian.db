@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "2c63c6e286f1542a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/Флоу для создания заказа из админки.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "28021bd05b392729",
             "type": "leaf",
             "state": {
@@ -35,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/05.07.2024.md",
+                "file": "1 - Rought/Флоу для создания заказа из админки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/05.07.2024.md",
+                "file": "1 - Rought/Флоу для создания заказа из админки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/05.07.2024.md"
+                "file": "1 - Rought/Флоу для создания заказа из админки.md"
               }
             }
           },
@@ -170,17 +184,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "704206db8f9f8bdf",
+  "active": "2c63c6e286f1542a",
   "lastOpenFiles": [
-    "1 - Rought/Документация по компонентной верстке.md",
     "Daily/05.07.2024.md",
+    "1 - Rought/Флоу для создания заказа из админки.md",
+    "1 - Rought/Документация по компонентной верстке.md",
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Obsidian.md",
     "2 - Source/_readme.md",
     "1 - Rought/_readme.md",
     "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
-    "1 - Rought/Untitled.md",
     "1 - Rought/Video. (278) Управление проектами в Asana » миссия, цели, проекты и задачи.md",
     "1 - Rought/2024-07.md",
     "3 - Templates/Daily.md",
