@@ -10,16 +10,14 @@
           {
             "id": "704206db8f9f8bdf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/05.07.2024.md",
+                "file": "Daily/06.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -34,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "28021bd05b392729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/06.07.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28021bd05b392729",
+  "active": "704206db8f9f8bdf",
   "lastOpenFiles": [
+    "Daily/05.07.2024.md",
+    "Daily/06.07.2024.md",
+    "3 - Templates/Daily.md",
+    "1 - Rought/v-model vue.md",
     "1 - Rought/Документация по компонентной верстке.md",
     "1 - Rought/{{yesterday}}.md",
-    "Daily/06.07.2024.md",
-    "Daily/05.07.2024.md",
-    "1 - Rought/v-model vue.md",
     "1 - Rought/Флоу для создания заказа из админки.md",
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
@@ -200,7 +185,6 @@
     "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
     "1 - Rought/Video. (278) Управление проектами в Asana » миссия, цели, проекты и задачи.md",
     "1 - Rought/2024-07.md",
-    "3 - Templates/Daily.md",
     "Daily/Untitled.md",
     "3 - Templates/Main Temlate.md",
     "Untitled.canvas",
