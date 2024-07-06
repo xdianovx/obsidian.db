@@ -41,19 +41,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Документация по компонентной верстке.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9704987064c7e6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Daily/06.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +184,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9704987064c7e6b",
+  "active": "28021bd05b392729",
   "lastOpenFiles": [
-    "Daily/05.07.2024.md",
+    "1 - Rought/Документация по компонентной верстке.md",
+    "1 - Rought/{{yesterday}}.md",
     "Daily/06.07.2024.md",
+    "Daily/05.07.2024.md",
     "1 - Rought/v-model vue.md",
     "1 - Rought/Флоу для создания заказа из админки.md",
-    "1 - Rought/Документация по компонентной верстке.md",
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Obsidian.md",
@@ -226,7 +214,6 @@
     "1 - Rought/Статусы заметок.md",
     "4 - Notes/SEO.md",
     "4 - Notes/Саморазвитие.md",
-    "4 - Notes/Книги, которые хочу прочитать.md",
     "4 - Notes",
     "3 - Templates",
     "2 - Source",
