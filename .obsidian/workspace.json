@@ -47,8 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9704987064c7e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/06.07.2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/05.07.2024.md",
+                "file": "Daily/06.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/05.07.2024.md",
+                "file": "Daily/06.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/05.07.2024.md"
+                "file": "Daily/06.07.2024.md"
               }
             }
           },
@@ -183,11 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "704206db8f9f8bdf",
+  "active": "a9704987064c7e6b",
   "lastOpenFiles": [
+    "Daily/05.07.2024.md",
+    "Daily/06.07.2024.md",
     "1 - Rought/v-model vue.md",
     "1 - Rought/Флоу для создания заказа из админки.md",
-    "Daily/05.07.2024.md",
     "1 - Rought/Документация по компонентной верстке.md",
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
@@ -212,7 +227,6 @@
     "4 - Notes/SEO.md",
     "4 - Notes/Саморазвитие.md",
     "4 - Notes/Книги, которые хочу прочитать.md",
-    "README.md",
     "4 - Notes",
     "3 - Templates",
     "2 - Source",
