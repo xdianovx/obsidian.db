@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/07.07.2024.md",
+                "file": "Daily/2024/July/07.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/07.07.2024.md",
+                "file": "Daily/2024/July/07.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/07.07.2024.md",
+                "file": "Daily/2024/July/07.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/07.07.2024.md"
+                "file": "Daily/2024/July/07.07.2024.md"
               }
             }
           },
@@ -193,14 +193,16 @@
   "active": "1b589a95f84b884b",
   "lastOpenFiles": [
     "Выношу все из головы.md",
+    "Daily/2024/July/07.07.2024.md",
+    "Daily/2024/July",
+    "Daily/2024",
     "Daily/07.07.2024.md",
+    "Daily/Untitled.md",
     "Daily/2024/July-07/07.07.2024.md",
     "Daily/06.07.2024.md",
-    "Daily/Untitled.md",
     "Daily/05.07.2024.md",
     "3 - Templates/Main Temlate.md",
     "Daily/2024/July-07",
-    "Daily/2024",
     "1 - Rought/Untitled.md",
     "1 - Rought/{{yesterday}}.md",
     "Daily/2024/July-07/06.07.2024.md",
@@ -221,13 +223,11 @@
     "1 - Rought/2024-07.md",
     "Untitled.canvas",
     "Daily",
-    "1 - Rought/Untitled 2.md",
     "4 - Notes",
     "3 - Templates",
     "2 - Source",
     "1 - Rought",
     "Книги",
-    "Obsidian",
-    "daily"
+    "Obsidian"
   ]
 }
