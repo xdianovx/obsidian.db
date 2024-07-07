@@ -4,58 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f5afc43742f64a37",
+        "id": "af828af41d0a1053",
         "type": "tabs",
         "children": [
           {
-            "id": "2c63c6e286f1542a",
+            "id": "c067583dec788cc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/v-model vue.md",
+                "file": "1 - Rought/Темы для канала КОМЕТА.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "28021bd05b392729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rought/Документация по компонентной верстке.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b589a95f84b884b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/July/07.07.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95c1a0647f3942ea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/07.07.2024.md",
+                "file": "1 - Rought/Темы для канала КОМЕТА.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/07.07.2024.md",
+                "file": "1 - Rought/Темы для канала КОМЕТА.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/07.07.2024.md"
+                "file": "1 - Rought/Темы для канала КОМЕТА.md"
               }
             }
           },
@@ -187,40 +152,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1b589a95f84b884b",
+  "active": "c067583dec788cc3",
   "lastOpenFiles": [
+    "1 - Rought/Промпты для нейросетей.md",
+    "1 - Rought/Темы для канала КОМЕТА.md",
     "Выношу все из головы.md",
+    "3 - Templates/Daily.md",
+    "3 - Templates/Main Temlate.md",
+    "Daily/2024/July/06.07.2024.md",
+    "1 - Rought/v-model vue.md",
+    "1 - Rought/2024-07.md",
     "Daily/2024/July/07.07.2024.md",
+    "1 - Rought/{{yesterday}}.md",
+    "1 - Rought/Документация по компонентной верстке.md",
+    "1 - Rought/{{tomorrow}}.md",
+    "Daily/2024/July/05.07.2024.md",
     "Daily/2024/July",
     "Daily/2024",
     "Daily/07.07.2024.md",
     "Daily/Untitled.md",
     "Daily/2024/July-07/07.07.2024.md",
-    "Daily/06.07.2024.md",
-    "Daily/05.07.2024.md",
-    "3 - Templates/Main Temlate.md",
     "Daily/2024/July-07",
     "1 - Rought/Untitled.md",
-    "1 - Rought/{{yesterday}}.md",
     "Daily/2024/July-07/06.07.2024.md",
     "1 - Rought/Что над знать для разработки проектов на NextJS в 2024.md",
-    "3 - Templates/Daily.md",
     "Daily/2024/July-07/05.07.2024.md",
-    "1 - Rought/v-model vue.md",
-    "1 - Rought/Документация по компонентной верстке.md",
-    "1 - Rought/{{tomorrow}}.md",
     "1 - Rought/Флоу для создания заказа из админки.md",
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Obsidian.md",
     "2 - Source/_readme.md",
     "1 - Rought/_readme.md",
-    "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
-    "1 - Rought/Video. (278) Управление проектами в Asana » миссия, цели, проекты и задачи.md",
-    "1 - Rought/2024-07.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",

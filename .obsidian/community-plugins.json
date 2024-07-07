@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "table-editor-obsidian",
-  "media-notes"
+  "media-notes",
+  "templater-obsidian",
+  "dataview"
 ]
