@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "3 - Templates/Daily.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "3 - Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "3 - Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md"
+                "file": "3 - Templates/Daily.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "c067583dec788cc3",
   "lastOpenFiles": [
-    "Выношу все из головы.md",
     "Daily/2024/July/08.07.2024.md",
+    "Выношу все из головы.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/Промпты для нейросетей.md",
     "3 - Templates/Daily.md",
