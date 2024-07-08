@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "Выношу все из головы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md"
+                "file": "Выношу все из головы.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "aee534817f88d855",
   "lastOpenFiles": [
-    "Daily/2024/July/05.07.2024.md",
     "Daily/2024/July/08.07.2024.md",
+    "3 - Templates/Daily.md",
+    "3 - Templates/Main Temlate.md",
+    "Daily/2024/July/06.07.2024.md",
+    "Daily/2024/July/07.07.2024.md",
+    "Daily/2024/July/05.07.2024.md",
     "1 - Rought/Правила написания хорошего креатива для Телеги.md",
     "1 - Rought/{{tomorrow}}.md",
     "Выношу все из головы.md",
@@ -166,7 +170,6 @@
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
     "conflict-files-obsidian-git.md",
-    "Daily/2024/July/07.07.2024.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/2024-07.md",
     "Daily/07.07.2024.md",
@@ -179,12 +182,9 @@
     "1 - Rought/v-model vue.md",
     "2 - Source/_readme.md",
     "1 - Rought/Расписание и дела.md",
-    "Daily/2024/July/06.07.2024.md",
     "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "1 - Rought/Плагин Media Note для 💜 Obsidian. Анонс статьи про дизайн-системы..md",
-    "3 - Templates/Daily.md",
     "1 - Rought/Документация по компонентной верстке.md",
-    "1 - Rought/Флоу для создания заказа из админки.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
