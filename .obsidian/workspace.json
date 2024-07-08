@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выношу все из головы.md",
+                "file": "Daily/2024/July/08.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Выношу все из головы.md",
+                "file": "Daily/2024/July/08.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Выношу все из головы.md",
+                "file": "Daily/2024/July/08.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Выношу все из головы.md"
+                "file": "Daily/2024/July/08.07.2024.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "aee534817f88d855",
   "lastOpenFiles": [
+    "Выношу все из головы.md",
     "Daily/2024/July/08.07.2024.md",
     "3 - Templates/Daily.md",
     "3 - Templates/Main Temlate.md",
@@ -165,7 +166,6 @@
     "Daily/2024/July/05.07.2024.md",
     "1 - Rought/Правила написания хорошего креатива для Телеги.md",
     "1 - Rought/{{tomorrow}}.md",
-    "Выношу все из головы.md",
     "1 - Rought/Промпты для нейросетей.md",
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
