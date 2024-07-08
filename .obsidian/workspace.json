@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "1 - Rought/Маркетинг.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c97e4b3c473b8761",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "1 - Rought/Маркетинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "1 - Rought/Маркетинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md"
+                "file": "1 - Rought/Маркетинг.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +160,9 @@
   },
   "active": "c067583dec788cc3",
   "lastOpenFiles": [
-    "3 - Templates/Daily.md",
     "Daily/2024/July/08.07.2024.md",
+    "1 - Rought/Маркетинг.md",
+    "3 - Templates/Daily.md",
     "Выношу все из головы.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/Промпты для нейросетей.md",
@@ -186,7 +189,6 @@
     "4 - Notes/Вызвать модальное окно shadcn vue.md",
     "4 - Notes/Атомные заметки (Atomic notes).md",
     "4 - Notes/Obsidian.md",
-    "2 - Source/_readme.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
