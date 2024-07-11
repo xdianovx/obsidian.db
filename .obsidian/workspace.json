@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "Daily/2024/July/11.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "Daily/2024/July/11.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md",
+                "file": "Daily/2024/July/11.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/08.07.2024.md"
+                "file": "Daily/2024/July/11.07.2024.md"
               }
             }
           },
@@ -152,13 +152,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "aee534817f88d855",
   "lastOpenFiles": [
-    "Выношу все из головы.md",
+    "Daily/2024/July/09.07.2024.md",
+    "Daily/2024/July/11.07.2024.md",
     "Daily/2024/July/08.07.2024.md",
+    "Выношу все из головы.md",
     "3 - Templates/Daily.md",
     "3 - Templates/Main Temlate.md",
     "Daily/2024/July/06.07.2024.md",
@@ -183,8 +186,6 @@
     "2 - Source/_readme.md",
     "1 - Rought/Расписание и дела.md",
     "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
-    "1 - Rought/Плагин Media Note для 💜 Obsidian. Анонс статьи про дизайн-системы..md",
-    "1 - Rought/Документация по компонентной верстке.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
