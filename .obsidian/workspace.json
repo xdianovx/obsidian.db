@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/11.07.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57f9b592ac223678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "1 - Rought/Темы для постов Пламя.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "1 - Rought/Темы для постов Пламя.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "1 - Rought/Темы для постов Пламя.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "1 - Rought/Темы для постов Пламя.md"
               }
             }
           },
@@ -170,8 +156,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57f9b592ac223678",
+  "active": "aee534817f88d855",
   "lastOpenFiles": [
+    "1 - Rought/Промпт для контента в телеграм канал.md",
+    "1 - Rought/Темы для постов Пламя.md",
+    "1 - Rought/Промпты для нейросетей.md",
     "Daily/2024/July/11.07.2024.md",
     "conflict-files-obsidian-git.md",
     "Daily/2024/July/09.07.2024.md",
@@ -184,7 +173,6 @@
     "Daily/2024/July/05.07.2024.md",
     "1 - Rought/Правила написания хорошего креатива для Телеги.md",
     "1 - Rought/{{tomorrow}}.md",
-    "1 - Rought/Промпты для нейросетей.md",
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
@@ -198,8 +186,6 @@
     "1 - Rought/Статусы заметок.md",
     "1 - Rought/v-model vue.md",
     "2 - Source/_readme.md",
-    "1 - Rought/Расписание и дела.md",
-    "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
