@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57f9b592ac223678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,13 +100,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/11.07.2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/11.07.2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/11.07.2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,10 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aee534817f88d855",
+  "active": "57f9b592ac223678",
   "lastOpenFiles": [
-    "Daily/2024/July/09.07.2024.md",
     "Daily/2024/July/11.07.2024.md",
+    "conflict-files-obsidian-git.md",
+    "Daily/2024/July/09.07.2024.md",
     "Daily/2024/July/08.07.2024.md",
     "Выношу все из головы.md",
     "3 - Templates/Daily.md",
@@ -172,7 +187,6 @@
     "1 - Rought/Промпты для нейросетей.md",
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
-    "conflict-files-obsidian-git.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/2024-07.md",
     "Daily/07.07.2024.md",
