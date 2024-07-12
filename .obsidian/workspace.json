@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c019beba2486aa5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Выношу все из головы.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc1f4130ebcda999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/12.07.2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/12.07.2024.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/12.07.2024.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,12 +183,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aee534817f88d855",
+  "active": "cc1f4130ebcda999",
   "lastOpenFiles": [
-    "Daily/2024/July/09.07.2024.md",
-    "Daily/2024/July/12.07.2024.md",
-    "Daily/2024/July/08.07.2024.md",
     "Выношу все из головы.md",
+    "conflict-files-obsidian-git.md",
+    "Daily/2024/July/12.07.2024.md",
+    "Daily/2024/July/11.07.2024.md",
+    "1 - Rought/Темы для постов Пламя.md",
+    "1 - Rought/Промпт для контента в телеграм канал.md",
+    "Daily/2024/July/09.07.2024.md",
+    "Daily/2024/July/08.07.2024.md",
     "3 - Templates/Daily.md",
     "3 - Templates/Main Temlate.md",
     "Daily/2024/July/06.07.2024.md",
@@ -172,7 +203,6 @@
     "1 - Rought/Промпты для нейросетей.md",
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
-    "conflict-files-obsidian-git.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/2024-07.md",
     "Daily/07.07.2024.md",
@@ -183,9 +213,6 @@
     "1 - Rought/_readme.md",
     "1 - Rought/Статусы заметок.md",
     "1 - Rought/v-model vue.md",
-    "2 - Source/_readme.md",
-    "1 - Rought/Расписание и дела.md",
-    "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
