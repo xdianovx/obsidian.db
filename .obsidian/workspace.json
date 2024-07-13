@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Notes/Книги, которые хочу прочитать.md",
+                "file": "Daily/2024/July/12.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Notes/Книги, которые хочу прочитать.md",
+                "file": "Daily/2024/July/12.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Notes/Книги, которые хочу прочитать.md"
+                "file": "Daily/2024/July/12.07.2024.md"
               }
             }
           },
@@ -183,8 +182,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc1f4130ebcda999",
+  "active": "aee534817f88d855",
   "lastOpenFiles": [
+    "4 - Notes/Книги, которые хочу прочитать.md",
     "Daily/2024/July/13.07.2024.md",
     "3 - Templates/Daily.md",
     "Daily/2024/July/12.07.2024.md",
@@ -212,7 +212,6 @@
     "Daily/05.07.2024.md",
     "Daily/2024/July",
     "Daily/2024",
-    "1 - Rought/_readme.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
