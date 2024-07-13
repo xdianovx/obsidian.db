@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Референесы сайтов.md",
+                "file": "Daily/2024/July/13.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Референесы сайтов.md",
+                "file": "Daily/2024/July/13.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Референесы сайтов.md",
+                "file": "Daily/2024/July/13.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Референесы сайтов.md"
+                "file": "Daily/2024/July/13.07.2024.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "cc1f4130ebcda999",
   "lastOpenFiles": [
-    "Daily/2024/July/11.07.2024.md",
     "1 - Rought/Референесы сайтов.md",
+    "Daily/2024/July/13.07.2024.md",
+    "Daily/2024/July/11.07.2024.md",
     "Daily/2024/July/12.07.2024.md",
     "conflict-files-obsidian-git.md",
     "Выношу все из головы.md",
@@ -212,7 +213,6 @@
     "Daily/2024/July",
     "Daily/2024",
     "1 - Rought/_readme.md",
-    "1 - Rought/Статусы заметок.md",
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
