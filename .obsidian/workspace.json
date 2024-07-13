@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/13.07.2024.md",
+                "file": "Выношу все из головы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/13.07.2024.md",
+                "file": "Выношу все из головы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/13.07.2024.md"
+                "file": "Выношу все из головы.md"
               }
             }
           },
@@ -170,11 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc1f4130ebcda999",
+  "active": "c019beba2486aa5a",
   "lastOpenFiles": [
+    "Daily/2024/July/13.07.2024.md",
     "4 - Notes/Книги, которые хочу прочитать.md",
     "Выношу все из головы.md",
-    "Daily/2024/July/13.07.2024.md",
     "1 - Rought/Monk Mode.md",
     "Daily/2024/July/12.07.2024.md",
     "3 - Templates/Daily.md",
