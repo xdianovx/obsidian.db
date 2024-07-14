@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aee534817f88d855",
+            "id": "c019beba2486aa5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/14.07.2024.md",
+                "file": "Выношу все из головы.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc1f4130ebcda999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/July/13.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,13 +100,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/14.07.2024.md",
+                "file": "Daily/2024/July/13.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/14.07.2024.md",
+                "file": "Daily/2024/July/13.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/14.07.2024.md"
+                "file": "Daily/2024/July/13.07.2024.md"
               }
             }
           },
@@ -146,44 +160,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aee534817f88d855",
+  "active": "cc1f4130ebcda999",
   "lastOpenFiles": [
-    "1 - Rought/Темы для постов Пламя.md",
     "Daily/2024/July/14.07.2024.md",
+    "Выношу все из головы.md",
     "Daily/2024/July/13.07.2024.md",
-    "Daily/2024/July/12.07.2024.md",
-    "1 - Rought/Референесы сайтов.md",
+    "4 - Notes/Книги, которые хочу прочитать.md",
     "1 - Rought/Monk Mode.md",
-    "1 - Rought/Промпт для контента в телеграм канал.md",
-    "1 - Rought/Промпты для нейросетей.md",
+    "Daily/2024/July/12.07.2024.md",
+    "3 - Templates/Daily.md",
     "Daily/2024/July/11.07.2024.md",
-    "conflict-files-obsidian-git.md",
     "Daily/2024/July/09.07.2024.md",
     "Daily/2024/July/08.07.2024.md",
-    "Выношу все из головы.md",
-    "3 - Templates/Daily.md",
-    "3 - Templates/Main Temlate.md",
-    "Daily/2024/July/06.07.2024.md",
     "Daily/2024/July/07.07.2024.md",
+    "Daily/2024/July/06.07.2024.md",
     "Daily/2024/July/05.07.2024.md",
+    "1 - Rought/Референесы сайтов.md",
+    "conflict-files-obsidian-git.md",
+    "1 - Rought/Темы для постов Пламя.md",
+    "1 - Rought/Промпт для контента в телеграм канал.md",
+    "3 - Templates/Main Temlate.md",
     "1 - Rought/Правила написания хорошего креатива для Телеги.md",
     "1 - Rought/{{tomorrow}}.md",
+    "1 - Rought/Промпты для нейросетей.md",
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/2024-07.md",
     "Daily/07.07.2024.md",
-    "Daily/06.07.2024.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
