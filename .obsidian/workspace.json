@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ca88877895ef22e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Промпт для контента в телеграм канал.md",
+                "file": "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Промпт для контента в телеграм канал.md",
+                "file": "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Промпт для контента в телеграм канал.md"
+                "file": "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md"
               }
             }
           },
@@ -183,8 +196,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc1f4130ebcda999",
+  "active": "5ca88877895ef22e",
   "lastOpenFiles": [
+    "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
+    "1 - Rought/Промпт для контента в телеграм канал.md",
     "Daily/2024/July/13.07.2024.md",
     "1 - Rought/Конфигурация nvchad nvim vim.md",
     "Daily/2024/July/15.07.2024.md",
@@ -203,14 +218,12 @@
     "Daily/2024/July/05.07.2024.md",
     "1 - Rought/Референесы сайтов.md",
     "1 - Rought/Темы для постов Пламя.md",
-    "1 - Rought/Промпт для контента в телеграм канал.md",
     "3 - Templates/Main Temlate.md",
     "1 - Rought/Правила написания хорошего креатива для Телеги.md",
     "1 - Rought/{{tomorrow}}.md",
     "1 - Rought/Промпты для нейросетей.md",
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
-    "1 - Rought/Темы для канала КОМЕТА.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
