@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/15.07.2024.md",
+                "file": "1 - Rought/Конфигурация nvchad nvim vim.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/15.07.2024.md",
+                "file": "1 - Rought/Конфигурация nvchad nvim vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/15.07.2024.md",
+                "file": "1 - Rought/Конфигурация nvchad nvim vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/15.07.2024.md"
+                "file": "1 - Rought/Конфигурация nvchad nvim vim.md"
               }
             }
           },
@@ -185,9 +185,10 @@
   },
   "active": "c0a49ce6ca0510be",
   "lastOpenFiles": [
+    "Daily/2024/July/15.07.2024.md",
+    "1 - Rought/Конфигурация nvchad nvim vim.md",
     "Daily/2024/July/14.07.2024.md",
     "Daily/2024/July/13.07.2024.md",
-    "Daily/2024/July/15.07.2024.md",
     "conflict-files-obsidian-git.md",
     "Выношу все из головы.md",
     "4 - Notes/Книги, которые хочу прочитать.md",
@@ -210,7 +211,6 @@
     "1 - Rought/Маркетинг.md",
     "1 - Rought/{{yesterday}}.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
-    "1 - Rought/2024-07.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
