@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/17.07.2024.md",
+                "file": "3 - Templates/Daily.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/17.07.2024.md",
+                "file": "3 - Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/17.07.2024.md",
+                "file": "3 - Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/17.07.2024.md"
+                "file": "3 - Templates/Daily.md"
               }
             }
           },
@@ -198,13 +198,13 @@
   },
   "active": "5ca88877895ef22e",
   "lastOpenFiles": [
+    "Daily/2024/July/13.07.2024.md",
     "Daily/2024/July/15.07.2024.md",
+    "Daily/2024/July/16.07.2024.md",
     "Daily/2024/July/17.07.2024.md",
     "1 - Rought/Оптимизация pagespeed метрики.md",
-    "Daily/2024/July/16.07.2024.md",
     "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
     "1 - Rought/Промпт для контента в телеграм канал.md",
-    "Daily/2024/July/13.07.2024.md",
     "1 - Rought/Конфигурация nvchad nvim vim.md",
     "Daily/2024/July/14.07.2024.md",
     "conflict-files-obsidian-git.md",
