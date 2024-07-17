@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Правила написания хорошего креатива для Телеги.md",
+                "file": "1 - Rought/Креативы конкурентов.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Правила написания хорошего креатива для Телеги.md",
+                "file": "1 - Rought/Креативы конкурентов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Правила написания хорошего креатива для Телеги.md",
+                "file": "1 - Rought/Креативы конкурентов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Правила написания хорошего креатива для Телеги.md"
+                "file": "1 - Rought/Креативы конкурентов.md"
               }
             }
           },
@@ -185,6 +185,9 @@
   },
   "active": "c0a49ce6ca0510be",
   "lastOpenFiles": [
+    "Pasted image 20240717155330.png",
+    "1 - Rought/Правила написания хорошего креатива для Телеги.md",
+    "1 - Rought/Креативы конкурентов.md",
     "Daily/2024/July/08.07.2024.md",
     "3 - Templates/Daily.md",
     "1 - Rought/Конфигурация nvchad nvim vim.md",
@@ -208,9 +211,6 @@
     "conflict-files-obsidian-git.md",
     "Выношу все из головы.md",
     "4 - Notes/Книги, которые хочу прочитать.md",
-    "1 - Rought/Monk Mode.md",
-    "Daily/2024/July/11.07.2024.md",
-    "Daily/2024/July/09.07.2024.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
