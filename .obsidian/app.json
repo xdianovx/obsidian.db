@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "1 - Rought",
   "promptDelete": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "attachmentFolderPath": "_files"
 }
