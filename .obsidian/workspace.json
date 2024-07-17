@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Выношу все из головы.md",
+                "file": "Daily/2024/July/17.07.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Креативы конкурентов.md",
+                "file": "Daily/2024/July/17.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Креативы конкурентов.md",
+                "file": "Daily/2024/July/17.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Креативы конкурентов.md"
+                "file": "Daily/2024/July/17.07.2024.md"
               }
             }
           },
@@ -183,11 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0a49ce6ca0510be",
+  "active": "c019beba2486aa5a",
   "lastOpenFiles": [
+    "Выношу все из головы.md",
+    "1 - Rought/Промпт для контента в телеграм канал.md",
+    "1 - Rought/Креативы конкурентов.md",
     "Pasted image 20240717155330.png",
     "1 - Rought/Правила написания хорошего креатива для Телеги.md",
-    "1 - Rought/Креативы конкурентов.md",
     "Daily/2024/July/08.07.2024.md",
     "3 - Templates/Daily.md",
     "1 - Rought/Конфигурация nvchad nvim vim.md",
@@ -206,10 +207,8 @@
     "Daily/2024/July/16.07.2024.md",
     "1 - Rought/Оптимизация pagespeed метрики.md",
     "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
-    "1 - Rought/Промпт для контента в телеграм канал.md",
     "Daily/2024/July/14.07.2024.md",
     "conflict-files-obsidian-git.md",
-    "Выношу все из головы.md",
     "4 - Notes/Книги, которые хочу прочитать.md",
     "Daily/2024/July",
     "Daily/2024",
