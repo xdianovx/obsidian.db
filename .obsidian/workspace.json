@@ -11,8 +11,13 @@
             "id": "7e911a2b62a52047",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/July/22.07.2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024/July/22.07.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024/July/22.07.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024/July/22.07.2024.md"
+              }
             }
           },
           {
@@ -129,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,6 +159,7 @@
   },
   "active": "7e911a2b62a52047",
   "lastOpenFiles": [
+    "Daily/2024/July/22.07.2024.md",
     "1 - Rought/Untitled.md",
     "_files/Pasted image 20240717162934.png",
     "1 - Rought/Креативы конкурентов.md",
