@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1029c0286fbfaaa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/TypeScript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -159,8 +172,10 @@
   },
   "active": "7e911a2b62a52047",
   "lastOpenFiles": [
-    "Daily/2024/July/27.07.2024.md",
+    "1 - Rought/TypeScript.md",
+    "1 - Rought/Untitled.md",
     "Daily/2024/July/29.07.2024.md",
+    "Daily/2024/July/27.07.2024.md",
     "Daily/2024/July/26.07.2024.md",
     "Daily/2024/July/17.07.2024.md",
     "Daily/2024/July/22.07.2024.md",
@@ -169,7 +184,6 @@
     "Daily/2024/July/08.07.2024.md",
     "Daily/2024/July/07.07.2024.md",
     "Daily/2024/July/06.07.2024.md",
-    "1 - Rought/Untitled.md",
     "_files/Pasted image 20240717162934.png",
     "1 - Rought/Креативы конкурентов.md",
     "1 - Rought/Промпт для контента в телеграм канал.md",
@@ -187,7 +201,6 @@
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/Статусы заметок.md",
     "Daily/2024/July/15.07.2024.md",
-    "4 - Notes/Саморазвитие.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
