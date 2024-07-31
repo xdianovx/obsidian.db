@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/July/31.07.2024.md",
+                "file": "1 - Rought/Лента светодиодная.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/July/31.07.2024.md",
+                "file": "1 - Rought/Лента светодиодная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/July/31.07.2024.md",
+                "file": "1 - Rought/Лента светодиодная.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/July/31.07.2024.md"
+                "file": "1 - Rought/Лента светодиодная.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "7e911a2b62a52047",
   "lastOpenFiles": [
-    "Daily/2024/July/29.07.2024.md",
     "Daily/2024/July/31.07.2024.md",
+    "1 - Rought/Лента светодиодная.md",
+    "Daily/2024/July/29.07.2024.md",
     "1 - Rought/TypeScript.md",
     "1 - Rought/Untitled.md",
     "Daily/2024/July/27.07.2024.md",
@@ -200,7 +201,6 @@
     "1 - Rought/Флоу для создания заказа из админки.md",
     "1 - Rought/Темы для постов Пламя.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
-    "1 - Rought/Статусы заметок.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
