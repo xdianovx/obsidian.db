@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Проводка замена.md",
+                "file": "Daily/2024/August/02.08.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Проводка замена.md",
+                "file": "Daily/2024/August/02.08.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Проводка замена.md",
+                "file": "Daily/2024/August/02.08.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Проводка замена.md"
+                "file": "Daily/2024/August/02.08.2024.md"
               }
             }
           },
@@ -172,9 +172,11 @@
   },
   "active": "7e911a2b62a52047",
   "lastOpenFiles": [
-    "1 - Rought/Электрика.md",
     "Daily/2024/July/31.07.2024.md",
+    "Daily/2024/August/02.08.2024.md",
+    "Daily/2024/August",
     "1 - Rought/Проводка замена.md",
+    "1 - Rought/Электрика.md",
     "1 - Rought/Лента светодиодная.md",
     "Daily/2024/July/29.07.2024.md",
     "1 - Rought/TypeScript.md",
@@ -200,7 +202,6 @@
     "1 - Rought/{{yesterday}}.md",
     "1 - Rought/{{tomorrow}}.md",
     "2 - Source/_readme.md",
-    "1 - Rought/Флоу для создания заказа из админки.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
@@ -209,7 +210,6 @@
     "3 - Templates",
     "2 - Source",
     "1 - Rought",
-    "Книги",
-    "Obsidian"
+    "Книги"
   ]
 }
