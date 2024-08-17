@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/August/06.08.2024.md",
+                "file": "Daily/2024/August/17.08.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/August/06.08.2024.md",
+                "file": "Daily/2024/August/17.08.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/August/06.08.2024.md",
+                "file": "Daily/2024/August/17.08.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/August/06.08.2024.md"
+                "file": "Daily/2024/August/17.08.2024.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "7e911a2b62a52047",
   "lastOpenFiles": [
-    "Daily/2024/August/02.08.2024.md",
     "Daily/2024/August/06.08.2024.md",
+    "Daily/2024/August/17.08.2024.md",
+    "Daily/2024/August/02.08.2024.md",
     "Daily/2024/July/31.07.2024.md",
     "Daily/2024/August",
     "1 - Rought/Проводка замена.md",
@@ -201,7 +202,6 @@
     "3 - Templates/Daily.md",
     "1 - Rought/Конфигурация nvchad nvim vim.md",
     "1 - Rought/{{yesterday}}.md",
-    "1 - Rought/{{tomorrow}}.md",
     "Daily/2024/July",
     "Daily/2024",
     "Untitled.canvas",
