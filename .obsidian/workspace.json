@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md",
+                "file": "Daily/2024/September/02.09.2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27cdf87e9071174d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/Untitled 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md",
+                "file": "1 - Rought/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md",
+                "file": "1 - Rought/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md"
+                "file": "1 - Rought/Untitled 1.md"
               }
             }
           },
@@ -197,9 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4c91a8cfbe5bf07",
+  "active": "27cdf87e9071174d",
   "lastOpenFiles": [
     "Daily/2024/September/02.09.2024.md",
+    "1 - Rought/Untitled 1.md",
     "1 - Rought/Информация для сайта Доктор Мальков.md",
     "1 - Rought/Флоу статистики.md",
     "Daily/2024/September",
@@ -227,7 +241,6 @@
     "Daily/2024/July/06.07.2024.md",
     "_files/Pasted image 20240717162934.png",
     "1 - Rought/Креативы конкурентов.md",
-    "1 - Rought/Промпт для контента в телеграм канал.md",
     "_files/Pasted image 20240717155330.png",
     "_files",
     "Daily/2024/July",
