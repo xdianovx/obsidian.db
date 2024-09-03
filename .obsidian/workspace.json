@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Логистика.md",
+                "file": "Daily/2024/September/03.09.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Логистика.md",
+                "file": "Daily/2024/September/03.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Логистика.md",
+                "file": "Daily/2024/September/03.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Логистика.md"
+                "file": "Daily/2024/September/03.09.2024.md"
               }
             }
           },
@@ -225,9 +225,10 @@
   },
   "active": "49b8b02808d9220a",
   "lastOpenFiles": [
+    "1 - Rought/Логистика.md",
+    "Daily/2024/September/03.09.2024.md",
     "_files/Pasted image 20240902145231.png",
     "1 - Rought/Prominer Ванек.md",
-    "1 - Rought/Логистика.md",
     "Daily/2024/September/02.09.2024.md",
     "1 - Rought/Информация для сайта Доктор Мальков.md",
     "1 - Rought/Флоу статистики.md",
