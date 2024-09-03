@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7681f83d0e6b6cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/GTM Nuxt 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/September/03.09.2024.md",
+                "file": "1 - Rought/GTM Nuxt 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/September/03.09.2024.md",
+                "file": "1 - Rought/GTM Nuxt 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/September/03.09.2024.md"
+                "file": "1 - Rought/GTM Nuxt 3.md"
               }
             }
           },
@@ -223,10 +237,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49b8b02808d9220a",
+  "active": "7681f83d0e6b6cfe",
   "lastOpenFiles": [
-    "1 - Rought/Логистика.md",
+    "1 - Rought/Untitled 1.md",
+    "1 - Rought/GTM Nuxt 3.md",
     "Daily/2024/September/03.09.2024.md",
+    "1 - Rought/Логистика.md",
     "_files/Pasted image 20240902145231.png",
     "1 - Rought/Prominer Ванек.md",
     "Daily/2024/September/02.09.2024.md",
@@ -252,8 +268,6 @@
     "Daily/2024/July/22.07.2024.md",
     "Daily/2024/July/16.07.2024.md",
     "Daily/2024/July/25.07.2024.md",
-    "Daily/2024/July/08.07.2024.md",
-    "Daily/2024/July/07.07.2024.md",
     "_files/Pasted image 20240717162934.png",
     "_files/Pasted image 20240717155330.png",
     "_files",
