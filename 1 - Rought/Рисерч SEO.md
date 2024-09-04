@@ -12,3 +12,15 @@ https://mosseo.ru/
 
 https://seo.ru/
 ![[Pasted image 20240904163515.png]]
+
+
+https://www.demis.ru/
+![[Pasted image 20240904163634.png]]
+
+
+https://up-advert.ru/
+![[Pasted image 20240904163736.png]]
+
+https://cinar.ru/
+![[Pasted image 20240904163808.png]]
+
