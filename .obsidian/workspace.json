@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e911a2b62a52047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/August/29.08.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e25dcdc63186649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/September/02.09.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4c91a8cfbe5bf07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/September/02.09.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "27cdf87e9071174d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Prominer Ванек.md",
+                "file": "1 - Rought/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b52676d645ab6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/Рисерч SEO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/GTM Nuxt 3.md",
+                "file": "1 - Rought/Рисерч SEO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/GTM Nuxt 3.md",
+                "file": "1 - Rought/Рисерч SEO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/GTM Nuxt 3.md"
+                "file": "1 - Rought/Рисерч SEO.md"
               }
             }
           },
@@ -237,19 +210,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7681f83d0e6b6cfe",
+  "active": "2b52676d645ab6f3",
   "lastOpenFiles": [
-    "1 - Rought/Untitled 1.md",
-    "1 - Rought/GTM Nuxt 3.md",
+    "_files/Pasted image 20240904163515.png",
+    "_files/Pasted image 20240904163437.png",
+    "_files/Pasted image 20240904163345.png",
+    "_files/Pasted image 20240904163221.png",
+    "1 - Rought/Рисерч SEO.md",
     "Daily/2024/September/03.09.2024.md",
     "1 - Rought/Логистика.md",
-    "_files/Pasted image 20240902145231.png",
+    "1 - Rought/TypeScript.md",
+    "1 - Rought/Untitled.md",
+    "1 - Rought/Untitled 1.md",
+    "1 - Rought/v-model vue.md",
+    "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
     "1 - Rought/Prominer Ванек.md",
     "Daily/2024/September/02.09.2024.md",
+    "Daily/2024/August/29.08.2024.md",
+    "1 - Rought/GTM Nuxt 3.md",
+    "_files/Pasted image 20240902145231.png",
     "1 - Rought/Информация для сайта Доктор Мальков.md",
     "1 - Rought/Флоу статистики.md",
     "Daily/2024/September",
-    "Daily/2024/August/29.08.2024.md",
     "Daily/2024/August/18.08.2024.md",
     "Daily/2024/August/17.08.2024.md",
     "Daily/2024/August/06.08.2024.md",
@@ -260,14 +242,8 @@
     "1 - Rought/Электрика.md",
     "1 - Rought/Лента светодиодная.md",
     "Daily/2024/July/29.07.2024.md",
-    "1 - Rought/TypeScript.md",
-    "1 - Rought/Untitled.md",
     "Daily/2024/July/27.07.2024.md",
     "Daily/2024/July/26.07.2024.md",
-    "Daily/2024/July/17.07.2024.md",
-    "Daily/2024/July/22.07.2024.md",
-    "Daily/2024/July/16.07.2024.md",
-    "Daily/2024/July/25.07.2024.md",
     "_files/Pasted image 20240717162934.png",
     "_files/Pasted image 20240717155330.png",
     "_files",
