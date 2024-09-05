@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/План.md",
+                "file": "1 - Rought/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/План.md",
+                "file": "1 - Rought/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/План.md",
+                "file": "1 - Rought/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/План.md"
+                "file": "1 - Rought/Untitled.md"
               }
             }
           },
@@ -225,7 +225,29 @@
   },
   "active": "ae2202b22d977595",
   "lastOpenFiles": [
+    "1 - Rought/Prominer Ванек.md",
+    "1 - Rought/Monk Mode.md",
+    "1 - Rought/GTM Nuxt 3.md",
+    "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
+    "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
+    "1 - Rought/Флоу статистики.md",
+    "1 - Rought/Флоу для создания заказа из админки.md",
+    "1 - Rought/Темы для постов Пламя.md",
+    "1 - Rought/Темы для канала КОМЕТА.md",
+    "1 - Rought/Статусы заметок.md",
     "1 - Rought/Рисерч SEO.md",
+    "1 - Rought/Референесы сайтов.md",
+    "1 - Rought/Расписание и дела.md",
+    "1 - Rought/Промпты для нейросетей.md",
+    "1 - Rought/Промпт для контента в телеграм канал.md",
+    "1 - Rought/2024-07.md",
+    "1 - Rought/Документация по компонентной верстке.md",
+    "1 - Rought/Информация для сайта Доктор Мальков.md",
+    "1 - Rought/Конфигурация nvchad nvim vim.md",
+    "1 - Rought/Креативы конкурентов.md",
+    "1 - Rought/Маркетинг.md",
+    "1 - Rought/Лента светодиодная.md",
+    "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "1 - Rought/План.md",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
@@ -236,31 +258,9 @@
     "_files/Pasted image 20240904163221.png",
     "Daily/2024/September/03.09.2024.md",
     "1 - Rought/Логистика.md",
-    "1 - Rought/TypeScript.md",
-    "1 - Rought/Untitled.md",
-    "1 - Rought/Untitled 1.md",
-    "1 - Rought/v-model vue.md",
-    "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
-    "1 - Rought/Prominer Ванек.md",
-    "Daily/2024/September/02.09.2024.md",
-    "Daily/2024/August/29.08.2024.md",
-    "1 - Rought/GTM Nuxt 3.md",
     "_files/Pasted image 20240902145231.png",
-    "1 - Rought/Информация для сайта Доктор Мальков.md",
-    "1 - Rought/Флоу статистики.md",
     "Daily/2024/September",
-    "Daily/2024/August/18.08.2024.md",
-    "Daily/2024/August/17.08.2024.md",
-    "Daily/2024/August/06.08.2024.md",
-    "Daily/2024/August/02.08.2024.md",
-    "Daily/2024/July/31.07.2024.md",
     "Daily/2024/August",
-    "1 - Rought/Проводка замена.md",
-    "1 - Rought/Электрика.md",
-    "1 - Rought/Лента светодиодная.md",
-    "Daily/2024/July/29.07.2024.md",
-    "Daily/2024/July/27.07.2024.md",
-    "Daily/2024/July/26.07.2024.md",
     "_files/Pasted image 20240717162934.png",
     "_files/Pasted image 20240717155330.png",
     "_files",
