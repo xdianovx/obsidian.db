@@ -78,7 +78,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024/September/11.09.2024.md",
+                "file": "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8970ad9981f652d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/РСЯ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/September/11.09.2024.md",
+                "file": "1 - Rought/РСЯ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/September/11.09.2024.md",
+                "file": "1 - Rought/РСЯ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/September/11.09.2024.md"
+                "file": "1 - Rought/РСЯ.md"
               }
             }
           },
@@ -223,10 +236,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae2202b22d977595",
+  "active": "8970ad9981f652d8",
   "lastOpenFiles": [
-    "1 - Rought/Таможенное ооформление ВЭД сделаки.md",
+    "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
+    "1 - Rought/РСЯ.md",
     "Daily/2024/September/11.09.2024.md",
+    "1 - Rought/Таможенное ооформление ВЭД сделаки.md",
     "_files/Pasted image 20240906101753.png",
     "1 - Rought/Prominer Ванек.md",
     "1 - Rought/Monk Mode.md",
@@ -250,8 +265,6 @@
     "1 - Rought/Креативы конкурентов.md",
     "1 - Rought/Маркетинг.md",
     "1 - Rought/Лента светодиодная.md",
-    "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
-    "1 - Rought/План.md",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
     "_files/Pasted image 20240904163634.png",
