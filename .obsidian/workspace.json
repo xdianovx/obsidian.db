@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c83ed0a34975916b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/Методика 5W Шеррингтона.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Рисерч SEO.md",
+                "file": "1 - Rought/Методика 5W Шеррингтона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Рисерч SEO.md",
+                "file": "1 - Rought/Методика 5W Шеррингтона.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Рисерч SEO.md"
+                "file": "1 - Rought/Методика 5W Шеррингтона.md"
               }
             }
           },
@@ -209,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +237,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b52676d645ab6f3",
+  "active": "c83ed0a34975916b",
   "lastOpenFiles": [
+    "_files/Pasted image 20240912155057.png",
+    "1 - Rought/Определить Целевую Аудиторию или ЦА.md",
+    "1 - Rought/Методика 5W Шеррингтона.md",
+    "1 - Rought/Рисерч SEO.md",
     "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "Daily/2024/September/12.09.2024.md",
     "1 - Rought/РСЯ.md",
@@ -241,7 +259,6 @@
     "1 - Rought/Темы для постов Пламя.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
     "1 - Rought/Статусы заметок.md",
-    "1 - Rought/Рисерч SEO.md",
     "1 - Rought/Референесы сайтов.md",
     "1 - Rought/Расписание и дела.md",
     "1 - Rought/Промпты для нейросетей.md",
@@ -249,9 +266,6 @@
     "1 - Rought/2024-07.md",
     "1 - Rought/Документация по компонентной верстке.md",
     "1 - Rought/Информация для сайта Доктор Мальков.md",
-    "1 - Rought/Конфигурация nvchad nvim vim.md",
-    "1 - Rought/Креативы конкурентов.md",
-    "1 - Rought/Маркетинг.md",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
     "_files/Pasted image 20240904163634.png",
