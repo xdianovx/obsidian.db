@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8afd51dd54110aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/ИМ Леха.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/September/25.09.2024.md",
+                "file": "1 - Rought/ИМ Леха.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/September/25.09.2024.md",
+                "file": "1 - Rought/ИМ Леха.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/September/25.09.2024.md"
+                "file": "1 - Rought/ИМ Леха.md"
               }
             }
           },
@@ -237,10 +250,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c83ed0a34975916b",
+  "active": "c8afd51dd54110aa",
   "lastOpenFiles": [
-    "1 - Rought/Настройка рекламной компании.md",
+    "1 - Rought/ИМ Леха.md",
     "Daily/2024/September/25.09.2024.md",
+    "1 - Rought/Настройка рекламной компании.md",
     "1 - Rought/Подбор ключевых фраз.md",
     "1 - Rought/Кретивы для контекстной рекламы.md",
     "1 - Rought/Создание кретива 7 правил.md",
@@ -267,7 +281,6 @@
     "1 - Rought/Статусы заметок.md",
     "1 - Rought/Референесы сайтов.md",
     "1 - Rought/Расписание и дела.md",
-    "1 - Rought/Промпты для нейросетей.md",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
     "_files/Pasted image 20240904163634.png",
