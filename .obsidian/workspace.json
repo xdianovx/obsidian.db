@@ -4,115 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b3628b12459784fa",
+        "id": "7b7503ed112fce8c",
         "type": "tabs",
         "children": [
           {
-            "id": "27cdf87e9071174d",
+            "id": "c2a27e61393fdd58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Таможенное ооформление ВЭД сделаки.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49b8b02808d9220a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/September/03.09.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1029c0286fbfaaa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rought/TypeScript.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7681f83d0e6b6cfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rought/GTM Nuxt 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b52676d645ab6f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rought/Рисерч SEO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8970ad9981f652d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/September/12.09.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c83ed0a34975916b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/September/25.09.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8afd51dd54110aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024/September/30.09.2024.md",
+                "file": "1 - Rought/РСЯ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/September/30.09.2024.md",
+                "file": "1 - Rought/РСЯ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/September/30.09.2024.md",
+                "file": "1 - Rought/РСЯ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/September/30.09.2024.md"
+                "file": "1 - Rought/РСЯ.md"
               }
             }
           },
@@ -250,37 +158,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8afd51dd54110aa",
+  "active": "c2a27e61393fdd58",
   "lastOpenFiles": [
-    "1 - Rought/ИМ Леха.md",
-    "Daily/2024/September/30.09.2024.md",
+    "1 - Rought/Таможенное ооформление ВЭД сделаки.md",
+    "Daily/2024/September/03.09.2024.md",
+    "1 - Rought/TypeScript.md",
+    "1 - Rought/GTM Nuxt 3.md",
+    "1 - Rought/Рисерч SEO.md",
+    "Daily/2024/September/12.09.2024.md",
     "Daily/2024/September/25.09.2024.md",
+    "Daily/2024/September/30.09.2024.md",
+    "1 - Rought/ИМ Леха.md",
     "1 - Rought/Настройка рекламной компании.md",
     "1 - Rought/Подбор ключевых фраз.md",
     "1 - Rought/Кретивы для контекстной рекламы.md",
     "1 - Rought/Создание кретива 7 правил.md",
     "_files/Креативы3.webp",
-    "Daily/2024/September/12.09.2024.md",
     "1 - Rought/Методика 5W Шеррингтона.md",
     "_files/Pasted image 20240912155057.png",
     "1 - Rought/Определить Целевую Аудиторию или ЦА.md",
-    "1 - Rought/Рисерч SEO.md",
     "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "1 - Rought/РСЯ.md",
     "Daily/2024/September/11.09.2024.md",
-    "1 - Rought/Таможенное ооформление ВЭД сделаки.md",
     "_files/Pasted image 20240906101753.png",
     "1 - Rought/Prominer Ванек.md",
     "1 - Rought/Monk Mode.md",
-    "1 - Rought/GTM Nuxt 3.md",
     "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
     "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
     "1 - Rought/Флоу статистики.md",
     "1 - Rought/Флоу для создания заказа из админки.md",
     "1 - Rought/Темы для постов Пламя.md",
     "1 - Rought/Темы для канала КОМЕТА.md",
-    "1 - Rought/Статусы заметок.md",
-    "1 - Rought/Референесы сайтов.md",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
     "_files/Pasted image 20240904163634.png",
