@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md",
+                "file": "1 - Rought/Тембр голоса.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md",
+                "file": "1 - Rought/Тембр голоса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md",
+                "file": "1 - Rought/Тембр голоса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Информация для сайта Доктор Мальков.md"
+                "file": "1 - Rought/Тембр голоса.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "c2a27e61393fdd58",
   "lastOpenFiles": [
+    "1 - Rought/Информация для сайта Доктор Мальков.md",
+    "1 - Rought/Тембр голоса.md",
     "Daily/2024/September/30.09.2024.md",
     "1 - Rought/РСЯ.md",
     "1 - Rought/Таможенное ооформление ВЭД сделаки.md",
@@ -187,8 +189,6 @@
     "1 - Rought/BESTBONUS ТЗ (или подобие ТЗ).md",
     "1 - Rought/Флоу статистики.md",
     "1 - Rought/Флоу для создания заказа из админки.md",
-    "1 - Rought/Темы для постов Пламя.md",
-    "1 - Rought/Темы для канала КОМЕТА.md",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
     "_files/Pasted image 20240904163634.png",
