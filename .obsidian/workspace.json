@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Созвон Мальков 02.10.2024.md",
+                "file": "Daily/2024/October/14.10.2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rought/Созвон Мальков 02.10.2024.md",
+                "file": "Daily/2024/October/14.10.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rought/Созвон Мальков 02.10.2024.md",
+                "file": "Daily/2024/October/14.10.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Созвон Мальков 02.10.2024.md"
+                "file": "Daily/2024/October/14.10.2024.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "c2a27e61393fdd58",
   "lastOpenFiles": [
-    "Daily/2024/October/02.10.2024.md",
     "1 - Rought/Созвон Мальков 02.10.2024.md",
+    "Daily/2024/October/14.10.2024.md",
+    "Daily/2024/October/02.10.2024.md",
     "1 - Rought/Темы для постов.md",
     "Daily/2024/October",
     "1 - Rought/Тембр голоса.md",
@@ -189,7 +190,6 @@
     "_files/Pasted image 20240906101753.png",
     "1 - Rought/Prominer Ванек.md",
     "1 - Rought/Monk Mode.md",
-    "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
     "_files/Pasted image 20240904163634.png",
