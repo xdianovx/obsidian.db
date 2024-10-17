@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a8bc8fcefcff3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rought/Сделай пожалуйста сегодня.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/October/14.10.2024.md",
+                "file": "1 - Rought/Сделай пожалуйста сегодня.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/October/14.10.2024.md",
+                "file": "1 - Rought/Сделай пожалуйста сегодня.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/October/14.10.2024.md"
+                "file": "1 - Rought/Сделай пожалуйста сегодня.md"
               }
             }
           },
@@ -158,10 +172,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2a27e61393fdd58",
+  "active": "6a8bc8fcefcff3ba",
   "lastOpenFiles": [
-    "1 - Rought/Роман Саныч фоткает телок.md",
+    "1 - Rought/Сделай пожалуйста сегодня.md",
     "Daily/2024/October/14.10.2024.md",
+    "1 - Rought/Роман Саныч фоткает телок.md",
     "1 - Rought/Untitled.md",
     "1 - Rought/Сбор ключей для таргета.md",
     "1 - Rought/Созвон Мальков 02.10.2024.md",
@@ -188,7 +203,6 @@
     "1 - Rought/Методика 5W Шеррингтона.md",
     "_files/Pasted image 20240912155057.png",
     "1 - Rought/Определить Целевую Аудиторию или ЦА.md",
-    "1 - Rought/О том, как присать ТЗ для фрилансеров.md",
     "_files/Pasted image 20240906101753.png",
     "_files/Pasted image 20240904163808.png",
     "_files/Pasted image 20240904163736.png",
