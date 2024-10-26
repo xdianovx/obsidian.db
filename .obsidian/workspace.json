@@ -52,7 +52,8 @@
               "title": "21.10.2024"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024/October/14.10.2024.md",
+                "file": "Daily/2024/October/21.10.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 14.10.2024"
+              "title": "Backlinks for 21.10.2024"
             }
           },
           {
@@ -143,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024/October/14.10.2024.md",
+                "file": "Daily/2024/October/21.10.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 14.10.2024"
+              "title": "Outgoing links from 21.10.2024"
             }
           },
           {
@@ -170,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024/October/14.10.2024.md"
+                "file": "Daily/2024/October/21.10.2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 14.10.2024"
+              "title": "Outline of 21.10.2024"
             }
           },
           {
@@ -206,11 +207,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2a27e61393fdd58",
+  "active": "050fe8aee02f0f7e",
   "lastOpenFiles": [
+    "Daily/2024/October/14.10.2024.md",
     "1 - Rought/Сделай пожалуйста сегодня.md",
     "Daily/2024/October/21.10.2024.md",
-    "Daily/2024/October/14.10.2024.md",
     "1 - Rought/Роман Саныч фоткает телок.md",
     "1 - Rought/Untitled.md",
     "1 - Rought/Сбор ключей для таргета.md",
