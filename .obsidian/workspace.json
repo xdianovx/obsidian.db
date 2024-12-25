@@ -28,13 +28,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rought/Сделай пожалуйста сегодня.md",
+                "file": "Заметка, которая поможет мне структурировать Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сделай пожалуйста сегодня"
+              "title": "Заметка, которая поможет мне структурировать Obsidian"
+            }
+          },
+          {
+            "id": "9ae0e5637f1b0b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задачи"
             }
           },
           {
@@ -71,30 +86,10 @@
             "id": "130fa3b03151ad00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Rought/Фриланс.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Фриланс"
-            }
-          },
-          {
-            "id": "d86676d2e9868459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чистая голова.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Чистая голова"
+              "title": "New tab"
             }
           },
           {
@@ -128,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,10 +276,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d86676d2e9868459",
+  "active": "9ae0e5637f1b0b75",
   "lastOpenFiles": [
     "Заметка, которая поможет мне структурировать Obsidian.md",
+    "Задачи.md",
     "Чистая голова.md",
+    "4 - Notes/Реклама и продвижение/Настройка рекламной компании.md",
+    "4 - Notes/Obsidian/Obsidian.md",
+    "Daily/2024/December/26.12.2024.md",
     "4 - Notes/Obsidian/Атомные заметки (Atomic notes).md",
     "4 - Notes/Маркетинг/Креативы конкурентов.md",
     "4 - Notes/Саморазвитие/Книги, которые хочу прочитать.md",
@@ -304,11 +303,7 @@
     "1 - Rought/Кретивы для контекстной рекламы.md",
     "4 - Notes/Маркетинг/Маркетинг.md",
     "4 - Notes/Маркетинг/Методика 5W Шеррингтона.md",
-    "4 - Notes/Реклама и продвижение/Настройка рекламной компании.md",
     "1 - Rought/Оптимизация pagespeed метрики.md",
-    "4 - Notes/Маркетинг/Определить Целевую Аудиторию или ЦА.md",
-    "4 - Notes/Реклама и продвижение/Правила написания хорошего креатива для Телеги.md",
-    "4 - Notes/Ремонт/Проводка замена.md",
     "4 - Notes/AI",
     "4 - Notes/Ремонт",
     "4 - Notes/Бизнес/Фриланс",
