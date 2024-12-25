@@ -2,7 +2,6 @@
 **Status:** #inbox 
 Links:
 
-## {{Title}}
 
 ## References
  
