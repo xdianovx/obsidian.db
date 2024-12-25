@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Catppuccin",
   "accentColor": "",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Cascadia Code",
   "monospaceFontFamily": "FiraCode Nerd Font",
   "nativeMenus": true,
   "textFontFamily": "Consolas"
