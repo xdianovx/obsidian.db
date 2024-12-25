@@ -1,1 +1,5 @@
-- [x]  ✅ 2024-12-26
+
+### Плагины
+- Tasks [[Tasks Plugin]]
+- Kanban [[Kanban]]
+- DataView

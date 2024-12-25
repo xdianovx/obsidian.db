@@ -1,7 +1,7 @@
 **{{date}} {{time}}**
 **Status:** #inbox 
-Links:
+Links: 
 
+---
 
-## References
- 
+#### References
