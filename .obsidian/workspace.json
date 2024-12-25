@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "Промпты для нейросетей"
             }
+          },
+          {
+            "id": "0355e3edbc8fff20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/December/26.12.2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.12.2024"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,8 +222,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "050fe8aee02f0f7e",
+  "active": "0355e3edbc8fff20",
   "lastOpenFiles": [
+    "Daily/2024/December/26.12.2024.md",
+    "Daily/2024/December",
     "Daily/2024/September/30.09.2024.md",
     "1 - Rought/Сделай пожалуйста сегодня.md",
     "Daily/2024/October/21.10.2024.md",
@@ -235,7 +252,6 @@
     "1 - Rought/Настройка рекламной компании.md",
     "1 - Rought/Подбор ключевых фраз.md",
     "1 - Rought/Кретивы для контекстной рекламы.md",
-    "1 - Rought/Создание кретива 7 правил.md",
     "_files/Креативы3.webp",
     "_files/Pasted image 20240912155057.png",
     "_files/Pasted image 20240906101753.png",
@@ -254,7 +270,6 @@
     "Untitled.canvas",
     "Daily",
     "4 - Notes",
-    "3 - Templates",
-    "2 - Source"
+    "3 - Templates"
   ]
 }
