@@ -1,3 +1,4 @@
 {
-  "move-tags": false
+  "move-tags": false,
+  "move-dates": true
 }
