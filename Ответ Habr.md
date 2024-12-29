@@ -15,7 +15,9 @@
 
 <b>🚀 Некоторые работы:</b> 
 <ul> 	
-<a target="_blank" href="https://suvarstroit.ru/">https://suvarstroit.ru</a> 	
+
+<a target="_blank" href="https://suvarstroit.ru/">https://suvarstroit.ru</a>
+<a target="_blank" href="https://makey.by/">https://makey.by/</a>
 <a target="_blank" href="https://cyberlegacy.team/ru">https://cyberlegacy.team/ru</a> 	
 <a target="_blank" href="https://miradevelopments.ae">https://miradevelopments.ae</a> 	
 <a target="_blank" href="http://webscape.beget.tech/titova/">http://webscape.beget.tech/titova</a> 	
