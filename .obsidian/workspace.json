@@ -69,6 +69,43 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "934d1e8fe186f56d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4664255c42be155b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/С чего все начать.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "С чего все начать"
+            }
+          },
+          {
+            "id": "1ea19ac3aece87aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Без названия 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 2"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/С чего все начать.md",
+                "file": "0. Inbox/Без названия 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для С чего все начать"
+              "title": "Обратные ссылки для Без названия 2"
             }
           },
           {
@@ -222,10 +259,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c660a26778e1e451",
+  "active": "1ea19ac3aece87aa",
   "lastOpenFiles": [
-    "Чистая голова.md",
+    "0. Inbox/Без названия 2.md",
     "0. Inbox/С чего все начать.md",
+    "Чистая голова.md",
     "0. Inbox/Без названия 1.md",
     "1. Projects/_index.md",
     "2. Areas/Саморазвитие/Методология PARA.md",
@@ -259,7 +297,6 @@
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Python/Mock Patching.md",
     "examples/01 Obsidian Workflows.md",
     "examples/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
-    "examples/02 PARA_Starter_Kit_v2/START HERE!.md",
     "_temp/_files/Pasted image 20240904163437.png",
     "_temp/_files/Pasted image 20241230153458.png",
     "_temp/_files/Pasted image 20241226134410.png",
