@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "2e3178c108d330bd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-02 18.42.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-02 18.42.21.excalidraw"
-            }
-          },
-          {
             "id": "888dadadc935a5f4",
             "type": "leaf",
             "state": {
@@ -65,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-02 18.42.21.excalidraw.md",
+                "file": "3. Resources/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Drawing 2025-01-02 18.42.21.excalidraw"
+              "title": "Обратные ссылки для _index"
             }
           },
           {
@@ -219,8 +207,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e3178c108d330bd",
+  "active": "e47c46b1373641a6",
   "lastOpenFiles": [
+    "Notes/Вызвать модальное окно shadcn vue.md",
+    "3. Resources/_index.md",
+    "Excalidraw/Drawing 2025-01-02 18.50.01.excalidraw.md",
     "Чистая голова.md",
     "Excalidraw/Drawing 2025-01-02 18.42.21.excalidraw.md",
     "Excalidraw",
@@ -229,7 +220,6 @@
     "Заметка, которая поможет мне структурировать Obsidian.md",
     "ТЗ Турецкие сериалы.md",
     "Задачи.md",
-    "Notes/Вызвать модальное окно shadcn vue.md",
     "5. Daily/2025/январь/02.01.2025.md",
     "2. Areas/Бизнес/Фриланс/Ответы/Ответ Habr.md",
     "2. Areas/Маркетинг/Креативы конкурентов.md",
@@ -255,8 +245,6 @@
     "examples/02 PARA_Starter_Kit_v2/2. Areas/Finance/YNAB Ramit Sethi Interview notes.md",
     "Project Management.md",
     "examples/02 PARA_Starter_Kit_v2/2. Areas/Blog/=Draft= Project Manager for solo person.md",
-    "examples/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
-    "examples/05 On the process of forging evergreen notes/000 Index.md",
     "_temp/_files/Pasted image 20240904163437.png",
     "_temp/_files/Pasted image 20241230153458.png",
     "_temp/_files/Pasted image 20241226134410.png",
