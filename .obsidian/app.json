@@ -3,7 +3,7 @@
   "newFileFolderPath": "0. Inbox",
   "promptDelete": false,
   "showLineNumber": false,
-  "attachmentFolderPath": "_files",
+  "attachmentFolderPath": "_temp/_files",
   "defaultViewMode": "preview",
   "spellcheck": false,
   "tabSize": 2
