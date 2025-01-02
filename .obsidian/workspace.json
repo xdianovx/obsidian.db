@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заметка, которая поможет мне структурировать Obsidian.md",
+                "file": "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заметка, которая поможет мне структурировать Obsidian"
+              "title": "Созвон и задачи по студии 2В"
             }
           },
           {
@@ -29,12 +29,24 @@
               "type": "markdown",
               "state": {
                 "file": "Чистая голова.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Чистая голова"
+            }
+          },
+          {
+            "id": "2e3178c108d330bd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-02 18.42.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-02 18.42.21.excalidraw"
             }
           },
           {
@@ -52,7 +64,8 @@
               "title": "Без названия"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Заметка, которая поможет мне структурировать Obsidian.md",
+                "file": "Excalidraw/Drawing 2025-01-02 18.42.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Заметка, которая поможет мне структурировать Obsidian"
+              "title": "Обратные ссылки для Drawing 2025-01-02 18.42.21.excalidraw"
             }
           },
           {
@@ -206,15 +219,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc106430fd8bb2bd",
+  "active": "2e3178c108d330bd",
   "lastOpenFiles": [
-    "0. Inbox/Без названия.md",
     "Чистая голова.md",
+    "Excalidraw/Drawing 2025-01-02 18.42.21.excalidraw.md",
+    "Excalidraw",
+    "0. Inbox/Без названия.md",
+    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+    "Заметка, которая поможет мне структурировать Obsidian.md",
     "ТЗ Турецкие сериалы.md",
     "Задачи.md",
     "Notes/Вызвать модальное окно shadcn vue.md",
     "5. Daily/2025/январь/02.01.2025.md",
-    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "2. Areas/Бизнес/Фриланс/Ответы/Ответ Habr.md",
     "2. Areas/Маркетинг/Креативы конкурентов.md",
     "2. Areas/Маркетинг/Методика 5W Шеррингтона.md",
@@ -230,9 +246,7 @@
     "3. Resources",
     "2. Areas",
     "1. Projects",
-    "Заметка, которая поможет мне структурировать Obsidian.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Python/Mock Patching.md",
-    "2. Areas",
     "examples/01 Obsidian Workflows.md",
     "examples/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
     "examples/02 PARA_Starter_Kit_v2/START HERE!.md",
@@ -243,7 +257,6 @@
     "examples/02 PARA_Starter_Kit_v2/2. Areas/Blog/=Draft= Project Manager for solo person.md",
     "examples/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
     "examples/05 On the process of forging evergreen notes/000 Index.md",
-    "examples/05 On the process of forging evergreen notes/_START HERE - On the process of forging evergreen notes MOC.md",
     "_temp/_files/Pasted image 20240904163437.png",
     "_temp/_files/Pasted image 20241230153458.png",
     "_temp/_files/Pasted image 20241226134410.png",
