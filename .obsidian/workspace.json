@@ -39,6 +39,16 @@
               "icon": "lucide-file",
               "title": "Чистая голова"
             }
+          },
+          {
+            "id": "bc106430fd8bb2bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
         ],
         "currentTab": 1
@@ -93,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578,
-    "collapsed": true
+    "width": 578
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +205,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a1b204bfc08da93",
+  "active": "e47c46b1373641a6",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Чистая голова.md",
     "ТЗ Турецкие сериалы.md",
     "Daily/2025/январь/02.01.2025.md",
     "Untitled 1.md",
@@ -208,7 +218,6 @@
     "Excalidraw/Drawing 2025-01-02 17.09.15.excalidraw.md",
     "4 - Notes/Obsidian/Obsidian.md",
     "4 - Notes/Obsidian/Индексные страницы в Obsidian.md",
-    "Untitled Kanban.md",
     "Ответ Habr.md",
     "Задачи.md",
     "4 - Notes/Obsidian/Плагины/Excalidraw.md",
@@ -219,7 +228,6 @@
     "Daily/2024/December/28.12.2024.md",
     "4 - Notes/Маркетинг/Ответ на kwork.md",
     "_files/Pasted image 20241226134410.png",
-    "Чистая голова.md",
     "4 - Notes/Obsidian/Плагины/Kanban Plugin.md",
     "4 - Notes/Реклама и продвижение/Настройка рекламной компании.md",
     "4 - Notes/Obsidian/Плагин Media Note для 💜 Obsidian. Анонс статьи про дизайн-системы..md",

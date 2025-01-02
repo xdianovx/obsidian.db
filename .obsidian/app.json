@@ -2,7 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "1 - Rought",
   "promptDelete": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "attachmentFolderPath": "_files",
   "defaultViewMode": "preview",
   "spellcheck": false,
