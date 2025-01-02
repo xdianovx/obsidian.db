@@ -26,7 +26,7 @@
             }
           },
           {
-            "id": "6175691b57c99433",
+            "id": "6a1b204bfc08da93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,21 +38,6 @@
               },
               "icon": "lucide-file",
               "title": "Obsidian"
-            }
-          },
-          {
-            "id": "6a1b204bfc08da93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
             }
           }
         ],
@@ -190,7 +175,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,23 +192,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6175691b57c99433",
+  "active": "6a1b204bfc08da93",
   "lastOpenFiles": [
-    "Созвон.md",
-    "4 - Notes/Obsidian/Obsidian.md",
-    "Untitled 1.md",
-    "Ответ Habr.md",
-    "_files/Pasted image 20241230153458.png",
+    "4 - Notes/Obsidian/Индексные страницы в Obsidian.md",
     "Untitled.md",
+    "Untitled Kanban.md",
+    "Ответ Habr.md",
+    "Задачи.md",
+    "4 - Notes/Obsidian/Плагины/Excalidraw.md",
+    "Excalidraw/Drawing 2025-01-02 17.09.15.excalidraw.md",
+    "Excalidraw",
+    "4 - Notes/Obsidian/Obsidian.md",
+    "4 - Notes/Obsidian/Плагины/DataView.md",
+    "Созвон.md",
+    "Untitled 1.md",
+    "_files/Pasted image 20241230153458.png",
     "Daily/2024/December/28.12.2024.md",
     "4 - Notes/Маркетинг/Ответ на kwork.md",
     "_files/Pasted image 20241226134410.png",
-    "Untitled Kanban.md",
     "Чистая голова.md",
-    "Задачи.md",
     "4 - Notes/Obsidian/Плагины/Kanban Plugin.md",
     "4 - Notes/Реклама и продвижение/Настройка рекламной компании.md",
     "4 - Notes/Obsidian/Плагин Media Note для 💜 Obsidian. Анонс статьи про дизайн-системы..md",
@@ -236,10 +228,6 @@
     "4 - Notes/Obsidian/Атомные заметки (Atomic notes).md",
     "4 - Notes/Маркетинг/Креативы конкурентов.md",
     "4 - Notes/Саморазвитие/Книги, которые хочу прочитать.md",
-    "2 - Source/_readme.md",
-    "1 - Inbox/_readme.md",
-    "1 - Inbox/Monk Mode.md",
-    "1 - Rought/Obsidian - Properties Feature - New in Version 1.4.md",
     "4 - Notes/AI",
     "4 - Notes/Ремонт",
     "4 - Notes/Бизнес/Фриланс",
@@ -248,7 +236,6 @@
     "4 - Notes/Программирование",
     "4 - Notes/Маркетинг",
     "4 - Notes/Реклама и продвижение/РСЯ",
-    "4 - Notes/Реклама и продвижение/SEO",
     "_files/Креативы3.webp",
     "_files/Pasted image 20240912155057.png",
     "_files/Pasted image 20240906101753.png",

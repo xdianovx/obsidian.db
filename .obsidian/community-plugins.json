@@ -6,5 +6,7 @@
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin"
 ]
