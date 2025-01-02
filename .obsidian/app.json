@@ -2,6 +2,9 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "1 - Rought",
   "promptDelete": false,
-  "showLineNumber": false,
-  "attachmentFolderPath": "_files"
+  "showLineNumber": true,
+  "attachmentFolderPath": "_files",
+  "defaultViewMode": "preview",
+  "spellcheck": false,
+  "tabSize": 2
 }
