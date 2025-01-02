@@ -95,13 +95,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Без названия 2.md",
+                "file": "0. Inbox/Как начать с Нового Года.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "Как начать с Нового Года"
             }
           }
         ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Без названия 2.md",
+                "file": "0. Inbox/Как начать с Нового Года.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 2"
+              "title": "Обратные ссылки для Как начать с Нового Года"
             }
           },
           {
@@ -261,7 +261,7 @@
   },
   "active": "1ea19ac3aece87aa",
   "lastOpenFiles": [
-    "0. Inbox/Без названия 2.md",
+    "0. Inbox/Как начать с Нового Года.md",
     "0. Inbox/С чего все начать.md",
     "Чистая голова.md",
     "0. Inbox/Без названия 1.md",
