@@ -26,5 +26,9 @@
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-sapphire",
   "catppuccin-icon-styles@@ctp-icon-hide": true,
   "catppuccin-interface-styles@@ctp-bold-folder-title": true,
-  "neo-style@@theme-variant": "darker"
+  "neo-style@@theme-variant": "default",
+  "id@@colorblind_tritan": false,
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@animations": "fast-animations",
+  "minimal-advanced@@mobile-toolbar-off": false
 }

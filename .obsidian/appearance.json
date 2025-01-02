@@ -6,6 +6,6 @@
   "nativeMenus": true,
   "textFontFamily": "Consolas,Cascadia Code",
   "baseFontSizeAction": true,
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "theme": "obsidian"
 }

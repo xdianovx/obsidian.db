@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Созвон и задачи по студии 2В.md",
+                "file": "4 - Notes/Ремонт/Проводка замена.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Созвон и задачи по студии 2В"
+              "title": "Проводка замена"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Созвон и задачи по студии 2В.md",
+                "file": "4 - Notes/Ремонт/Проводка замена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Созвон и задачи по студии 2В"
+              "title": "Обратные ссылки для Проводка замена"
             }
           },
           {
@@ -178,6 +178,10 @@
   },
   "active": "bc106430fd8bb2bd",
   "lastOpenFiles": [
+    "2 - Source/_readme.md",
+    "Excalidraw/Drawing 2025-01-02 17.54.53.excalidraw.md",
+    "Excalidraw",
+    "Созвон и задачи по студии 2В.md",
     "_files/Pasted image 20240904163437.png",
     "4 - Notes/Программирование/Конфигурация nvchad nvim vim.md",
     "Daily/2025/январь/02.01.2025.md",
@@ -195,9 +199,7 @@
     "Ответ Habr.md",
     "Задачи.md",
     "4 - Notes/Obsidian/Плагины/Excalidraw.md",
-    "Excalidraw",
     "4 - Notes/Obsidian/Плагины/DataView.md",
-    "Созвон и задачи по студии 2В.md",
     "_files/Pasted image 20241230153458.png",
     "Daily/2024/December/28.12.2024.md",
     "4 - Notes/Маркетинг/Ответ на kwork.md",
@@ -209,7 +211,6 @@
     "4 - Notes/Obsidian/Плагины",
     "Daily/2024/October/14.10.2024.md",
     "4 - Notes/Obsidian/Untitled.md",
-    "Заметка, которая поможет мне структурировать Obsidian.md",
     "4 - Notes/AI",
     "4 - Notes/Ремонт",
     "4 - Notes/Бизнес/Фриланс",
