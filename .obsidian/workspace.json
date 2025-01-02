@@ -31,13 +31,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Notes/Obsidian/Obsidian.md",
+                "file": "Daily/2025/январь/02.01.2025.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "02.01.2025"
             }
           }
         ],
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Notes/Obsidian/Obsidian.md",
+                "file": "3 - Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian"
+              "title": "Backlinks for Daily"
             }
           },
           {
@@ -184,29 +184,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "6a1b204bfc08da93",
   "lastOpenFiles": [
+    "3 - Templates/Daily.md",
+    "Daily/2025/январь/02.01.2025.md",
+    "Daily/2025/январь",
+    "Daily/2025",
+    "Excalidraw/Drawing 2025-01-02 17.09.15.excalidraw.md",
+    "4 - Notes/Obsidian/Obsidian.md",
     "4 - Notes/Obsidian/Индексные страницы в Obsidian.md",
     "Untitled.md",
     "Untitled Kanban.md",
     "Ответ Habr.md",
     "Задачи.md",
     "4 - Notes/Obsidian/Плагины/Excalidraw.md",
-    "Excalidraw/Drawing 2025-01-02 17.09.15.excalidraw.md",
     "Excalidraw",
-    "4 - Notes/Obsidian/Obsidian.md",
     "4 - Notes/Obsidian/Плагины/DataView.md",
     "Созвон.md",
     "Untitled 1.md",
@@ -226,16 +230,12 @@
     "3 - Templates/Main Temlate.md",
     "Daily/2024/December/26.12.2024.md",
     "4 - Notes/Obsidian/Атомные заметки (Atomic notes).md",
-    "4 - Notes/Маркетинг/Креативы конкурентов.md",
-    "4 - Notes/Саморазвитие/Книги, которые хочу прочитать.md",
     "4 - Notes/AI",
     "4 - Notes/Ремонт",
     "4 - Notes/Бизнес/Фриланс",
     "4 - Notes/Бизнес/Студия",
     "4 - Notes/Бизнес",
     "4 - Notes/Программирование",
-    "4 - Notes/Маркетинг",
-    "4 - Notes/Реклама и продвижение/РСЯ",
     "_files/Креативы3.webp",
     "_files/Pasted image 20240912155057.png",
     "_files/Pasted image 20240906101753.png",
