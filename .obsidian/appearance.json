@@ -1,11 +1,11 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Catppuccin",
   "accentColor": "",
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "Inter,Cascadia Code",
   "monospaceFontFamily": "FiraCode Nerd Font,Cascadia Mono",
   "nativeMenus": true,
   "textFontFamily": "Consolas,Cascadia Code",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 20,
   "theme": "obsidian"
 }

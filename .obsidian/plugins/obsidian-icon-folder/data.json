@@ -33,7 +33,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1 - Inbox": "LiInbox",
   "3 - Templates": "LiLayoutTemplate",
   "4 - Notes": "LiNotebookPen",
   "Daily": "LiRepeat2"

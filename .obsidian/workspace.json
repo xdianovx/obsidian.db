@@ -31,13 +31,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025/январь/02.01.2025.md",
+                "file": "Чистая голова.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.01.2025"
+              "title": "Чистая голова"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#plugins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Templates/Daily.md",
+                "file": "Чистая голова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily"
+              "title": "Обратные ссылки для Чистая голова"
             }
           },
           {
@@ -132,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Notes/Маркетинг/Ответ на kwork.md",
+                "file": "Чистая голова.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ответ на kwork"
+              "title": "Исходящие ссылки из Чистая голова"
             }
           },
           {
@@ -150,7 +151,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -159,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rought/Промпты для нейросетей.md"
+                "file": "Чистая голова.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Промпты для нейросетей"
+              "title": "Структура Чистая голова"
             }
           },
           {
@@ -175,12 +176,12 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 578,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +199,15 @@
   },
   "active": "6a1b204bfc08da93",
   "lastOpenFiles": [
-    "3 - Templates/Daily.md",
+    "ТЗ Турецкие сериалы.md",
     "Daily/2025/январь/02.01.2025.md",
+    "Untitled 1.md",
+    "3 - Templates/Daily.md",
     "Daily/2025/январь",
     "Daily/2025",
     "Excalidraw/Drawing 2025-01-02 17.09.15.excalidraw.md",
     "4 - Notes/Obsidian/Obsidian.md",
     "4 - Notes/Obsidian/Индексные страницы в Obsidian.md",
-    "Untitled.md",
     "Untitled Kanban.md",
     "Ответ Habr.md",
     "Задачи.md",
@@ -213,7 +215,6 @@
     "Excalidraw",
     "4 - Notes/Obsidian/Плагины/DataView.md",
     "Созвон.md",
-    "Untitled 1.md",
     "_files/Pasted image 20241230153458.png",
     "Daily/2024/December/28.12.2024.md",
     "4 - Notes/Маркетинг/Ответ на kwork.md",
