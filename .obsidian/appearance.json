@@ -7,5 +7,8 @@
   "textFontFamily": "Consolas,Cascadia Code",
   "baseFontSizeAction": true,
   "baseFontSize": 15,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }

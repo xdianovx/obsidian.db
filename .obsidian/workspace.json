@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+                "file": "5. Daily/2025/январь/02.01.2025.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Созвон и задачи по студии 2В"
+              "title": "02.01.2025"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+                "file": "5. Daily/2025/январь/02.01.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Созвон и задачи по студии 2В"
+              "title": "Обратные ссылки для 02.01.2025"
             }
           },
           {
@@ -194,6 +194,7 @@
   },
   "active": "00e77fa50ac89d4e",
   "lastOpenFiles": [
+    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "2. Areas/Бизнес/Фриланс/Ответы/Ответ Habr.md",
     "2. Areas/Маркетинг/Креативы конкурентов.md",
     "2. Areas/Маркетинг/Методика 5W Шеррингтона.md",
@@ -201,7 +202,6 @@
     "Notes/Вызвать модальное окно shadcn vue.md",
     "2. Areas/Бизнес/Фриланс/Ответы",
     "2. Areas/AI/Промпт для контента в телеграм канал.md",
-    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "1. Projects/KOMETA/2V",
     "1. Projects/KOMETA",
     "2. Areas/Саморазвитие/Методология PARA.md",
