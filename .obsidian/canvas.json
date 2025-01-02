@@ -1,5 +1,6 @@
 {
   "snapToObjects": true,
   "snapToGrid": true,
-  "newFileLocation": "folder"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_temp/_draws"
 }
