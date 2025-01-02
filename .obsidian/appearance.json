@@ -1,11 +1,11 @@
 {
-  "cssTheme": "Neo",
+  "cssTheme": "AnuPpuccin",
   "accentColor": "",
   "interfaceFontFamily": "Inter,Cascadia Code",
   "monospaceFontFamily": "FiraCode Nerd Font,Cascadia Mono",
   "nativeMenus": true,
   "textFontFamily": "Consolas,Cascadia Code",
   "baseFontSizeAction": true,
-  "baseFontSize": 18,
+  "baseFontSize": 15,
   "theme": "obsidian"
 }

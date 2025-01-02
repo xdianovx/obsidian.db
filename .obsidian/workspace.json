@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examples/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
-                "mode": "preview",
+                "file": "Заметка, которая поможет мне структурировать Obsidian.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Writing Fiction in Obsidian"
+              "title": "Заметка, которая поможет мне структурировать Obsidian"
+            }
+          },
+          {
+            "id": "00e77fa50ac89d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Методология PARA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Методология PARA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "examples/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
+                "file": "Методология PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 01 Writing Fiction in Obsidian"
+              "title": "Обратные ссылки для Методология PARA"
             }
           },
           {
@@ -176,11 +192,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc106430fd8bb2bd",
+  "active": "e47c46b1373641a6",
   "lastOpenFiles": [
+    "Заметка, которая поможет мне структурировать Obsidian.md",
+    "Методология PARA.md",
+    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Python/Mock Patching.md",
+    "2. Areas",
+    "Задачи.md",
+    "examples/01 Obsidian Workflows.md",
+    "examples/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
+    "examples/02 PARA_Starter_Kit_v2/START HERE!.md",
+    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Community/Audience is a super power.md",
+    "examples/02 PARA_Starter_Kit_v2/2. Areas/House/It wasn't easy but it was worth it.md",
+    "examples/02 PARA_Starter_Kit_v2/2. Areas/Finance/YNAB Ramit Sethi Interview notes.md",
+    "Project Management.md",
+    "examples/02 PARA_Starter_Kit_v2/2. Areas/Blog/=Draft= Project Manager for solo person.md",
+    "examples/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
     "examples/05 On the process of forging evergreen notes/000 Index.md",
     "examples/05 On the process of forging evergreen notes/_START HERE - On the process of forging evergreen notes MOC.md",
-    "examples/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
     "examples/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/Things to look into.md",
     "examples/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/obsidian.css.md",
     "4 - Notes/Ремонт/Проводка замена.md",
@@ -188,7 +217,6 @@
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Productivity",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Travel",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Community/How to build community around your publication.md",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Community/Audience is a super power.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Community",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Marketing/Clusters.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Marketing/Validation is backwards.md",
@@ -198,22 +226,10 @@
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/Dickens deep work.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/PARA Notes from class.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/BASB - Cohort 10 - Class 8.md",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/PARA Notes.md",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/BASB - Cohort 10 - Class 7.md",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/Why I Keep a Research Blog by Gregory Gundersen.md",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/Images.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Python/Mock Patching.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Python",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Drawing/Improving guide.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Drawing",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Cooking/Easy Mini Quiche Recipe.md",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Cooking/7 Low-Sodium Lunches Under 400 Calories.md",
     "examples/02 PARA_Starter_Kit_v2/3. Resouces/Cooking",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Gaming/Interesting games.md",
-    "examples/02 PARA_Starter_Kit_v2/3. Resouces/Gaming",
-    "examples/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Workflow.md",
-    "examples/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Outline.md",
     "_files/Pasted image 20240904163437.png",
     "_files/Pasted image 20241230153458.png",
     "_files/Pasted image 20241226134410.png",

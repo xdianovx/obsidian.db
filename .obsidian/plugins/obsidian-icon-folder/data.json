@@ -32,8 +32,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "3 - Templates": "LiLayoutTemplate",
-  "4 - Notes": "LiNotebookPen",
-  "Daily": "LiRepeat2"
+  }
 }
