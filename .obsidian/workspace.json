@@ -11,18 +11,15 @@
             "id": "7b5bf6aea93bf9cb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "ТЗ Турецкие сериалы.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "ТЗ Турецкие сериалы"
             }
           },
           {
@@ -31,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чистая голова.md",
+                "file": "Daily/2025/январь/02.01.2025.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Чистая голова"
+              "title": "02.01.2025"
             }
           },
           {
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чистая голова.md",
+                "file": "Daily/2025/январь/02.01.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Чистая голова"
+              "title": "Обратные ссылки для 02.01.2025"
             }
           },
           {
@@ -205,11 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e47c46b1373641a6",
+  "active": "6a1b204bfc08da93",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "Чистая голова.md",
     "ТЗ Турецкие сериалы.md",
+    "3 - Templates/Main Temlate.md",
+    "Untitled Kanban.md",
     "Daily/2025/январь/02.01.2025.md",
     "Untitled 1.md",
     "3 - Templates/Daily.md",
@@ -236,7 +234,6 @@
     "Daily/2024/October/14.10.2024.md",
     "4 - Notes/Obsidian/Untitled.md",
     "Заметка, которая поможет мне структурировать Obsidian.md",
-    "3 - Templates/Main Temlate.md",
     "Daily/2024/December/26.12.2024.md",
     "4 - Notes/Obsidian/Атомные заметки (Atomic notes).md",
     "4 - Notes/AI",
