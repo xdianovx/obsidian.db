@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Без названия 2.md",
+                "file": "0. Inbox/Созвонище 05.01.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 2"
+              "title": "Обратные ссылки для Созвонище 05.01.2025"
             }
           },
           {
@@ -219,10 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09d993ccbc0f6878",
+  "active": "ef0df187fc36227a",
   "lastOpenFiles": [
-    "0. Inbox/Созвонище 05.01.2025.md",
     "0. Inbox/Без названия 2.md",
+    "0. Inbox/Созвонище 05.01.2025.md",
     "Excalidraw/Drawing 2025-01-05 13.20.32.excalidraw.md",
     "1. Projects/Ремонт/Лента светодиодная.md",
     "0. Inbox/Созвон.md",
