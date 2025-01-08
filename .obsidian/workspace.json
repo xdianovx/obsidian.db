@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Созвонище 05.01.2025.md",
+                "file": "4. Archives/Books/Настольная книга Project-менеджера.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Созвонище 05.01.2025"
+              "title": "Настольная книга Project-менеджера"
             }
           },
           {
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Созвонище 05.01.2025.md",
+                "file": "4. Archives/Books/Настольная книга Project-менеджера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Созвонище 05.01.2025"
+              "title": "Обратные ссылки для Настольная книга Project-менеджера"
             }
           },
           {
@@ -237,10 +238,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "faf49430212f9b55",
+  "active": "101b6b2bd72c9d7b",
   "lastOpenFiles": [
-    "Чистая голова.md",
     "0. Inbox/Созвонище 05.01.2025.md",
+    "4. Archives/Books/Настольная книга Project-менеджера.md",
+    "4. Archives/Books",
+    "Чистая голова.md",
     "1. Projects/KOMETA/SMM/Общая заметка по нашим соц.сетям.md",
     "0. Inbox/Блог на vc.ru.md",
     "Clippings/Похудеть и накачать после 40 лет 3 главных этапа для рекомпозиции тела.md",
@@ -269,12 +272,10 @@
     "1. Projects/ТГК Пламя/Посты/Как начать с Нового Года.md",
     "1. Projects/ТГК Пламя/Посты",
     "1. Projects/ТГК Пламя",
-    "1. Projects/_index.md",
     "Excalidraw",
     "2. Areas/Бизнес/Фриланс/Ответы",
     "1. Projects/KOMETA/2V",
     "1. Projects/KOMETA",
-    "_temp/_draws",
     "_temp/_files/Pasted image 20240904163437.png",
     "_temp/_files/Pasted image 20241230153458.png",
     "_temp/_files/Pasted image 20241226134410.png",
