@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+                "file": "5. Daily/2025/январь/11.01.2025.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Созвон и задачи по студии 2В"
+              "title": "11.01.2025"
+            }
+          },
+          {
+            "id": "c7571a9051b7351d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Без названия.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           },
           {
@@ -97,7 +112,8 @@
               "title": "Общая заметка по нашим соц.сетям"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+                "file": "0. Inbox/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +195,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Созвон и задачи по студии 2В"
+              "title": "Обратные ссылки для Без названия"
             }
           },
           {
@@ -251,15 +267,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc106430fd8bb2bd",
+  "active": "c7571a9051b7351d",
   "lastOpenFiles": [
+    "5. Daily/2025/январь/11.01.2025.md",
+    "0. Inbox/Без названия.md",
+    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "Чистая голова.md",
     "1. Projects/KOMETA/SMM/Общая заметка по нашим соц.сетям.md",
     "Clippings/Похудеть и накачать после 40 лет 3 главных этапа для рекомпозиции тела.md",
     "0. Inbox/Блог на vc.ru.md",
     "0. Inbox/Список поручил-контролирую.md",
     "2. Areas/Бизнес/Фриланс/Ответы/Ответ Habr.md",
-    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "4. Archives/Books/Настольная книга Project-менеджера.md",
     "0. Inbox/Созвонище 05.01.2025.md",
     "4. Archives/Books",
@@ -281,8 +299,6 @@
     "0. Inbox/_readme.md",
     "0. Inbox/Без названия 2.md",
     "0. Inbox/Без названия 1.md",
-    "2. Areas/_index.md",
-    "5. Daily/2025/январь/02.01.2025.md",
     "1. Projects/ТГК Пламя/Посты",
     "1. Projects/ТГК Пламя",
     "Excalidraw",
