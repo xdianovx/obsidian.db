@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+                "file": "5. Daily/2025/январь/15.01.2025.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Созвон и задачи по студии 2В"
+              "title": "15.01.2025"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+                "file": "5. Daily/2025/январь/15.01.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Созвон и задачи по студии 2В"
+              "title": "Обратные ссылки для 15.01.2025"
             }
           },
           {
@@ -299,10 +299,11 @@
   },
   "active": "faf49430212f9b55",
   "lastOpenFiles": [
+    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
+    "5. Daily/2025/январь/15.01.2025.md",
     "1. Projects/KOMETA/SMM/Общая заметка по нашим соц.сетям.md",
     "0. Inbox/Мой ИНН Самозанятый.md",
     "0. Inbox/Без названия.md",
-    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "2. Areas/Бизнес/Фриланс/Ответы/Ответ Habr.md",
     "0. Inbox/2v доступы.md",
     "5. Daily/2025/январь/11.01.2025.md",
@@ -328,7 +329,6 @@
     "Clippings",
     "1. Projects/ТГК Пламя/Посты/О том, почему так важно начать разбираться с питанием.md",
     "0. Inbox/Созвон.md",
-    "0. Inbox/_readme.md",
     "1. Projects/ТГК Пламя/Посты",
     "1. Projects/ТГК Пламя",
     "Excalidraw",
