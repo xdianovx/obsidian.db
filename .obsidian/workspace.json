@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "cb7af840783667d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Мальков Доступы.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мальков Доступы"
+            }
+          },
+          {
             "id": "f3d46235d41bcda5",
             "type": "leaf",
             "state": {
@@ -143,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Daily/2025/январь/15.01.2025.md",
+                "file": "0. Inbox/Мальков Доступы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +240,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 15.01.2025"
+              "title": "Обратные ссылки для Мальков Доступы"
             }
           },
           {
@@ -297,10 +312,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "faf49430212f9b55",
+  "active": "cb7af840783667d3",
   "lastOpenFiles": [
-    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "5. Daily/2025/январь/15.01.2025.md",
+    "0. Inbox/Мальков Доступы.md",
+    "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "1. Projects/KOMETA/SMM/Общая заметка по нашим соц.сетям.md",
     "0. Inbox/Мой ИНН Самозанятый.md",
     "0. Inbox/Без названия.md",
@@ -328,7 +344,6 @@
     "Каждый день.md",
     "Clippings",
     "1. Projects/ТГК Пламя/Посты/О том, почему так важно начать разбираться с питанием.md",
-    "0. Inbox/Созвон.md",
     "1. Projects/ТГК Пламя/Посты",
     "1. Projects/ТГК Пламя",
     "Excalidraw",
