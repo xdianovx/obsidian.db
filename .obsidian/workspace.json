@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1aad55fbcd7aee",
+        "id": "ee261c6fbe3a3a83",
         "type": "tabs",
         "children": [
           {
-            "id": "62d55cd17bd206fe",
+            "id": "9f1753ff728660e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,8 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62d55cd17bd206fe",
+  "active": "9f1753ff728660e3",
   "lastOpenFiles": [
+    "5. Daily/2025/январь/15.01.2025.md",
+    "0. Inbox/';.md",
+    "0. Inbox/Без названия 1.md",
     "0. Inbox/Мой ИНН Самозанятый.md",
     "0. Inbox/Без названия.md",
     "1. Projects/KOMETA/SMM/Общая заметка по нашим соц.сетям.md",
@@ -180,7 +183,6 @@
     "0. Inbox/Список поручил-контролирую.md",
     "5. Daily/2025/январь/11.01.2025.md",
     "0. Inbox/2v доступы.md",
-    "5. Daily/2025/январь/15.01.2025.md",
     "0. Inbox/Мальков Доступы.md",
     "1. Projects/KOMETA/2V/Созвон и задачи по студии 2В.md",
     "2. Areas/Бизнес/Фриланс/Ответы/Ответ Habr.md",
@@ -199,9 +201,7 @@
     "Excalidraw/Drawing 2025-01-05 13.20.32.excalidraw.md",
     "1. Projects/KOMETA/SMM",
     "1. Projects/ТКГ Комета",
-    "Каждый день.md",
     "Clippings",
-    "1. Projects/ТГК Пламя/Посты/О том, почему так важно начать разбираться с питанием.md",
     "1. Projects/ТГК Пламя/Посты",
     "1. Projects/ТГК Пламя",
     "Excalidraw",
