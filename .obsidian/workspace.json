@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Без названия 2.md",
+                "file": "0. Inbox/2v доступы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 2"
+              "title": "2v доступы"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Без названия 2.md",
+                "file": "0. Inbox/2v доступы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 2"
+              "title": "Обратные ссылки для 2v доступы"
             }
           },
           {
@@ -194,10 +194,11 @@
   },
   "active": "fb4533a17c369eb1",
   "lastOpenFiles": [
-    "0. Inbox/Бады и питание, что бы пережить абстинентный синдром.md",
-    "0. Inbox/Без названия 2.md",
-    "5. Daily/2025/январь/15.01.2025.md",
+    "0. Inbox/_readme.md",
     "0. Inbox/';.md",
+    "0. Inbox/Без названия 2.md",
+    "0. Inbox/Бады и питание, что бы пережить абстинентный синдром.md",
+    "5. Daily/2025/январь/15.01.2025.md",
     "0. Inbox/Без названия 1.md",
     "0. Inbox/Мой ИНН Самозанятый.md",
     "0. Inbox/Без названия.md",
@@ -220,7 +221,6 @@
     "2. Areas/Саморазвитие/PARA.md",
     "2. Areas/AI/Промпт для контента в телеграм канал.md",
     "Clippings/🚀 Best Productivity Books to Kickstart 2025.md",
-    "0. Inbox/SMM.md",
     "1. Projects/KOMETA/SMM",
     "1. Projects/ТКГ Комета",
     "Clippings",
