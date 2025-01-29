@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Без названия.md",
+                "file": "5. Daily/2025/январь/29.01.2025.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "29.01.2025"
             }
           }
         ],
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Без названия.md",
+                "file": "5. Daily/2025/январь/29.01.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для 29.01.2025"
             }
           },
           {
@@ -224,8 +224,9 @@
   },
   "active": "a6939f9709f602a1",
   "lastOpenFiles": [
-    "0. Inbox/Бады и питание, что бы пережить абстинентный синдром.md",
     "0. Inbox/Без названия.md",
+    "5. Daily/2025/январь/29.01.2025.md",
+    "0. Inbox/Бады и питание, что бы пережить абстинентный синдром.md",
     "0. Inbox/Блог на vc.ru.md",
     "0. Inbox/Ajax Wordpress.md",
     "0. Inbox/SMM.md",
@@ -252,7 +253,6 @@
     "4. Archives/Books",
     "2. Areas/Саморазвитие/Monk Mode.md",
     "0. Inbox/Структура нового сайта для Юры.md",
-    "2. Areas/Саморазвитие/PARA.md",
     "1. Projects/KOMETA/SMM",
     "1. Projects/ТКГ Комета",
     "Clippings",
