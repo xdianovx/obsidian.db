@@ -6,5 +6,7 @@
   "attachmentFolderPath": "_temp/_files",
   "defaultViewMode": "preview",
   "spellcheck": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }
