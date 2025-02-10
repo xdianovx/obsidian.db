@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2f790cf0f21b46",
+        "id": "4a25136a93f09cae",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec2edb5a9359d17",
+            "id": "59c2328b467ceb20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Без названия 5.md",
+                "file": "Clippings/Telegram для продаж 3 шага, которые увеличат конверсию с минимальными затратами — Личный опыт на vc.ru.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 5"
+              "title": "Telegram для продаж 3 шага, которые увеличат конверсию с минимальными затратами — Личный опыт на vc.ru"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Без названия 5.md",
+                "file": "Clippings/Telegram для продаж 3 шага, которые увеличат конверсию с минимальными затратами — Личный опыт на vc.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 5"
+              "title": "Обратные ссылки для Telegram для продаж 3 шага, которые увеличат конверсию с минимальными затратами — Личный опыт на vc.ru"
             }
           },
           {
@@ -177,8 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ec2edb5a9359d17",
+  "active": "59c2328b467ceb20",
   "lastOpenFiles": [
+    "Clippings/Как там ваши планы на 2025 год Рассказываем о самой главной вещи, которая поможет их реализовать так, как вы хотите — Личный опыт на vc.ru.md",
+    "Clippings/Telegram для продаж 3 шага, которые увеличат конверсию с минимальными затратами — Личный опыт на vc.ru.md",
+    "Clippings/Дофаминовый эксплойт или как стать счастливее ч.2 — Личный опыт на vc.ru.md",
+    "Clippings/Дофаминовый эксплойт или как стать счастливее — Личный опыт на vc.ru.md",
     "0. Inbox/Без названия 5.md",
     "5. Daily/2025/февраль/05.02.2025.md",
     "0. Inbox/Без названия 4.md",
@@ -204,10 +208,6 @@
     "0. Inbox/2v доступы.md",
     "0. Inbox/_readme.md",
     "0. Inbox/';.md",
-    "5. Daily/2025/январь/15.01.2025.md",
-    "0. Inbox/Мой ИНН Самозанятый.md",
-    "1. Projects/KOMETA/SMM/Общая заметка по нашим соц.сетям.md",
-    "Clippings/Похудеть и накачать после 40 лет 3 главных этапа для рекомпозиции тела.md",
     "4. Archives/Books",
     "1. Projects/KOMETA/SMM",
     "1. Projects/ТКГ Комета",
