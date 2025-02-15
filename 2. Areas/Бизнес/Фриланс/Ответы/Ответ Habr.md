@@ -11,7 +11,7 @@
 <i>Отлично понимаю и выстраиваю процессы, что позволяет грамотно оценивать проекты и не срывать сроки.</i>
 <br/>
 <b>Behance: </b>
-<a target="_blank" href="https://www.behance.net/dianov_e">Ссылка</a> <br/>
+<a target="_blank" href="https://www.behance.net/dianov_e">@dianov_e</a> <br/>
 <b>🚀 Некоторые работы:</b> 
 <a target="_blank" href="https://suvarstroit.ru/">https://suvarstroit.ru</a>
 <a target="_blank" href="https://makey.by/">https://makey.by/</a>
