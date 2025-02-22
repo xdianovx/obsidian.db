@@ -11,12 +11,19 @@ https://www.youtube.com/watch?v=0AaOFn-n6Ho&list=PL6u82dzQtlfv8fJF3gm42TDHJdtA2N
 https://www.youtube.com/watch?v=Yc2GoHPoFvc&list=PL6u82dzQtlfv8fJF3gm42TDHJdtA2NDWT&index=2
 
 ## 1 video
-1. Развернули проект
-2. php artisan make:model Category -m
-3. 
+Развернули проект
+
+Создали модели
+```php
+php artisan make:model Category -m
+php artisan make:model Brand -m
+php artisan make:model Product -m
+php artisan make:model Order -m
+php artisan make:model OrderItem -m
+php artisan make:model Address -m
+```
 
 
----
 
 #### References
  
