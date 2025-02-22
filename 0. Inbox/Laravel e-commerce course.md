@@ -23,7 +23,7 @@ php artisan make:model OrderItem -m
 php artisan make:model Address -m
 ```
 
-
-
+ЗАполнили `$fillable` В моделях и прописали связи
+ 
 #### References
  
