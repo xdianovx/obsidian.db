@@ -25,6 +25,8 @@ php artisan make:model Address -m
 
 ЗАполнили `$fillable` В моделях и прописали связи
 
+## 2 video
+Ставим филамент
 
 #### References
  
