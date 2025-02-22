@@ -28,5 +28,9 @@ php artisan make:model Address -m
 ## 2 video
 Ставим филамент
 
+Создаем ресурсы
+`php artisan make:filament-resource`
+
+
 #### References
  
