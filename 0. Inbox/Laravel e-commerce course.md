@@ -24,6 +24,7 @@ php artisan make:model Address -m
 ```
 
 ЗАполнили `$fillable` В моделях и прописали связи
- 
+
+
 #### References
  
