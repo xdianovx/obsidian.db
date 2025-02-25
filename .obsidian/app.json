@@ -8,5 +8,11 @@
   "spellcheck": false,
   "tabSize": 2,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
