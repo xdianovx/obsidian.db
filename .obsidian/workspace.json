@@ -123,9 +123,21 @@
               "icon": "lucide-file",
               "title": "01.04.2025"
             }
+          },
+          {
+            "id": "cd22f543ccda0aac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-01 19.42.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-01 19.42.31.excalidraw"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -244,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily/2025/апрель/01.04.2025.md",
+                "file": "Excalidraw/Drawing 2025-04-01 19.42.31.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 01.04.2025"
+              "title": "Структура Drawing 2025-04-01 19.42.31.excalidraw"
             }
           },
           {
@@ -284,10 +296,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "370ceb4e59e16ec3",
+  "active": "cd22f543ccda0aac",
   "lastOpenFiles": [
-    "Clippings/Burning 1kg of Fat Weekly A Deep Dive into Fat Lo.md",
     "5. Daily/2025/апрель/01.04.2025.md",
+    "Excalidraw/Drawing 2025-04-01 19.42.31.excalidraw.md",
+    "Clippings/Burning 1kg of Fat Weekly A Deep Dive into Fat Lo.md",
     "5. Daily/2025/апрель",
     "0. Inbox/Без названия 8.md",
     "0. Inbox/Без названия 7.md",
@@ -313,7 +326,6 @@
     "0. Inbox/Без названия 1.md",
     "2. Areas/Маркетинг/Маркетинг.md",
     "5. Daily/2025/февраль",
-    "5. Daily/2025/январь/29.01.2025.md",
     "2. Areas/Бизнес/Студия/Созвоны",
     "1. Projects/KOMETA/Мальков",
     "4. Archives/Books",
