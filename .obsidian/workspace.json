@@ -126,9 +126,19 @@
               "icon": "lucide-file",
               "title": "11.05.2025"
             }
+          },
+          {
+            "id": "d293b9a0c6ac6b44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -247,13 +257,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily/2025/май/11.05.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 11.05.2025"
+              "title": "Структура"
             }
           },
           {
@@ -287,7 +296,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "93d24d9dbf3b02bd",
+  "active": "d293b9a0c6ac6b44",
   "lastOpenFiles": [
     "5. Daily/2025/май/11.05.2025.md",
     "5. Daily/2025/май",
