@@ -131,10 +131,15 @@
             "id": "d293b9a0c6ac6b44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/Без названия 13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Без названия 13"
             }
           }
         ],
@@ -257,12 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0. Inbox/Без названия 13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Без названия 13"
             }
           },
           {
@@ -298,6 +304,8 @@
   },
   "active": "d293b9a0c6ac6b44",
   "lastOpenFiles": [
+    "5. Daily/2025/май/14.05.2025.md",
+    "0. Inbox/Без названия 13.md",
     "5. Daily/2025/май/11.05.2025.md",
     "5. Daily/2025/май",
     "0. Inbox/Без названия 12.md",
@@ -334,8 +342,6 @@
     "Excalidraw/Drawing 2025-02-23 18.34.34.excalidraw.md",
     "0. Inbox/filament уроки туторы.md",
     "5. Daily/2025/февраль/15.02.2025.md",
-    "Clippings/Telegram для продаж 3 шага, которые увеличат конверсию с минимальными затратами — Личный опыт на vc.ru.md",
-    "0. Inbox/НУжен файл минимальных требований к верстке.md",
     "5. Daily/2025/февраль",
     "2. Areas/Бизнес/Студия/Созвоны",
     "1. Projects/KOMETA/Мальков",
