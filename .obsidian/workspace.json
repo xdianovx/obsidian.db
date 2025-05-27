@@ -118,32 +118,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily/2025/май/11.05.2025.md",
+                "file": "5. Daily/2025/май/27.05.2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11.05.2025"
-            }
-          },
-          {
-            "id": "d293b9a0c6ac6b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/ПРо блок.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ПРо блок"
+              "title": "27.05.2025"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -262,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/ПРо блок.md",
+                "file": "5. Daily/2025/май/27.05.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ПРо блок"
+              "title": "Структура 27.05.2025"
             }
           },
           {
@@ -302,11 +287,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d293b9a0c6ac6b44",
+  "active": "93d24d9dbf3b02bd",
   "lastOpenFiles": [
-    "5. Daily/2025/май/14.05.2025.md",
-    "0. Inbox/ПРо блок.md",
     "5. Daily/2025/май/11.05.2025.md",
+    "5. Daily/2025/май/27.05.2025.md",
+    "0. Inbox/рефы.md",
+    "0. Inbox/ПРо блок.md",
+    "5. Daily/2025/май/14.05.2025.md",
     "5. Daily/2025/май",
     "0. Inbox/Без названия 12.md",
     "0. Inbox/Без названия 11.md",
@@ -340,8 +327,6 @@
     "5. Daily/2025/апрель",
     "0. Inbox/Без названия 8.md",
     "Excalidraw/Drawing 2025-02-23 18.34.34.excalidraw.md",
-    "0. Inbox/filament уроки туторы.md",
-    "5. Daily/2025/февраль/15.02.2025.md",
     "5. Daily/2025/февраль",
     "2. Areas/Бизнес/Студия/Созвоны",
     "1. Projects/KOMETA/Мальков",
