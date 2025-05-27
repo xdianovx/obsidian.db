@@ -127,8 +127,7 @@
               "title": "27.05.2025"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily/2025/май/27.05.2025.md",
+                "file": "2. Areas/Бизнес/Фриланс/Ответы/Ответ Habr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 27.05.2025"
+              "title": "Структура Ответ Habr"
             }
           },
           {
@@ -287,10 +286,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "93d24d9dbf3b02bd",
+  "active": "59c2328b467ceb20",
   "lastOpenFiles": [
-    "5. Daily/2025/май/11.05.2025.md",
     "5. Daily/2025/май/27.05.2025.md",
+    "5. Daily/2025/май/11.05.2025.md",
     "0. Inbox/рефы.md",
     "0. Inbox/ПРо блок.md",
     "5. Daily/2025/май/14.05.2025.md",
