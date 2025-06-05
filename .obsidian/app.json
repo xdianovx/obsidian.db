@@ -10,7 +10,8 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": true,
+    "pageSize": "A4",
     "landscape": true,
     "margin": "0",
     "downscalePercent": 100
