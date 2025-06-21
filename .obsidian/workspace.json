@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/Untitled 1.md",
+                "file": "5. Daily/2025/June/21.06.2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "21.06.2025"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Untitled 1.md",
+                "file": "5. Daily/2025/June/21.06.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of 21.06.2025"
             }
           },
           {
@@ -184,6 +184,7 @@
   "active": "3ab9c981e3ee2601",
   "lastOpenFiles": [
     "0. Inbox/Untitled 1.md",
+    "5. Daily/2025/June/21.06.2025.md",
     "Untitled Kanban.md",
     "Project Management.md",
     "Чистая голова.md",
@@ -215,7 +216,6 @@
     "_temp/_files/Pasted image 20250416090051.png",
     "0. Inbox/Досрать по сайту.md",
     "5. Daily/2025/апрель/10.04.2025.md",
-    "0. Inbox/Без названия 9.md",
     "_temp/_files/Pasted image 20250404135032.png",
     "_temp/_files/Pasted image 20250404135025.png",
     "_temp/_files/Pasted image 20250404135017.png",
