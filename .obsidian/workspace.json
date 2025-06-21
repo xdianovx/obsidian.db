@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "21.06.2025"
             }
+          },
+          {
+            "id": "880d4bea6d464d1a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-21 08.36.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-21 08.36.56.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily/2025/June/21.06.2025.md",
+                "file": "Excalidraw/Drawing 2025-06-21 08.36.56.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 21.06.2025"
+              "title": "Outline of Drawing 2025-06-21 08.36.56.excalidraw"
             }
           },
           {
@@ -181,10 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ab9c981e3ee2601",
+  "active": "880d4bea6d464d1a",
   "lastOpenFiles": [
-    "0. Inbox/Untitled 1.md",
     "5. Daily/2025/June/21.06.2025.md",
+    "Excalidraw/Drawing 2025-06-21 08.36.56.excalidraw.md",
+    "0. Inbox/Untitled 1.md",
     "Untitled Kanban.md",
     "Project Management.md",
     "Чистая голова.md",
@@ -215,7 +229,6 @@
     "_temp/_files/Pasted image 20250416093326.png",
     "_temp/_files/Pasted image 20250416090051.png",
     "0. Inbox/Досрать по сайту.md",
-    "5. Daily/2025/апрель/10.04.2025.md",
     "_temp/_files/Pasted image 20250404135032.png",
     "_temp/_files/Pasted image 20250404135025.png",
     "_temp/_files/Pasted image 20250404135017.png",
