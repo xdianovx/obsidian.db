@@ -4,8 +4,8 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "DD.MM.YYY",
-    "folder": "5. Daily",
-    "template": "_temp/_templates/Daily",
+    "folder": "Format: YYYY/[MMMM]/YYYY-MM-DD",
+    "template": "@Templates/_templates/Daily.md",
     "enabled": true
   },
   "weekly": {
