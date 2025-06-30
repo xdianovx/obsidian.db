@@ -25,7 +25,7 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "tp.date.open_daily_note()"
   ],
   "enable_ribbon_icon": true
 }
