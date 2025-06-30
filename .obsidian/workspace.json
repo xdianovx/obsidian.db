@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Templates/_templates/Daily.md",
+                "file": "@Templates/_templates/weekly.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "weekly"
             }
           }
         ],
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Templates/_templates/Daily.md",
+                "file": "@Templates/_templates/weekly.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily"
+              "title": "Outline of weekly"
             }
           },
           {
@@ -215,8 +215,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "971f577890d44af3",
+  "active": "e47c46b1373641a6",
   "lastOpenFiles": [
+    "5. Daily/Weekly/Untitled.md",
+    "@Templates/_templates/weekly.md",
+    "@Templates/_templates/Daily.md",
     "3. Areas/Маркетинг/Курсы/Яндекс/Untitled/Основы диджитал-рекламы.md",
     "3. Areas/Маркетинг/Курсы/Яндекс/Untitled/Яндекс про Директ основы.md",
     "3. Areas/Маркетинг/Курсы/Яндекс/Untitled",
@@ -243,14 +246,11 @@
     "1. Inbox/h507114449_2v.md",
     "@Templates/_templates/Post.md",
     "@Templates/_templates/Main Temlate.md",
-    "@Templates/_templates/Daily.md",
     "4. Resources/WE.DESGN/Шаблоны/Дизайн чеклист.md",
     "1. Inbox/Untitled Kanban.md",
     "1. Inbox/Untitled 2.md",
     "1. Inbox/Untitled 1.md",
     "1. Inbox/Untitled.md",
-    "1. Inbox/Laravel e-commerce course.md",
-    "1. Inbox/Filament PHP.md",
     "4. Resources/WE.DESGN/Статьи",
     "3. Areas/Личное",
     "4. Resources/Са.canvas",
