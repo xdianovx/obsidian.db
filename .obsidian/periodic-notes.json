@@ -1,20 +1,20 @@
 {
   "daily": {
     "enabled": true,
-    "folder": "6. Daily/2025",
-    "format": "YYYY-MM-DD",
+    "folder": "5. Daily",
+    "format": "YYYY/[MMMM]/YYYY-MM-DD",
     "template": "@Templates/daily.md"
   },
   "weekly": {
     "enabled": true,
-    "folder": "6. Daily/2025/Weekly",
+    "folder": "5. Daily/Weekly",
     "format": "[Week] w-[W]",
     "template": "@Templates/weekly.md"
   },
   "monthly": {
-    "enabled": false,
-    "folder": "",
-    "format": "",
-    "template": ""
+    "enabled": true,
+    "folder": "5. Daily/Monthly",
+    "format": "YYYY-[MM]",
+    "template": "@Templates/monthly.md"
   }
 }

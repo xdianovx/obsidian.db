@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily/30.06.2025.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "30.06.2025"
+              "title": "readme"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily/30.06.2025.md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 30.06.2025"
+              "title": "Outline of readme"
             }
           },
           {
@@ -183,8 +183,10 @@
   },
   "active": "dd80489259ea2b46",
   "lastOpenFiles": [
-    "@Templates/_templates/Daily.md",
+    "@Templates/_templates/Note.md",
+    "readme.md",
     "5. Daily/30.06.2025.md",
+    "@Templates/_templates/Daily.md",
     "5. Daily/2025/June/30.06.2025.md",
     "5. Daily/2025/2025-07-01.md.md",
     "@Templates/_templates/Main Temlate.md",
@@ -198,7 +200,6 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Clippings/Как там ваши планы на 2025 год Рассказываем о самой главной вещи, которая поможет их реализовать так, как вы хотите — Личный опыт на vc.ru.md",
     "Задачи.md",
     "Clippings/Дофаминовый эксплойт или как стать счастливее — Личный опыт на vc.ru.md",
@@ -210,7 +211,6 @@
     "Заметка, которая поможет мне структурировать Obsidian.md",
     "Архив.zip",
     "1. Inbox/h507114449_2v.md",
-    "5. Daily/2025/June/21.06.2025.md",
     "Untitled",
     "5. Daily/2025/June",
     "5. Daily/2025/май",
