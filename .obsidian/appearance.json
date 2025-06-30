@@ -1,7 +1,7 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Things",
   "accentColor": "",
-  "interfaceFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "Inter",
   "monospaceFontFamily": "FiraCode Nerd Font,Cascadia Mono",
   "nativeMenus": true,
   "textFontFamily": "Consolas,Cascadia Code",
