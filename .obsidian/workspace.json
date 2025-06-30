@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "1. Inbox/10 книг, которые помогут прокачаться в бизнесе и медиа.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "10 книг, которые помогут прокачаться в бизнесе и медиа"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "1. Inbox/10 книг, которые помогут прокачаться в бизнесе и медиа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of readme"
+              "title": "Outline of 10 книг, которые помогут прокачаться в бизнесе и медиа"
             }
           },
           {
@@ -183,6 +183,8 @@
   },
   "active": "dd80489259ea2b46",
   "lastOpenFiles": [
+    "1. Inbox/_readme.md",
+    "1. Inbox/2v доступы.md",
     "@Templates/_templates/Note.md",
     "readme.md",
     "5. Daily/30.06.2025.md",
@@ -208,9 +210,7 @@
     "Каждый день.md",
     "5. Daily/2025/June/29.06.2025.md",
     "Project Management.md",
-    "Заметка, которая поможет мне структурировать Obsidian.md",
     "Архив.zip",
-    "1. Inbox/h507114449_2v.md",
     "Untitled",
     "5. Daily/2025/June",
     "5. Daily/2025/май",
