@@ -1,0 +1,20 @@
+{
+  "daily": {
+    "enabled": true,
+    "folder": "6. Daily/2025",
+    "format": "YYYY-MM-DD",
+    "template": "@Templates/daily.md"
+  },
+  "weekly": {
+    "enabled": true,
+    "folder": "6. Daily/2025/Weekly",
+    "format": "[Week] w-[W]",
+    "template": "@Templates/weekly.md"
+  },
+  "monthly": {
+    "enabled": false,
+    "folder": "",
+    "format": "",
+    "template": ""
+  }
+}
