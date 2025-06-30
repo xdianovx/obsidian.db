@@ -25,37 +25,22 @@
             }
           },
           {
-            "id": "7b9d356528c34bcc",
+            "id": "7fdeaefd4752c70e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Templates/_templates/Post.md",
+                "file": "1. Inbox/h507114449_2v.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Post"
-            }
-          },
-          {
-            "id": "1cf8955fd38d106d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Регламент о том как я собирал инфу о наших конкурентахЗщые"
+              "title": "h507114449_2v"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
+                "file": "1. Inbox/h507114449_2v.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Регламент о том как я собирал инфу о наших конкурентахЗщые"
+              "title": "Outline of h507114449_2v"
             }
           },
           {
@@ -215,13 +200,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e47c46b1373641a6",
+  "active": "7fdeaefd4752c70e",
   "lastOpenFiles": [
-    "4. Resources/WE.DESGN/Статьи",
+    "1. Inbox/Filament PHP.md",
+    "1. Inbox/filament уроки туторы.md",
+    "1. Inbox/Ajax Wordpress.md",
+    "1. Inbox/фждлфывжа.md",
     "5. Daily/30.06.2025.md",
-    "@Templates/_templates/Post.md",
-    "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
+    "3. Areas/Здоровье/Рекомпозиция тела.md",
+    "1. Inbox/рефы.md",
+    "1. Inbox/Список поручил-контролирую.md",
+    "1. Inbox/Спорт]] [[Саморазвитие.md",
+    "4. Resources/WE.DESGN/Статьи/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
     "@Templates/_templates/Note.md",
+    "@Templates/_templates/Post.md",
+    "4. Resources/WE.DESGN/Статьи",
     "4. Resources/WE.DESGN/Шаблоны/Дизайн чеклист.md",
     "@Templates/_templates/Daily.md",
     "4. Resources/WE.DESGN/Шаблоны/Регламент Верстка.md",
@@ -239,21 +232,13 @@
     "1. Inbox/Untitled Kanban.md",
     "1. Inbox/Блог на vc.ru.md",
     "1. Inbox/Без названия 12.md",
-    "1. Inbox/Без названия 11.md",
-    "1. Inbox/Без названия 10.md",
-    "1. Inbox/Без названия 9.md",
-    "3. Areas/Здоровье/Тренировки/Зарядка.md",
     "3. Areas/Здоровье/Тренировки",
     "3. Areas/Здоровье",
-    "1. Inbox/Без названия 7.md",
-    "1. Inbox/Без названия 6.md",
-    "1. Inbox/Без названия 5.md",
     "4. Resources/Саморазвитие",
     "4. Resources/Са.canvas",
     "5. Daily/Weekly",
     "Архив.zip",
     "Untitled",
-    "5. Daily/2025/June",
     "@Templates/_files/Pasted image 20250424204814.png",
     "@Templates/_files/Pasted image 20250417191832.png",
     "@Templates/_files/Pasted image 20250416093326.png",
