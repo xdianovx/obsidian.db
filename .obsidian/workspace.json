@@ -25,18 +25,27 @@
             }
           },
           {
-            "id": "5263a0c9b4dbf3ee",
+            "id": "279e91fac8196b75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily/30.06.2025.md",
+                "file": "📋 Задачи (Kanban).md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "30.06.2025"
+              "title": "📋 Задачи (Kanban)"
             }
           }
         ],
@@ -159,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily/30.06.2025.md",
+                "file": "📋 Задачи (Kanban).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 30.06.2025"
+              "title": "Outline of 📋 Задачи (Kanban)"
             }
           },
           {
@@ -200,11 +209,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5263a0c9b4dbf3ee",
+  "active": "279e91fac8196b75",
   "lastOpenFiles": [
+    "5. Daily/30.06.2025.md",
+    "1. Inbox/Untitled Kanban.md",
+    "📋 Задачи (Kanban).md",
+    "1. Inbox/Дизайн чеклист.md",
+    "1. Inbox/Досрать по сайту.md",
+    "1. Inbox/Блог на vc.ru.md",
+    "1. Inbox/Без названия 12.md",
+    "1. Inbox/Без названия 11.md",
+    "1. Inbox/Без названия 10.md",
     "1. Inbox/Без названия 9.md",
     "3. Areas/Здоровье/Тренировки/Зарядка.md",
-    "5. Daily/30.06.2025.md",
     "@Templates/_templates/Note.md",
     "@Templates/_templates/Daily.md",
     "3. Areas/Здоровье/Тренировки",
@@ -222,16 +239,8 @@
     "Что делать с заметкой.md",
     "readme.md",
     "4. Resources/Саморазвитие/10 книг, которые помогут прокачаться в бизнесе и медиа.md",
-    "1. Inbox/Untitled 2.md",
     "4. Resources/Саморазвитие",
     "4. Resources/Са.canvas",
-    "1. Inbox/2v доступы.md",
-    "5. Daily/2025/June/30.06.2025.md",
-    "5. Daily/2025/2025-07-01.md.md",
-    "@Templates/_templates/Main Temlate.md",
-    "@Templates/_templates/daily.md",
-    "5. Daily/Weekly/Untitled.md",
-    "@Templates/_templates/weekly.md",
     "5. Daily/Weekly",
     "Архив.zip",
     "Untitled",
