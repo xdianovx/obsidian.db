@@ -30,17 +30,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Templates/_templates/Note.md",
-                "mode": "preview",
+                "file": "@Templates/_templates/Post.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Post"
+            }
+          },
+          {
+            "id": "1cf8955fd38d106d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Регламент о том как я собирал инфу о наших конкурентахЗщые"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Templates/_templates/Note.md",
+                "file": "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note"
+              "title": "Outline of Регламент о том как я собирал инфу о наших конкурентахЗщые"
             }
           },
           {
@@ -200,12 +215,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7b9d356528c34bcc",
+  "active": "e47c46b1373641a6",
   "lastOpenFiles": [
-    "@Templates/_templates/Post.md",
-    "@Templates/_templates/Note.md",
-    "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
+    "4. Resources/WE.DESGN/Статьи",
     "5. Daily/30.06.2025.md",
+    "@Templates/_templates/Post.md",
+    "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
+    "@Templates/_templates/Note.md",
     "4. Resources/WE.DESGN/Шаблоны/Дизайн чеклист.md",
     "@Templates/_templates/Daily.md",
     "4. Resources/WE.DESGN/Шаблоны/Регламент Верстка.md",
@@ -232,7 +248,6 @@
     "1. Inbox/Без названия 7.md",
     "1. Inbox/Без названия 6.md",
     "1. Inbox/Без названия 5.md",
-    "1. Inbox/Без названия 4.md",
     "4. Resources/Саморазвитие",
     "4. Resources/Са.canvas",
     "5. Daily/Weekly",
