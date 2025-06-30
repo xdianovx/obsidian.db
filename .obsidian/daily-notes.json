@@ -1,6 +1,6 @@
 {
-  "format": "YYYY/MMMM/DD.MM.YYYY",
+  "format": "DD.MM.YYYY",
   "folder": "5. Daily",
-  "template": "/_templates/Daily",
+  "template": "@Templates/_templates/Daily",
   "autorun": true
 }

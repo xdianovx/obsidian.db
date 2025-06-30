@@ -1,5 +1,5 @@
 {
-  "folder": "_temp/_templates",
+  "folder": "@Templates/_templates",
   "dateFormat": "DD.MM.YYYY",
   "timeFormat": "HH:MM"
 }
