@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "5. Daily/30.06.2025.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -28,20 +28,15 @@
             "id": "279e91fac8196b75",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "📋 Задачи (Kanban).md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null,
-                    null,
-                    false
-                  ]
-                }
+                "file": "1. Inbox/Мой ИНН Самозанятый.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "📋 Задачи (Kanban)"
+              "icon": "lucide-file",
+              "title": "Мой ИНН Самозанятый"
             }
           }
         ],
@@ -77,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "диз",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 Задачи (Kanban).md",
+                "file": "1. Inbox/Мой ИНН Самозанятый.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📋 Задачи (Kanban)"
+              "title": "Outline of Мой ИНН Самозанятый"
             }
           },
           {
@@ -208,21 +203,20 @@
   "active": "279e91fac8196b75",
   "lastOpenFiles": [
     "4. Resources/WE.DESGN/Шаблоны/Дизайн чеклист.md",
+    "1. Inbox/Досрать по сайту.md",
+    "📋 Задачи (Kanban).md",
+    "@Templates/_templates/Note.md",
+    "@Templates/_templates/Daily.md",
+    "5. Daily/30.06.2025.md",
     "4. Resources/WE.DESGN/Шаблоны",
     "4. Resources/WE.DESGN",
-    "5. Daily/30.06.2025.md",
-    "📋 Задачи (Kanban).md",
-    "📋 Задачи (Kanban).md",
     "1. Inbox/Untitled Kanban.md",
-    "1. Inbox/Досрать по сайту.md",
     "1. Inbox/Блог на vc.ru.md",
     "1. Inbox/Без названия 12.md",
     "1. Inbox/Без названия 11.md",
     "1. Inbox/Без названия 10.md",
     "1. Inbox/Без названия 9.md",
     "3. Areas/Здоровье/Тренировки/Зарядка.md",
-    "@Templates/_templates/Note.md",
-    "@Templates/_templates/Daily.md",
     "3. Areas/Здоровье/Тренировки",
     "3. Areas/Здоровье",
     "1. Inbox/Без названия 7.md",
