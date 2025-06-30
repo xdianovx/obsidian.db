@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "5. Daily/30.06.2025.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -30,17 +30,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Templates/_templates/Post.md",
+                "file": "4. Resources/Саморазвитие/10 книг, которые помогут прокачаться в бизнесе и медиа.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Post"
+              "title": "10 книг, которые помогут прокачаться в бизнесе и медиа"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Templates/_templates/Post.md",
+                "file": "5. Daily/30.06.2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Post"
+              "title": "Outline of 30.06.2025"
             }
           },
           {
@@ -200,14 +199,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7fdeaefd4752c70e",
+  "active": "dd80489259ea2b46",
   "lastOpenFiles": [
-    "@Templates/_templates/Main Temlate.md",
+    "4. Resources/Саморазвитие/10 книг, которые помогут прокачаться в бизнесе и медиа.md",
+    "1. Inbox/h507114449_2v.md",
     "@Templates/_templates/Post.md",
+    "@Templates/_templates/Main Temlate.md",
     "@Templates/_templates/Note.md",
     "@Templates/_templates/Daily.md",
     "4. Resources/WE.DESGN/Шаблоны/Дизайн чеклист.md",
-    "1. Inbox/h507114449_2v.md",
     "1. Inbox/Untitled Kanban.md",
     "1. Inbox/Untitled 2.md",
     "1. Inbox/Untitled 1.md",
@@ -228,7 +228,6 @@
     "1. Inbox/ПРо блок.md",
     "1. Inbox/Привет как дела.md",
     "1. Inbox/Полезные привычки.md",
-    "📋 Задачи (Kanban).md",
     "3. Areas/Личное",
     "4. Resources/WE.DESGN/Шаблоны",
     "4. Resources/WE.DESGN",

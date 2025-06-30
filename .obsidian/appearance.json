@@ -1,12 +1,12 @@
 {
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "accentColor": "",
-  "interfaceFontFamily": "Inter,Cascadia Code",
+  "interfaceFontFamily": "FiraCode Nerd Font",
   "monospaceFontFamily": "FiraCode Nerd Font,Cascadia Mono",
   "nativeMenus": true,
   "textFontFamily": "Consolas,Cascadia Code",
   "baseFontSizeAction": true,
-  "baseFontSize": 22,
+  "baseFontSize": 16,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "style"
