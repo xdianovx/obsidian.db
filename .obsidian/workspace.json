@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Templates/_templates/Daily.md",
+                "file": "5. Daily/2025/2025-07-01.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "2025-07-01.md"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Templates/_templates/Daily.md",
+                "file": "5. Daily/2025/2025-07-01.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily"
+              "title": "Outline of 2025-07-01.md"
             }
           },
           {
@@ -184,10 +184,11 @@
   },
   "active": "3ab9c981e3ee2601",
   "lastOpenFiles": [
-    "1. Inbox/фждлфывжа.md",
     "@Templates/_templates/Daily.md",
-    "тесторываываыв аы.md",
     "5. Daily/2025/2025-07-01.md.md",
+    "5. Daily/Weekly",
+    "1. Inbox/фждлфывжа.md",
+    "тесторываываыв аы.md",
     "skdjhkfskdjfh.md",
     "Untitled 2.md",
     "Untitled 3.md",
@@ -210,7 +211,6 @@
     "Excalidraw/Drawing 2025-06-21 08.36.56.excalidraw.md",
     "5. Daily/2025/June/22.06.2025.md",
     "1. Inbox/Untitled 1.md",
-    "ТЗ Турецкие сериалы.md",
     "Untitled",
     "5. Daily/2025/June",
     "5. Daily/2025/май",
@@ -228,8 +228,7 @@
     "5. Daily/2025/февраль",
     "3. Areas/Бизнес/Студия/Созвоны",
     "2. Projects/KOMETA/Мальков",
-    "5. Archives/Books",
-    "2. Projects/KOMETA/SMM",
+    "6. Archives/Books",
     "Untitled.canvas"
   ]
 }
