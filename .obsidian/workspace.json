@@ -30,22 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📋 Задачи (Kanban).md",
+                "file": "1. Inbox/Дизайн чеклист.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📋 Задачи (Kanban)"
+              "title": "Дизайн чеклист"
             }
           }
         ],
@@ -168,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 Задачи (Kanban).md",
+                "file": "1. Inbox/Дизайн чеклист.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📋 Задачи (Kanban)"
+              "title": "Outline of Дизайн чеклист"
             }
           },
           {
@@ -212,9 +203,10 @@
   "active": "279e91fac8196b75",
   "lastOpenFiles": [
     "5. Daily/30.06.2025.md",
-    "1. Inbox/Untitled Kanban.md",
-    "📋 Задачи (Kanban).md",
     "1. Inbox/Дизайн чеклист.md",
+    "📋 Задачи (Kanban).md",
+    "📋 Задачи (Kanban).md",
+    "1. Inbox/Untitled Kanban.md",
     "1. Inbox/Досрать по сайту.md",
     "1. Inbox/Блог на vc.ru.md",
     "1. Inbox/Без названия 12.md",
@@ -238,7 +230,6 @@
     "1. Inbox/Бады и питание, что бы пережить абстинентный синдром.md",
     "Что делать с заметкой.md",
     "readme.md",
-    "4. Resources/Саморазвитие/10 книг, которые помогут прокачаться в бизнесе и медиа.md",
     "4. Resources/Саморазвитие",
     "4. Resources/Са.canvas",
     "5. Daily/Weekly",
