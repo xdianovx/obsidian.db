@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "279e91fac8196b75",
+            "id": "7b9d356528c34bcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Inbox/Регламент о том как я собирал инфу о наших конкурентах.md",
-                "mode": "source",
+                "file": "@Templates/_templates/Note.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Регламент о том как я собирал инфу о наших конкурентах"
+              "title": "Note"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Inbox/Регламент о том как я собирал инфу о наших конкурентах.md",
+                "file": "@Templates/_templates/Note.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Регламент о том как я собирал инфу о наших конкурентах"
+              "title": "Outline of Note"
             }
           },
           {
@@ -200,9 +200,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "279e91fac8196b75",
+  "active": "7b9d356528c34bcc",
   "lastOpenFiles": [
+    "@Templates/_templates/Post.md",
     "@Templates/_templates/Note.md",
+    "1. Inbox/Регламент о том как я собирал инфу о наших конкурентахЗщые.md",
+    "5. Daily/30.06.2025.md",
     "4. Resources/WE.DESGN/Шаблоны/Дизайн чеклист.md",
     "@Templates/_templates/Daily.md",
     "4. Resources/WE.DESGN/Шаблоны/Регламент Верстка.md",
@@ -213,7 +216,6 @@
     "3. Areas/Личное/Данные.md",
     "1. Inbox/НУжен файл минимальных требований к верстке.md",
     "1. Inbox/Мой ИНН Самозанятый.md",
-    "5. Daily/30.06.2025.md",
     "3. Areas/Личное",
     "1. Inbox/Досрать по сайту.md",
     "4. Resources/WE.DESGN/Шаблоны",
@@ -231,8 +233,6 @@
     "1. Inbox/Без названия 6.md",
     "1. Inbox/Без названия 5.md",
     "1. Inbox/Без названия 4.md",
-    "1. Inbox/Без названия 3.md",
-    "1. Inbox/Без названия 2.md",
     "4. Resources/Саморазвитие",
     "4. Resources/Са.canvas",
     "5. Daily/Weekly",
