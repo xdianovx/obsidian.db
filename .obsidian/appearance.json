@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Sodalite",
   "accentColor": "",
   "interfaceFontFamily": "Inter",
-  "monospaceFontFamily": "FiraCode Nerd Font,Cascadia Mono",
+  "monospaceFontFamily": "FiraCode Nerd Font",
   "nativeMenus": true,
-  "textFontFamily": "Consolas,Cascadia Code",
+  "textFontFamily": "Inter",
   "baseFontSizeAction": true,
   "baseFontSize": 16,
   "theme": "obsidian",
