@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fdeaefd4752c70e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Daily/30.06.2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "30.06.2025"
-            }
-          },
-          {
             "id": "971f577890d44af3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Inbox/План питания и готовка на 2 недели.md",
-                "mode": "preview",
+                "file": "5. Daily/2025/July/13-07-2025.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "План питания и готовка на 2 недели"
+              "title": "13-07-2025"
+            }
+          },
+          {
+            "id": "27e6c037886fac36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Inbox/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Inbox/Режим дня (стремиться).md",
+                "file": "1. Inbox/Untitled.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Режим дня (стремиться)"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -228,15 +228,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2878c8e888b93951",
+  "active": "27e6c037886fac36",
   "lastOpenFiles": [
+    "5. Daily/2025/July/13-07-2025.md",
+    "1. Inbox/Untitled.md",
+    "1. Inbox/План питания и готовка на 2 недели.md",
+    "5. Daily/2025/July",
+    "5. Daily/30.06.2025.md",
+    "1. Inbox/Режим дня (стремиться).md",
     "1. Inbox/Утрення размика + упражнения на осанку.md",
     "1. Inbox/оля любит цветы.md",
     "1. Inbox/Книги для дизайнера.md",
-    "1. Inbox/Режим дня (стремиться).md",
-    "1. Inbox/План питания и готовка на 2 недели.md",
     "@Templates/_templates/Daily.md",
-    "5. Daily/30.06.2025.md",
     "@Templates/_templates/Note.md",
     "1. Inbox/Правки.md",
     "1. Inbox/Добавить в договор пункт, который будет разрешать нам оставлять метку что это мы сделали сайт.md",
@@ -262,10 +265,7 @@
     "3. Areas/Саморазвитие/Obsidian/Obsidian.md",
     "3. Areas/Саморазвитие/Obsidian/Статусы заметок.md",
     "3. Areas/Саморазвитие/Obsidian/Плагин Media Note для 💜 Obsidian. Анонс статьи про дизайн-системы..md",
-    "4. Resources/_index.md",
-    "1. Inbox/h507114449_2v.md",
     "4. Resources/WE.DESGN/Статьи",
-    "3. Areas/Личное",
     "4. Resources/Са.canvas",
     "@Templates/_files/Pasted image 20250424204814.png",
     "@Templates/_files/Pasted image 20250417191832.png",
