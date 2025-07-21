@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Daily/21.07.2025.md",
+                "file": "4. Resources/WE.DESGN/Тексты.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "21.07.2025"
+              "title": "Тексты"
             }
           }
         ],
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Daily/21.07.2025.md",
+                "file": "4. Resources/WE.DESGN/Тексты.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 21.07.2025"
+              "title": "Outline of Тексты"
             }
           },
           {
@@ -202,8 +202,9 @@
   },
   "active": "dcf059eb5a5ad644",
   "lastOpenFiles": [
-    "1. Inbox/Cursor.md",
     "5. Daily/21.07.2025.md",
+    "4. Resources/WE.DESGN/Тексты.md",
+    "1. Inbox/Cursor.md",
     "5. Daily/17.07.2025.md",
     "1. Inbox/Телега ключи.md",
     "5. Daily/14.07.2025.md",
@@ -234,7 +235,6 @@
     "3. Areas/Маркетинг/Контент/Книги",
     "3. Areas/Маркетинг/Реклама/Креативы конкурентов.md",
     "3. Areas/Маркетинг/Маркетинг.md",
-    "3. Areas/Маркетинг/_index.md",
     "3. Areas/Маркетинг/Кейсы",
     "3. Areas/Маркетинг/Аналитика",
     "3. Areas/Маркетинг/Контент",
