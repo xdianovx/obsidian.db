@@ -10,4 +10,6 @@
 2. ❌ 6000 -> 11280 (Tyloo x Compl TM Antient) Китайцы пиво
 ---
 1. ✅ 3000 ->  9000 (Победа z10 ~3.00)
-2. 3000 -> 7800 (Cpmlexity x Tyloo) 
+2. ❌ 3000 -> 7800 (Cpmlexity x Tyloo) 
+---
+
