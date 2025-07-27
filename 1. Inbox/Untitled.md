@@ -54,4 +54,4 @@
 ✅ 1.58 | VP x AVULUS TB42.5 | 1453р
 ✅ 2.20 | VP x AVULUS TB42.5 | 2200р
 ❌ 1.90 | AVULUS Map 3 | 1654р
-1.90 | Heroic +5.5 Map 1 | 1654р
+✅ 1.92 | Heroic +5.5 Map 1 | 1920р
