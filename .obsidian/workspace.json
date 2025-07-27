@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Inbox/LuxeBags текст для кейса.md",
+                "file": "1. Inbox/Untitled.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LuxeBags текст для кейса"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -230,7 +230,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2ae543b9330345e",
+  "active": "b9ee0ff910e3c421",
   "lastOpenFiles": [
     "1. Inbox/LuxeBags текст для кейса.md",
     "1. Inbox/Untitled.md",

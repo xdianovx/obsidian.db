@@ -49,5 +49,8 @@
 2. ❌ 396 -> 851 | VP x Runa | TM70.5 Map 2
 3. ❌ 300 -> 600 | Astralis Dust2 | +3.5 FH Map 2 (3:9)
 4. 
+---
 
-Банк 200
+1. 920 -> 1453 | VP x AVULUS TB42.5
+2. 
+   
