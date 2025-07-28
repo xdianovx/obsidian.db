@@ -64,5 +64,5 @@
 ✅ 1.80 | BB x Yandex map2 TB49.5 | +5660р
 ✅ 3.30 | BB Map 2 | +2300р
 ✅ 1.95 | PV x XG Map 3 TM38 | +2518
-1.68 | Navi Map 1 | 
+❌ 1.68 | Navi Map 1 | 
 
