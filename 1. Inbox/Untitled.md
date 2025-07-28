@@ -66,5 +66,5 @@
 ✅ 1.95 | PV x XG Map 3 TM38 | +2518
 ❌ 1.68 | Navi Map 1 | -3183р
 ✅ 2.50 | Navi Map 2 FH | +7500р
-2.00 | Mouz Map 2 FH | 
+✅ 2.00 | Mouz Map 2 FH | +2500р
 
