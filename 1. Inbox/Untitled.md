@@ -84,6 +84,8 @@
 Банк 2040
 
 ✅ 1.83 | Basket TB | +830
-3.40 | GG x Tidebound | -1000
-2.80 | GG x Tidebound TB42.5 | -830
+❌ 3.40 | GG x Tidebound | -1000
+❌ 2.80 | GG x Tidebound TB42.5 | -830
 ✅ 1.83 | Basket TB | +830
+
+2830
