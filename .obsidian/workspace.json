@@ -37,8 +37,7 @@
               "title": "Референсы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Projects/WE.DSGN/SITE/Референсы.md",
+                "file": "2. Projects/WE.DSGN/SITE/WEDSGN Сайт.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Референсы"
+              "title": "Outline of WEDSGN Сайт"
             }
           },
           {
@@ -200,10 +199,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2ae543b9330345e",
+  "active": "b9ee0ff910e3c421",
   "lastOpenFiles": [
-    "2. Projects/WE.DSGN/SITE/WEDSGN Сайт.md",
     "2. Projects/WE.DSGN/SITE/Референсы.md",
+    "2. Projects/WE.DSGN/SITE/WEDSGN Сайт.md",
     "2. Projects/WE.DSGN/SITE/Untitled.md",
     "1. Inbox/Untitled.md",
     "1. Inbox/LuxeBags текст для кейса.md",
