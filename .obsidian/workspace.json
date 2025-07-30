@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "269841c4e6859049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Daily/21.07.2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "21.07.2025"
-            }
-          },
-          {
             "id": "dcf059eb5a5ad644",
             "type": "leaf",
             "state": {
@@ -58,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Inbox/LuxeBags текст для кейса.md",
+                "file": "2. Projects/WE.DSGN/SITE/Разработка сайта.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "LuxeBags текст для кейса"
+              "title": "Разработка сайта"
             }
           }
         ],
@@ -189,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Inbox/Untitled.md",
+                "file": "2. Projects/WE.DSGN/SITE/Разработка сайта.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Разработка сайта"
             }
           },
           {
@@ -230,13 +215,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b9ee0ff910e3c421",
+  "active": "b2ae543b9330345e",
   "lastOpenFiles": [
     "1. Inbox/LuxeBags текст для кейса.md",
-    "1. Inbox/Untitled.md",
+    "2. Projects/WE.DSGN/SITE/Разработка сайта.md",
+    "2. Projects/WE.DSGN/SITE",
     "4. Resources/WE.DESGN/Тексты.md",
-    "1. Inbox/Untitled 1.md",
     "5. Daily/21.07.2025.md",
+    "1. Inbox/Untitled.md",
+    "1. Inbox/Untitled 1.md",
     "1. Inbox/Cursor.md",
     "5. Daily/17.07.2025.md",
     "1. Inbox/Телега ключи.md",
@@ -260,14 +247,12 @@
     "@Templates/_templates/weekly.md",
     "5. Daily/Weekly/Untitled.md",
     "3. Areas/Маркетинг/Курсы/Яндекс/Untitled/Основы диджитал-рекламы.md",
-    "3. Areas/Маркетинг/Курсы/Яндекс/Untitled/Яндекс про Директ основы.md",
     "3. Areas/Маркетинг/Курсы/Яндекс/Untitled",
     "3. Areas/Маркетинг/Курсы/Яндекс",
     "3. Areas/Маркетинг/Курсы",
     "3. Areas/Маркетинг/Контент/Книги",
     "3. Areas/Маркетинг/Кейсы",
     "3. Areas/Маркетинг/Аналитика",
-    "3. Areas/Маркетинг/Контент",
     "4. Resources/Са.canvas",
     "@Templates/_files/Pasted image 20250424204814.png",
     "@Templates/_files/Pasted image 20250417191832.png",
