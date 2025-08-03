@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Inbox/Untitled 3.md",
+                "file": "5. Daily/2025/August/03-08-2025.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 3"
+              "title": "Outline of 03-08-2025"
             }
           },
           {
@@ -230,13 +230,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f45de8d2654385f0",
+  "active": "b2ae543b9330345e",
   "lastOpenFiles": [
-    "5. Daily/2025/August/03-08-2025.md",
+    "2. Projects/WE.DSGN/SITE/WEDSGN Сайт.md",
     "1. Inbox/Untitled 3.md",
+    "5. Daily/2025/August/03-08-2025.md",
     "2. Projects/WE.DSGN/SITE/Референсы.md",
     "5. Daily/2025/August",
-    "2. Projects/WE.DSGN/SITE/WEDSGN Сайт.md",
     "1. Inbox/Срань.md",
     "1. Inbox/Untitled 2.md",
     "2. Projects/WE.DSGN/SITE/Untitled.md",
