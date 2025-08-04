@@ -1,14 +1,15 @@
 {
-  "cssTheme": "Dracula Official",
+  "cssTheme": "Catppuccin",
   "accentColor": "#a987f7",
-  "interfaceFontFamily": "Inter,Source Code Pro",
-  "monospaceFontFamily": "FiraCode Nerd Font,Source Code Pro",
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Source Code Pro",
   "nativeMenus": true,
-  "textFontFamily": "Source Code Pro",
+  "textFontFamily": "Inter",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "style"
-  ]
+  ],
+  "translucency": true
 }
